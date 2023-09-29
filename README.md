@@ -1,0 +1,2 @@
+# BNC_COCA_EN2CN
+COCA25000+中英文词汇库
