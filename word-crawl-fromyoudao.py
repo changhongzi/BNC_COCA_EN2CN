@@ -91,11 +91,12 @@ def word_explanation(cdata):
 
         us_phone = data['ec']['word'].get('usphone', '') if 'ec' in data and 'word' in data['ec'] else ''
         uk_phone = data['ec']['word'].get('ukphone', '') if 'ec' in data and 'word' in data['ec'] else ''
-
-        translations = [tr['tran'] for tr in data['ec']['word']['trs']] if 'ec' in data and 'word' in data['ec'] and 'trs' in data['ec']['word'] else []
+        examType = data['ec']['exam_type'] if 'ec' in data and 'exam_type' in data['ec'] else []
+        translations = [tr.get('pos', '') + tr['tran'] for tr in data['ec']['word']['trs']] if 'ec' in data and 'word' in data['ec'] and 'trs' in data['ec']['word'] else []
         phrs = [{'headword': phr['headword'], 'translation': phr['translation']} for phr in data['phrs']['phrs']] if 'phrs' in data and 'phrs' in data['phrs'] else []
+        if phrs == []:
+            phrs = [{'headword': trans['key'], 'key-speech': trans['key-speech'], 'translation': ', '.join([t['value'] for t in trans['trans']])} for trans in data['web_trans']['web-translation']] if 'web_trans' in data and 'web-translation' in data['web_trans'] else []
         sentences = [{'sentence': sp['sentence'], 'translation': sp['sentence-translation']} for sp in data['blng_sents_part']['sentence-pair']] if 'blng_sents_part' in data and 'sentence-pair' in data['blng_sents_part'] else []
-
 
         return {
             'word': word,
@@ -104,6 +105,7 @@ def word_explanation(cdata):
             'list':list,
             'usPhone': us_phone,
             'ukPhone': uk_phone,
+            'examType':examType,
             'translations': translations,
             'phrs': phrs,
             'sentences': sentences
