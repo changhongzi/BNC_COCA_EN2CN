@@ -3,6 +3,10 @@ import csv
 import time
 import json
 import os
+import sys
+import traceback
+import hashlib
+
 
 
 # 解析coca文件
@@ -43,34 +47,48 @@ def single_word_bnccoca(file_path,word):
     return {}
 
 
+# 计算MD5值
+def calculateMD5(string):
+    md5Hash = hashlib.md5()
+    md5Hash.update(string.encode('utf-8'))
+    return md5Hash.hexdigest()
+
+
+# 计算单词的Sign值，参考代码https://shared.ydstatic.com/market/souti/web_dict/online/2.8.1/dist/client/85907ae.js（搜索https://dict.youdao.com/jsonapi_s?doctype=json&jsonversion=4）
+def calYouDictSignValue(word):
+    w = word
+    v = "webdict"
+    r = "".join([w, v])
+    o = calculateMD5(r)
+    time = len("".join([w, v])) % 10
+    n = "".join(["web", w, str(time), "Mk6hqtUp33DGGtoS63tTJbMUYjRrG1Lu", o])
+    string = n
+    md5Value = calculateMD5(string)
+    return (md5Value,time)
+
+
 # 查询有道词典单词释义
-def word_explanation(data):
-    word = data['Word']
-    headword = data['Headword']
-    frequency= data['frequency']
-    list =  data['List']
+def word_explanation(cdata):
+    word = cdata['Word']
+    headword = cdata['Headword']
+    frequency= cdata['frequency']
+    list =  cdata['List']
 
+    (sign,t)=calYouDictSignValue(word)
 
+    url = f'https://dict.youdao.com/jsonapi_s?doctype=json&jsonversion=4&le=en&t={t}&client=web&sign={sign}&keyfrom=webdict&q={word}'
+    print(url)
 
-    url = 'https://dict.youdao.com/jsonapi_s'
     headers = {
     }
     params = {
-        'doctype': 'json',
-        'jsonversion': 4,
-        'q': word,
-        'le': 'en',
-        't': 6,
-        'client': 'web',
-        'sign': 'aba9d04a3a92d29f9db12998535dd555',
-        'keyfrom': 'webdict'
     }
 
+    response = None
     try:
         response = requests.get(url, headers=headers, params=params)
         data = response.json()
 
-        word_prototype = data['ec']['word'].get('prototype', word) if 'ec' in data and 'word' in data['ec'] else word
         us_phone = data['ec']['word'].get('usphone', '') if 'ec' in data and 'word' in data['ec'] else ''
         uk_phone = data['ec']['word'].get('ukphone', '') if 'ec' in data and 'word' in data['ec'] else ''
 
@@ -92,8 +110,9 @@ def word_explanation(data):
         }
 
     except Exception as e:
-        print("发生错误:", str(e))
-        append_text_to_file('error-words.txt',word)
+        print("发生错误:", e,url)
+        traceback.print_exc()
+        append_text_to_file('error-words.txt',f"word:{word},url:{url}")
         return None
 
 
@@ -149,4 +168,16 @@ def main():
             write_text_to_file(dict_path,jsonData);
             # time.sleep(1/10) 
 
-main()
+
+
+if len(sys.argv) > 1:
+    w=sys.argv[1]
+    print(w)
+    file_path = 'BNC_COCA_lists.csv' 
+    data=single_word_bnccoca(file_path,w)
+    dict_path=f"data/{data['Word']}.json"
+    result = word_explanation(data)
+    jsonData=json.dumps(result, ensure_ascii=False)
+    write_text_to_file(dict_path,jsonData);
+else:
+    main()
