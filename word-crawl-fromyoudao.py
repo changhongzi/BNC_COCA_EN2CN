@@ -171,15 +171,15 @@ def main():
             # time.sleep(1/10) 
 
 
-
-if len(sys.argv) > 1:
-    w=sys.argv[1]
-    print(w)
-    file_path = 'BNC_COCA_lists.csv' 
-    data=single_word_bnccoca(file_path,w)
-    dict_path=f"data/{data['Word']}.json"
-    result = word_explanation(data)
-    jsonData=json.dumps(result, ensure_ascii=False)
-    write_text_to_file(dict_path,jsonData);
-else:
-    main()
+if __name__ == "__main__":
+    if len(sys.argv) > 1:
+        w=sys.argv[1]
+        print(w)
+        file_path = 'BNC_COCA_lists.csv' 
+        data=single_word_bnccoca(file_path,w)
+        dict_path=f"data/{data['Word']}.json"
+        result = word_explanation(data)
+        jsonData=json.dumps(result, ensure_ascii=False)
+        write_text_to_file(dict_path,jsonData);
+    else:
+        main()
