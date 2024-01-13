@@ -1,0 +1,16 @@
+{
+  "word": "forum",
+  "pronunciation": {
+    "American": "/ˈfɔrəm/",
+    "British": "/ˈfɔːrəm/"
+  },
+  "definition": "n. (公开讨论的)场所；论坛；会场",
+  "explanation": "Forum是一个拉丁语词，源自古罗马城市的市政议事会场。今天它通常表示一个用于公开讨论或交流观点的场所，比如网络论坛、学术研讨会等。",
+  "mnemonic_methods": {
+    "pronunciation_association": "Forum的发音类似于“for rum”（为朗姆酒），可以联想到在rum酒吧里进行讨论和交流。",
+    "etymology": "Forum源自拉丁语，最初指古罗马城市的市政议事会场，后来演变为表示公开讨论的场所。"
+  },
+  "example_sentences": [
+    "我们需要一个开放的forum来讨论这个重要议题。 | We need an open forum to discuss this important issue."
+  ]
+}

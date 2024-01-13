@@ -1,0 +1,16 @@
+{
+  "word": "parasite",
+  "pronunciation": {
+    "American": "/ˈpærəsaɪt/",
+    "British": "/ˈpærəsaɪt/"
+  },
+  "definition": "n. 寄生虫；寄生物；食客；寄生植物",
+  "explanation": "parasite是指一种生物，它靠侵害其他生物来获取营养。可以比喻为一种人，过着靠别人或社会给予而不劳而获的生活。",
+  "mnemonic_methods": {
+    "pronunciation_association": "parasite的发音中有paras（帕拉斯），可以联想到寄生物寄生在它人身上。",
+    "etymology": "parasite一词源自古希腊语parasitos，意为“饭客，客人”，paras-意为“旁边”，-sitos意为“吃饭”。在古希腊，parasitos指的是寄生在别人饭桌上的人。"
+  },
+  "example_sentences": [
+    "他是一个社会的parasite，从未为他人付出过。| He is a parasite in society and has never contributed to others."
+  ]
+}

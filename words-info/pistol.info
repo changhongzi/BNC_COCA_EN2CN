@@ -1,0 +1,16 @@
+{
+  "word": "Pistol",
+  "pronunciation": {
+    "American": "/ˈpɪstəl/",
+    "British": "/ˈpɪstəl/"
+  },
+  "definition": "n.手枪",
+  "explanation": "Pistol是指一种手持火器，可以通过扳机来发射子弹。",
+  "mnemonic_methods": {
+    "pronunciation_association": "Pistol的发音与pistol（匹斯托）相似，可以联想为一种持枪动作",
+    "etymology": "Pistol一词最早源自意大利语pistolese，意为“持枪者”，后来演变为英语中的pistol"
+  },
+  "example_sentences": [
+    "他们参加了射击比赛，使用了各种不同类型的pistol。|They took part in a shooting competition, using various types of pistols."
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "word": "result",
+  "pronunciation": {
+    "American": "/rɪˈzʌlt/",
+    "British": "/rɪˈzʌlt/"
+  },
+  "definition": "n. 结果；成果；后果；vi. 产生；发生；由...而造成",
+  "explanation": "result是一个常见的名词和动词。作为名词，它表示一个事件或行为的产物。作为动词，它表示导致某种情况或事件的发生。",
+  "mnemonic_methods": {
+    "pronunciation_association": "result的发音中的'res'让我联想到'result'与'response'的关系，结果（result）是对某种情况或事件的回应（response）。",
+    "etymology": "该词源自拉丁语的resultare，意为'反弹，弹回'，如同事件发生后的反应与结果"
+  },
+  "example_sentences": [
+    "努力工作终将会带来好result。|努力工作终将会带来好result。(Hard work will eventually bring good results.)"
+  ]
+}

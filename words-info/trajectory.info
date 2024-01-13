@@ -1,0 +1,16 @@
+{
+  "word": "trajectory",
+  "pronunciation": {
+    "American": "/trəˈdʒɛktəri/",
+    "British": "/trəˈdʒɛktəri/"
+  },
+  "definition": "n.轨迹；（发展、变革等）方向，趋势",
+  "explanation": "trajectory是指物体运动或发展的轨迹或趋势。",
+  "mnemonic_methods": {
+    "pronunciation_association": "Trajectory的发音中包含了track（轨道）这个词，可以帮助记忆其含义。",
+    "etymology": "trajectory源自拉丁语 trajectoria，意为“投射的轨道”。"
+  },
+  "example_sentences": [
+    "这项政策将改变公司未来的trajectory。|This policy will change the trajectory of the company's future."
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "word": "proportion",
+  "pronunciation": {
+    "American": "/prəˈpɔrʃən/",
+    "British": "/prəˈpɔːʃən/"
+  },
+  "definition": "n. 比例；部分；面积；均衡；合适；相称",
+  "explanation": "Proportion是一个名词，表示两个量之间的关系、大小或部分。在中文中，proportion可以用来描述东西之间的比例或相对应的部分。",
+  "mnemonic_methods": {
+    "pronunciation_association": "Proportion的发音中的pro-可以联想到professional（专业的），而portion则可以联想到部分。所以，proportion可以理解为两部分之间的专业比例关系。",
+    "etymology": "Proportion源自拉丁语proportio，pro-意为“向前”或“更加”，portion意为“一部分”。可从字面理解为更加合适或相称的部分。"
+  },
+  "example_sentences": [
+    "在这个模型中，长度和宽度的proportion需要保持一致。|In this model, the proportion of length and width needs to be consistent."
+  ]
+}

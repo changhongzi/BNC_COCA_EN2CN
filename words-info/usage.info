@@ -1,0 +1,16 @@
+{
+  "word": "Usage",
+  "pronunciation": {
+    "American": "/ˈjuːzɪdʒ/",
+    "British": "/ˈjuːsɪdʒ/"
+  },
+  "definition": "n. 使用；用法；惯例",
+  "explanation": "Usage代表某个词语或短语在语言中的使用方法或惯例。它也可以表示物品的使用方式或者行为方式。",
+  "mnemonic_methods": {
+    "pronunciation_association": "你可以将Usage的发音和英文单词'use'联系起来，'use'指使用，而'usage'即使用方法或惯例。",
+    "etymology": "Usage源自法语词汇，意为‘使用’。"
+  },
+  "example_sentences": [
+    "这种工具的正确usage需要一定的指导。 | Proper usage of this tool requires some guidance."
+  ]
+}

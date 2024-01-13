@@ -1,0 +1,16 @@
+{
+  "word": "knight",
+  "pronunciation": {
+    "American": "/naɪt/",
+    "British": "/naɪt/"
+  },
+  "definition": "n. 骑士；（国际象棋中的）马；爵士",
+  "explanation": "knight 是一个名词，通常指中世纪的骑士、国际象棋中的马或被封为爵士的人。",
+  "mnemonic_methods": {
+    "pronunciation_association": "knight 的发音中包含 'night' 这个词，而中世纪的骑士通常在夜晚进行冒险和保护，所以可以通过 'night' 联想到 'knight'。",
+    "etymology": "knight 这个词源自中古英语 'kniht'，最初意味着 '少年、仆人'，后来演变为 '骑士' 的含义。"
+  },
+  "example_sentences": [
+    "他被封为爵士，成为了一名 kight。|He was knighted and became a knight."
+  ]
+}

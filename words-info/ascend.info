@@ -1,0 +1,16 @@
+{
+  "word": "Ascend",
+  "pronunciation": {
+    "American": " /əˈsɛnd/",
+    "British": " /əˈsend/"
+  },
+  "definition": "v. 上升，攀登；提升，晋升",
+  "explanation": "Ascend是一个动词，意思是向上移动或提升，尤其是在攀登或晋升的情境中。",
+  "mnemonic_methods": {
+    "pronunciation_association": "Ascend的发音中包含'send'，可以联想为朝着上方发送自己。",
+    "etymology": "Ascend源自拉丁语'ascendere'，由'ad'（向）+ 'scandere'（爬升）构成，引申为向上爬升的意思。"
+  },
+  "example_sentences": [
+    "当他们晋级时，他们的声誉也随之ascend。 | As they ascend to a higher level, their reputation also ascends."
+  ]
+}

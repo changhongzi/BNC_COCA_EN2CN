@@ -1,0 +1,16 @@
+{
+  "word": "trio",
+  "pronunciation": {
+    "American": "/ˈtriˌoʊ/",
+    "British": "/ˈtriˌəʊ/"
+  },
+  "definition": "n. 三重奏；三重唱；三人一组",
+  "explanation": "Trio是一个音乐术语，通常指三个人的乐团或三重唱团。在日常用语中，也可以用来描述三人一组的情况。",
+  "mnemonic_methods": {
+    "pronunciation_association": "Trio的发音类似于'tree-oh'，可以将这个音律与三个音符的旋律联系起来。",
+    "etymology": "Trio源自意大利语，意为“三”，最早用于音乐领域，指的是由三位演奏者或歌手组成的乐团或合唱团。"
+  },
+  "example_sentences": [
+    "他们三个人一起组成了一个默契的trio，完成了这项任务。|The three of them formed a cohesive trio and completed the task."
+  ]
+}

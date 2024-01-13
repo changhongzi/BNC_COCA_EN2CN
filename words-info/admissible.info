@@ -1,0 +1,16 @@
+{
+  "word": "admissible",
+  "pronunciation": {
+    "American": "/ədˈmɪsəbl/",
+    "British": "/ədˈmɪsəbl/"
+  },
+  "definition": "adj. 可容许的；可承认的",
+  "explanation": "admissible是一个形容词，意思是“可容许的”或“可承认的”。",
+  "mnemonic_methods": {
+    "pronunciation_association": "可以联想为'admit（允许进入）' + 'able（能够）'，表示可以被允许或认可的。",
+    "etymology": "来自admit（承认，准许）+ -ible（能够...的），表示能够被承认或准许的。"
+  },
+  "example_sentences": [
+    "在讨论中，只有逻辑上合理的论据是admissible的。 | Only arguments that are logically sound are admissible in the discussion."
+  ]
+}

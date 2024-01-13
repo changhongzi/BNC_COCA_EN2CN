@@ -1,0 +1,16 @@
+{
+  "word": "municipal",
+  "pronunciation": {
+    "American": "/mjuːˈnɪsəpl/",
+    "British": "/mjuːˈnɪsɪpl/"
+  },
+  "definition": "adj. 市的；市政的",
+  "explanation": "municipal是形容词，用来描述与市政有关的事物，包括城市的、市政的。",
+  "mnemonic_methods": {
+    "pronunciation_association": "municipal的发音中包含“muni”类似于“municipality”，这可以帮助联想到它与城市或市政有关。",
+    "etymology": "municipal源自拉丁语“municeps”，意为“市民”。"
+  },
+  "example_sentences": [
+    "最近市政府实施了一项新的municipal政策，以改善城市交通状况。| Recently, the municipal government has implemented a new municipal policy to improve urban traffic."
+  ]
+}

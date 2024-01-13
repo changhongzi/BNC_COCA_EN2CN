@@ -1,0 +1,16 @@
+{
+  "word": "gland",
+  "pronunciation": {
+    "American": "/ɡlænd/",
+    "British": "/ɡlænd/"
+  },
+  "definition": "n.（人或动物体内的）腺；（植物的）腺",
+  "explanation": "腺是一种能够分泌化学物质的器官，这些物质可能用于维持体内平衡或传达信息。",
+  "mnemonic_methods": {
+    "pronunciation_association": "可以联想单词 gland 中的gl发音和 glad中的gl发音，因为腺能够分泌物质，使人体内保持平衡，让人感到愉悦(glad)。",
+    "etymology": "单词 gland 源自于拉丁语 glandula，意为小腺体。"
+  },
+  "example_sentences": [
+    "这种植物的叶子上覆盖着很多细小的gland。|The leaves of this plant are covered with numerous small glands."
+  ]
+}

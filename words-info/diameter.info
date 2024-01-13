@@ -1,0 +1,16 @@
+{
+  "word": "diameter",
+  "pronunciation": {
+    "American": "/daɪˈæmɪtər/",
+    "British": "/daɪˈæmɪtə/"
+  },
+  "definition": "n. 直径",
+  "explanation": "diameter是指通过圆心并且两端在圆的边界上的线段，等于圆的直径的长。可以用来描述圆的大小。",
+  "mnemonic_methods": {
+    "pronunciation_association": "diameter的发音中有'meter'，可以联想到用仪器（meter）来测量圆的直径。",
+    "etymology": "该词源自希腊语 'diametros'，由'dia-'（通过）和 'metron'（测量）组合而成。"
+  },
+  "example_sentences": [
+    "根据公式πr^2，可以计算出圆的面积，其中r为半径，2r为直径。｜According to the formula πr^2, the area of a circle can be calculated, where r is the radius and 2r is the diameter."
+  ]
+}

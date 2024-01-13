@@ -1,0 +1,16 @@
+{
+  "word": "Rebound",
+  "pronunciation": {
+    "American": "/rɪˈbaʊnd/",
+    "British": "/rɪˈbaʊnd/"
+  },
+  "definition": "n. 弹回；回弹；重新振作；vt. 弹回；使重新振作；vi. 弹回；重新振作",
+  "explanation": "Rebound是一个既可以用作名词，也可以用作动词的词语。作为名词，它表示物体弹回的动作或者重新振作的状态。作为动词，它意味着物体反弹或者重新振作。",
+  "mnemonic_methods": {
+    "pronunciation_association": "Rebound的发音中包含了bound，bound是‘跳跃’的意思，而re前缀表示‘再次’，因此可以联想到rebound的意义是‘再次跳跃’或者‘再次弹回’。",
+    "etymology": "Rebound源自re-（再次） + bound（跳跃），可以理解为再次弹回、再次跳跃"
+  },
+  "example_sentences": [
+    "他在失恋后很快就rebound了，重新振作起来。 | He rebounded quickly after the heartbreak, and got back on track."
+  ]
+}

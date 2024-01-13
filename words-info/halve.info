@@ -1,0 +1,16 @@
+{
+  "word": "halve",
+  "pronunciation": {
+    "American": "/hæv/",
+    "British": "/hɑːv/"
+  },
+  "definition": "v. 将…减半；平分，分摊",
+  "explanation": "halve 是一个动词，意思是把某物减半或者平均分配。",
+  "mnemonic_methods": {
+    "pronunciation_association": "halve 的发音类似于 have（有），当你有一份食物，你可以选择 halve（减半）后分享给别人。",
+    "etymology": "这个词的词源来自于古英语的hālfe，意思是一半。"
+  },
+  "example_sentences": [
+    "为了公平起见，我们决定将费用平均分摊，也就是将其 halve。 | For fairness, we decided to halve the cost and split it equally."
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "word": "sufficient",
+  "pronunciation": {
+    "American": "/səˈfɪʃnt/",
+    "British": "/səˈfɪʃnt/"
+  },
+  "definition": "adj. 足够的，充足的",
+  "explanation": "sufficient是一个形容词，用来描述某物或某事物的数量或程度能够满足特定需求或目的。",
+  "mnemonic_methods": {
+    "pronunciation_association": "把sufficient分解成 suf-（足够） + -ficient（效果），这样有助于记忆它的含义",
+    "etymology": "该词源自拉丁词sufficiens，由sufficere（供给，够用）构成，suf-源自拉丁文sub-（下面），ficient源自facere（做）"
+  },
+  "example_sentences": [
+    "这个储备是绝对sufficient的，可以供应整个冬季。 | The reserve is absolutely sufficient to supply the entire winter."
+  ]
+}

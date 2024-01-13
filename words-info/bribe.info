@@ -1,0 +1,16 @@
+{
+  "word": "bribe",
+  "pronunciation": {
+    "American": "/braɪb/",
+    "British": "/braɪb/"
+  },
+  "definition": "n.贿赂；v.贿赂，收买",
+  "explanation": "比如'bribe'是一个动词和名词，表示用金钱、礼物等贿赂某人以获取不正当利益。",
+  "mnemonic_methods": {
+    "pronunciation_association": "bribe的发音和'贿赂'的发音很接近，这可以帮助记忆它的含义。",
+    "etymology": "这个词源自古法语bribare，意为'掠夺'，后来演变为'受贿赂'"
+  },
+  "example_sentences": [
+    "公司boss贿赂政府官员。|公司bossbribes政府官员。"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "word": "strategy",
+  "pronunciation": {
+    "American": "/ˈstræt̬.ə.dʒi/",
+    "British": "/ˈstræt.ə.dʒi/"
+  },
+  "definition": "n.策略;战略",
+  "explanation": "strategy指的是一项长期或全面的计划或行动的策略。这是为了达成某一目标或解决某一问题而采取的一系列计划或行动。",
+  "mnemonic_methods": {
+    "pronunciation_association": "可以将strategy的发音中的'tra'联想为'translate'（翻译），因为制定策略需要深谋远虑，有时需要翻译不同的信息和数据。",
+    "etymology": "strategy源自希腊语 'strategia'，原本指的是'将军的艺术'，后来扩展为指领导组织和实施军事或商业计划的能力。"
+  },
+  "example_sentences": [
+    "他们在战争中采用了一种巧妙的strategy，最终获得了胜利。| They employed a clever strategy in the war and eventually achieved victory."
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "word": "province",
+  "pronunciation": {
+    "American": "/ˈprɑvɪns/",
+    "British": "/ˈprɒvɪns/"
+  },
+  "definition": "n. 省；领域；职权；本分",
+  "explanation": "province是一个名词，指的是某个国家或地区的行政区划单位，类似中国的省。此外，它也可以指某个特定领域、范围或职权。",
+  "mnemonic_methods": {
+    "pronunciation_association": "province的发音中包含了单词'vince'，可以和'prawn'（对虾）联想，想象对虾来自一个特定的地理省份。",
+    "etymology": "这个词源自拉丁语'provincia'，最初指的是罗马帝国的行政区，后来演变成今天的意义。"
+  },
+  "example_sentences": [
+    "这个问题超出了我的专业province。| This issue is beyond my professional province."
+  ]
+}

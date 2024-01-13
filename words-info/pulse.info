@@ -1,0 +1,16 @@
+{
+  "word": "Pulse",
+  "pronunciation": {
+    "American": "/pʌls/",
+    "British": "/pʌls/"
+  },
+  "definition": "n.脉搏；脉冲；朝气；活力",
+  "explanation": "Pulse是一个名词，通常表示心跳或脉搏的波动。在扩展意义上，也可以表示涌动的力量、活力或朝气。",
+  "mnemonic_methods": {
+    "pronunciation_association": "Pulse的发音像pulsate（跳动、脉动），可以让你联想到脉搏的跳动或涌动的力量。",
+    "etymology": "Pulse源自拉丁语pulsus，意为跳动、敲击，形象地描述了心脏跳动的情景。"
+  },
+  "example_sentences": [
+    "这座城市充满了蓬勃的生命力和活力，处处都可以感受到它的pulse。 | This city is full of vibrant life and energy, you can feel its pulse everywhere."
+  ]
+}

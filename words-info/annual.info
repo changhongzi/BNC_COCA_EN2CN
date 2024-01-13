@@ -1,0 +1,16 @@
+{
+  "word": "annual",
+  "pronunciation": {
+    "American": "/ˈænjuəl/",
+    "British": "/ˈænjuəl/"
+  },
+  "definition": "adj. 每年的; 一年一次的; n. 一年生植物",
+  "explanation": "比如'annual'是一个形容词，表示每年发生一次或持续一年的事物，也可以指一年生植物。",
+  "mnemonic_methods": {
+    "pronunciation_association": "Annual的发音中有'new'，每年都有新的事物发生，这可以帮助你记忆它的意义。",
+    "etymology": " Annual来源于拉丁语annus，意为'每年'。"
+  },
+  "example_sentences": [
+    "这个植物是一种annual，它在一年内完成了整个生命周期。|This plant is an annual and completes its entire life cycle within one year."
+  ]
+}

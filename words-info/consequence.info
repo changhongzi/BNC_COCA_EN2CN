@@ -1,0 +1,16 @@
+{
+  "word": "consequence",
+  "pronunciation": {
+    "American": "/ˈkɑnsəˌkwɛns/",
+    "British": "/ˈkɒnsɪkwəns/"
+  },
+  "definition": "n. 结果；后果；重要性",
+  "explanation": "consequence 是一个名词，指某种行为或事件产生的结果，也可表示重要性。",
+  "mnemonic_methods": {
+    "pronunciation_association": "consequence的发音中有sequence，可以联想成事件的连续和结果之间的逻辑顺序。",
+    "etymology": "这个词源于拉丁语的consequi（跟随），指的是某事发生之后随之而来的结果。"
+  },
+  "example_sentences": [
+    "这个决定将对公司的未来产生重大consequence。 | This decision will have significant consequences for the company's future."
+  ]
+}

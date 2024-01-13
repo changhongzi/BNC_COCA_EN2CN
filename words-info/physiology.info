@@ -1,0 +1,16 @@
+{
+  "word": "physiology",
+  "pronunciation": {
+    "American": "/ˌfɪziˈɑlədʒi/",
+    "British": "/ˌfɪziˈɒlədʒi/"
+  },
+  "definition": "n.生理学",
+  "explanation": "physiology是生理学的意思，研究生物体的功能和机能。",
+  "mnemonic_methods": {
+    "pronunciation_association": "physiology的发音里包含了“fee-zi-aw-logy”，可以将这个词和“fee（费用）”以及“zi（自）”联系起来，联想到生物体的自然功能和机能需要付出一定的费用。",
+    "etymology": "physiology源自希腊语“physis”（自然）+“logia”（学科），指的是研究生物体的自然机能和功能的学科。"
+  },
+  "example_sentences": [
+    "Physiology是生命科学中非常重要的一门学科。|Physiology is a very important subject in life sciences."
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "word": "Sentinel",
+  "pronunciation": {
+    "American": "/ˈsɛntənl/",
+    "British": "/ˈsɛntɪnl/"
+  },
+  "definition": "n. 哨兵；步哨；尖兵",
+  "explanation": "Sentinel 是一个名词，通常指的是轮流放哨的人，或者是被派遣观察或监视的人。",
+  "mnemonic_methods": {
+    "pronunciation_association": "Sentinel 的发音中有 sent（发送）这个词根，可以联想到哨兵被派遣去观察或监视的场景。",
+    "etymology": "Sentinel 源自于中古法语 sentinelle，最初源自拉丁语 sentire（观察）"
+  },
+  "example_sentences": [
+    "这个岗哨的主要任务是充当山区的sentinel。 | The main task of this outpost is to serve as the sentinel for the mountainous area."
+  ]
+}

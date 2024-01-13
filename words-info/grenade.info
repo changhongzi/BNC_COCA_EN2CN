@@ -1,0 +1,16 @@
+{
+  "word": "grenade",
+  "pronunciation": {
+    "American": "/ɡrəˈneɪd/",
+    "British": "/ɡrəˈneɪd/"
+  },
+  "definition": "n.手榴弹",
+  "explanation": "grenade是一种手持投掷武器，多用于军事行动和战斗。手榴弹通常使用于战场上，能够爆炸并对周围区域或目标造成伤害。",
+  "mnemonic_methods": {
+    "pronunciation_association": "grenade的发音中包含了“格”和“雷”，这个发音本身就有一种爆炸的感觉，让你联想到手榴弹的爆炸。",
+    "etymology": "这个词源于法语，原意为‘石榴’，可能是因为手榴弹炸裂时的碎片飞溅像石榴籽一样。"
+  },
+  "example_sentences": [
+    "警察小组用威力强大的grenade控制了局势。| The police unit used powerful grenades to control the situation."
+  ]
+}

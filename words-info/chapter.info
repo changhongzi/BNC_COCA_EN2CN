@@ -1,0 +1,16 @@
+{
+  "word": "chapter",
+  "pronunciation": {
+    "American": "/ˈtʃæptər/",
+    "British": "/ˈtʃæptər/"
+  },
+  "definition": "n.章，节；重要的事件或经历",
+  "explanation": "Chapter 是一个名词，表示书籍、故事或历史中的一节或一章，也可以表示人生中的重要事件或经历。",
+  "mnemonic_methods": {
+    "pronunciation_association": "Chapter 的发音中有 'chat' 的音，而聊天往往涉及到故事、事件或重要经历的分享。",
+    "etymology": "Chapter 源自古法语 chapitre，最初指的是《圣经》中的一章或一节，后来扩展到书籍中的内容部分，引申表示重要事件或经历。"
+  },
+  "example_sentences": [
+    "他人生中的某个chapter改变了他的命运。|A particular chapter in his life changed his destiny."
+  ]
+}

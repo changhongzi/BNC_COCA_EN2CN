@@ -1,0 +1,16 @@
+{
+  "word": "applicable",
+  "pronunciation": {
+    "American": "/ˈæplɪkəbl/",
+    "British": "/ˈæplɪkəbl/"
+  },
+  "definition": "adj. 适用的，可应用的",
+  "explanation": "applicable指适用于特定情况或场景。比如适用于某一法律、政策、规定等。",
+  "mnemonic_methods": {
+    "pronunciation_association": "applicable的发音类似于“apple+可”，好像苹果是适用于很多场合一样，可以帮助联想。",
+    "etymology": "该词源自拉丁语的applicabilis，由applicare（应用）衍生而来。"
+  },
+  "example_sentences": [
+    "这个标准是applicable的。|This standard is applicable."
+  ]
+}

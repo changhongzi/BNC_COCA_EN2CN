@@ -1,0 +1,16 @@
+{
+  "word": "accelerate",
+  "pronunciation": {
+    "American": "/əkˈsɛləˌret/",
+    "British": "/əkˈseləreɪt/"
+  },
+  "definition": "v. 加速；促进；增加，扩大",
+  "explanation": "accelerate 是一个动词，表示使（车辆）加快速度；或者促进（某事物）的进程、扩大规模或增加速度。",
+  "mnemonic_methods": {
+    "pronunciation_association": "accelerate的发音中的celerate可以联想到词汇celebrate（庆祝），促进某事的进展就像在庆祝一样。",
+    "etymology": "accelerate源自拉丁语acceleratus，由ad-（加强、使）+ celerare（变快）构成"
+  },
+  "example_sentences": [
+    "我们需要采取行动来accelerate这一项目的发展。|We need to take action to accelerate the development of this project."
+  ]
+}

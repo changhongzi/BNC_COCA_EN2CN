@@ -1,0 +1,16 @@
+{
+  "word": "condense",
+  "pronunciation": {
+    "American": "/kənˈdɛns/",
+    "British": "/kənˈdɛns/"
+  },
+  "definition": "v. 浓缩，凝结；压缩；简化；液化",
+  "explanation": "condense 是一个及物动词，意为压缩、浓缩或者液化。",
+  "mnemonic_methods": {
+    "pronunciation_association": "你可以将condense读作‘con-dense’，联想到dense（密集的），表示把东西压缩或浓缩。",
+    "etymology": "这个词源自拉丁语中的condensare，由condere（放置）和densus（密集的）组成，引申为压缩、简化的含义。"
+  },
+  "example_sentences": [
+    "他用简洁的语言把复杂的问题condense了一下。|He condensed the complex issue into simple language."
+  ]
+}

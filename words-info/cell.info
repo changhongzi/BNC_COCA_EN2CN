@@ -1,0 +1,16 @@
+{
+  "word": "cell",
+  "pronunciation": {
+    "American": "/sɛl/",
+    "British": "/sel/"
+  },
+  "definition": "n. 细胞；牢房；蜂房",
+  "explanation": "cell 是一个名词，它可以表示生物体内的基本结构单位，也可以表示监狱或蜂巢等结构。",
+  "mnemonic_methods": {
+    "pronunciation_association": "cell的发音有点像'sell'（出售），而cell是生物体的基本单位。所以你可以联想当你在售卖细胞时，它就是一个‘cell’。",
+    "etymology": "cell 源自拉丁语'cella'，最初意味着‘房间、小屋’，后来引申为‘监狱单元’和‘生物学中的一个细胞单位’"
+  },
+  "example_sentences": [
+    "她被关进了监狱的cell里。|She was put into the cell of the prison."
+  ]
+}

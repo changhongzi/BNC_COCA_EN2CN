@@ -1,0 +1,16 @@
+{
+  "word": "predicament",
+  "pronunciation": {
+    "American": "/prɪˈdɪkəmənt/",
+    "British": "/prɪˈdɪkəmənt/"
+  },
+  "definition": "n. 困境，窘境",
+  "explanation": "predicament是一个名词，表示处于困境、窘境中。",
+  "mnemonic_methods": {
+    "pronunciation_association": "predicament的发音中间的di和以d开头的单词'difficulty'相似，都指困难、困境。",
+    "etymology": "predicament源自拉丁语'praedicamentum'，由'prae-'（在...之前）和'dicere'（说）构成，最初指在言语中表达的情况或状态，在英语中演变为困境的意思。"
+  },
+  "example_sentences": [
+    "她的错误决定让整个团队陷入了一种predicament。 | Her wrong decision put the whole team in a predicament."
+  ]
+}

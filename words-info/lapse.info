@@ -1,0 +1,16 @@
+{
+  "word": "lapse",
+  "pronunciation": {
+    "American": "/læps/",
+    "British": "/læps/"
+  },
+  "definition": "n.（时间的）流逝，（友好关系的）中断；vi. 逐渐减弱，（通常因疏忽）中断",
+  "explanation": "比如'lapse' 是一个可以表示时间流逝或关系中断的名词。作为一个动词，它表示逐渐减弱、中断，通常是因疏忽引起的。",
+  "mnemonic_methods": {
+    "pronunciation_association": "Lapse的发音类似于‘拉屁’，想象时间在拉屁声中流逝或关系由于拉屁声中断。",
+    "etymology": "该词源自拉丁语“lapsus”，意思是“滑倒、流逝”，由此可联想到时间的流逝或关系的中断。"
+  },
+  "example_sentences": [
+    "由于困难的产生，我们的友好关系出现了一些lapse。 | There have been some lapses in our friendly relationship due to the arising of difficulties."
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "word": "tailoring",
+  "pronunciation": {
+    "American": "/ˈteɪlərɪŋ/",
+    "British": "/ˈteɪlərɪŋ/"
+  },
+  "definition": "n. 裁缝；打造；调整; vt. 剪裁；专门定制；使适应",
+  "explanation": "tailoring 是裁缝衣服的意思，同时也可指定制或调整某物使其更适应特定需求。",
+  "mnemonic_methods": {
+    "pronunciation_association": "tailoring的发音中的tailor可以让你联想到裁缝，而ing结尾表示动词形式，有裁缝或打造的意思。",
+    "etymology": "该词源自tailor（裁缝），加上-ing后表示动态的动作或过程。"
+  },
+  "example_sentences": [
+    "这个项目需要一些个性化的tailoring。| This project requires some personalized tailoring."
+  ]
+}

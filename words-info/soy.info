@@ -1,0 +1,16 @@
+{
+  "word": "soy",
+  "pronunciation": {
+    "American": "/sɔɪ/",
+    "British": "/sɔɪ/"
+  },
+  "definition": "n.大豆",
+  "explanation": "Soy是大豆的意思，它常用于食品加工和制作饮食品。",
+  "mnemonic_methods": {
+    "pronunciation_association": "Soy的发音和英语的soy（意为酱油）相似，酱油通常是由大豆制成的，这可以让你联想到这个词的含义。",
+    "etymology": "这个词源自拉丁语'glycine'，后来演变为法语'soi'，最终成为英语的'soy'。"
+  },
+  "example_sentences": [
+    "他饮食中严格避免食用soy制品。 | He strictly avoids consuming soy products in his diet."
+  ]
+}

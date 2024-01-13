@@ -1,0 +1,16 @@
+{
+  "word": "hydrocarbon",
+  "pronunciation": {
+    "American": "/ˈhaɪ·drəˌkɑr·bən/",
+    "British": "/ˈhaɪ·drəˌkɑː·bən/"
+  },
+  "definition": "n. 烃；碳氢化合物",
+  "explanation": "hydrocarbon 是碳氢化合物的意思，指的是由碳和氢元素构成的化合物。在化学中，指代石油和天然气中主要的化合物。",
+  "mnemonic_methods": {
+    "pronunciation_association": "可通过将hydro（水）与carbon（碳）联想在一起来记忆hydrocarbon的含义，即碳氢化合物，因为它由水和碳构成。",
+    "etymology": "hydro-意为水，carbon指碳。hydrocarbon源自希腊文中的hudōr（水）和carbon（碳）"
+  },
+  "example_sentences": [
+    "在讨论燃料时，经常会提到hydrocarbon这个词，它代表着碳氢化合物。 | When discussing fuels, the term hydrocarbon is often mentioned, representing compounds of carbon and hydrogen."
+  ]
+}

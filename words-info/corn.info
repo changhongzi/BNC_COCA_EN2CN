@@ -1,0 +1,16 @@
+{
+  "word": "corn",
+  "pronunciation": {
+    "American": "/kɔrn/",
+    "British": "/kɔːn/"
+  },
+  "definition": "n. 玉米；谷物；(尤指英国与爱尔兰的)小麦",
+  "explanation": "Corn 是一个名词，它通常指玉米或一些谷物。在英国与爱尔兰地区，corn 也被用来表示小麦。",
+  "mnemonic_methods": {
+    "pronunciation_association": "Corn 的发音类似于 'korn'，而玉米通常有黄色的颜色，你可以设想它的发音和颜色帮助你记住它的含义。",
+    "etymology": "Corn 来自中古英语 'corn', 指一般的 '谷物'，在美国则特指 '玉米'。"
+  },
+  "example_sentences": [
+    "这个食谱需要使用一些corn油。 | This recipe requires some corn oil."
+  ]
+}

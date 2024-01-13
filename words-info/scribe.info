@@ -1,0 +1,16 @@
+{
+  "word": "scribe",
+  "pronunciation": {
+    "American": "/skraɪb/",
+    "British": "/skraɪb/"
+  },
+  "definition": "n.抄写员，抄写生； vt. 抄写，写下",
+  "explanation": "Scribe 是一个名词和动词，作为名词时指的是抄写员或抄写生；作为动词时指的是抄写或写下。",
+  "mnemonic_methods": {
+    "pronunciation_association": "Scribe的发音有点像'scribe'中的'scr'是'写'的发音，这样可以让你联想到它的意思。",
+    "etymology": "这个词源自中古英语的'scrīban'，意为'写'。"
+  },
+  "example_sentences": [
+    "他在石碑上sribed下了这段历史事件。 | He scribed down this historical event on the stone tablet."
+  ]
+}

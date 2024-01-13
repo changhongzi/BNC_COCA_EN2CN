@@ -1,0 +1,16 @@
+{
+  "word": "initial",
+  "pronunciation": {
+    "American": "/ɪˈnɪʃəl/",
+    "British": "/ɪˈnɪʃəl/"
+  },
+  "definition": "n. 最初的，开始的；vt. 签署姓名的首字母；vi. 作为首字母",
+  "explanation": "initial有两种常见用法，一种是作为名词，表示最初的或开始的东西；另一种是作为动词，表示在文件或表格上签署姓名的首字母。",
+  "mnemonic_methods": {
+    "pronunciation_association": "initial的发音类似于“音射”，可以联想最初的声音射出来。",
+    "etymology": "这个词来自拉丁语的initium，意为“开始”或“起源”"
+  },
+  "example_sentences": [
+    "请在这份文件上签署您的initial。|Please sign your initial on this document."
+  ]
+}

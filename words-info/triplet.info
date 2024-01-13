@@ -1,0 +1,16 @@
+{
+  "word": "triplet",
+  "pronunciation": {
+    "American": "/ˈtrɪplɪt/",
+    "British": "/ˈtrɪplɪt/"
+  },
+  "definition": "n. 三胞胎；三个一组的东西；三人/物同时发生的情况",
+  "explanation": "triplet 是指三个相同或相似的事物或人，也可以指在数目上是三倍或以三个为一组的情况。",
+  "mnemonic_methods": {
+    "pronunciation_association": "triplet 的发音中包含 'trip'，而 trip 指旅行或行程，可以联想三胞胎在人生的旅程中一起成长。",
+    "etymology": "这个词源于拉丁语的 'tri-'，意为 '三'，加上 '-plet' 表示 '一组'。"
+  },
+  "example_sentences": [
+    "这三个数字是一个triplet，它们的和是21。| These three numbers are a triplet and their sum is 21."
+  ]
+}

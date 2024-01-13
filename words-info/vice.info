@@ -1,0 +1,16 @@
+{
+  "word": "vice",
+  "pronunciation": {
+    "American": "/vaɪs/",
+    "British": "/vaɪs/"
+  },
+  "definition": "n. 副；罪行；恶习；怪癖",
+  "explanation": "Vice 是一个名词，通常表示副职、罪行或恶习。",
+  "mnemonic_methods": {
+    "pronunciation_association": "Vice 的发音类似于 'wise'，但含义相反。'Wise' 意味着聪明睿智,而 'vice' 则意味着恶习或罪行。",
+    "etymology": "Vice 源自拉丁语 'vitium'，意为'缺点、毛病'。"
+  },
+  "example_sentences": [
+    "酗酒是他的一大vice，需要尽快戒掉。| Excessive drinking is one of his vices and needs to be quit as soon as possible."
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "word": "efficacy",
+  "pronunciation": {
+    "American": "/ˈɛfɪkəsi/",
+    "British": "/ˈɛfɪkəsi/"
+  },
+  "definition": "n.功效；效力；效能",
+  "explanation": "efficacy是指某物品或行为产生的功效和效果，通常强调实际效力或有效性。",
+  "mnemonic_methods": {
+    "pronunciation_association": "efficacy的发音中含有“easy”（容易）这个词，可以帮助记忆efficacy代表有效性和功效。",
+    "etymology": "efficacy源自拉丁词efficacia，其中的词根effic-表示‘产生作用’，-acy表示名词后缀，因此efficacy指产生效果或功效的能力。"
+  },
+  "example_sentences": [
+    "我们需要进行更多的科学实验来验证这种技术的efficacy。|We need to conduct more scientific experiments to verify the efficacy of this technology."
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "word": "Liquidate",
+  "pronunciation": {
+    "American": "/ˈlɪkwəˌdeɪt/",
+    "British": "/ˈlɪkwɪdeɪt/"
+  },
+  "definition": "v. 清算；清偿；清除；清理；清盘",
+  "explanation": "Liquidate是一个多义词，通常用于指清算、清偿债务或清除某物。在商业上，liquidate指的是清除公司的债务或清理公司的资产。",
+  "mnemonic_methods": {
+    "pronunciation_association": "Liquidate的发音中包含“liquid”，而liquid在英文中意为液体，可以联想到liquidate通常指的是清算或清理资产。",
+    "etymology": "Liquidate源自拉丁语liquidare，意为'liquefy, melt, dissolve'，可联想liquidate通常指的是清偿债务或清除某物。"
+  },
+  "example_sentences": [
+    "政府机构将采取措施立即liquidate投资组合，以避免更大的损失。 | The government agency will take steps to liquidate the investment portfolio immediately to avoid bigger losses."
+  ]
+}

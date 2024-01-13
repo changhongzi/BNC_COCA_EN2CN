@@ -1,0 +1,16 @@
+{
+  "word": "Complex",
+  "pronunciation": {
+    "American": "/ˈkɑmˌplɛks/",
+    "British": "/ˈkɒm.pleks/"
+  },
+  "definition": "n.综合体；情结；复合物；合身套装 adj.复杂的；合成的；情结的；综合的",
+  "explanation": "Complex是一个多义词，可以表示为名词或形容词。作为名词，它通常指代一个综合体、情结或复合物；作为形容词，它表示复杂的、合成的、情结的或综合的。",
+  "mnemonic_methods": {
+    "pronunciation_association": "Complex的发音类似“come” + “plex”，好比说一个复杂(main)的问题，听起来就像很难（complex）",
+    "etymology": "Complex源自拉丁语的complexus，意为'编织在一起的'，暗示了不同元素被交织在一起从而变得复杂"
+  },
+  "example_sentences": [
+    "这个社会问题是一个社会、政治和经济complex。 | This social issue is a complex of social, political, and economic factors."
+  ]
+}

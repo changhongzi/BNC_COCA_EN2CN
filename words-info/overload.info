@@ -1,0 +1,16 @@
+{
+  "word": "Overload",
+  "pronunciation": {
+    "American": "/ˌoʊvərˈloʊd/",
+    "British": "/ˌəʊvəˈləʊd/"
+  },
+  "definition": "n. 过载；负荷过多；vt. 使超载；使负荷过多",
+  "explanation": "Overload 是指超载或负荷过多的意思。比如，在计算机领域，overload 指的是某个元素或函数具有多个不同的含义或操作。在日常生活中，也常用来形容负荷过多的状态。",
+  "mnemonic_methods": {
+    "pronunciation_association": "Overload的发音中有个load，可以联想到负荷过多的意思。",
+    "etymology": "Over- 是一个词根，意为“过度”，结合load，形成了overload的意义。"
+  },
+  "example_sentences": [
+    "老板总是给我太多工作，我感到overload了。|The boss always gives me too much work, I feel overloaded."
+  ]
+}

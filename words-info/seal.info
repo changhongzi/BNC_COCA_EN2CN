@@ -1,0 +1,16 @@
+{
+  "word": "seal",
+  "pronunciation": {
+    "American": "/sil/",
+    "British": "/siːl/"
+  },
+  "definition": "n. 海豹；印章；封条；封口胶；vt. 封闭；盖章；用封条封闭；vi. 确定；盖章",
+  "explanation": "比如'seal'是一个名词，可以表示海豹、印章或封条。作为动词，它则意味着封闭、盖章或确定。",
+  "mnemonic_methods": {
+    "pronunciation_association": "seal的发音听起来像'see'和'l'，可以联想到看到并盖章的动作",
+    "etymology": "源自古英语seolh，最早用于海豹，后来引申为封条或印章"
+  },
+  "example_sentences": [
+    "他用印章seal了这份文件，表示此事已经得到了确认。 | He sealed the document with a stamp, indicating that the matter has been confirmed."
+  ]
+}

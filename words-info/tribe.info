@@ -1,0 +1,16 @@
+{
+  "word": "Tribe",
+  "pronunciation": {
+    "American": "/traɪb/",
+    "British": "/traɪb/"
+  },
+  "definition": "n. 部落；部族；（植物、动物的）族群",
+  "explanation": "Tribe是指一个由血缘关系或共同兴趣或信念联系在一起的社会群体。在植物学和动物学中，也可指相似特征的生物个体的群体。",
+  "mnemonic_methods": {
+    "pronunciation_association": "Tribe的发音类似于“Try be（尝试成为）”，可以联想部落或族群的成员通常会努力维护共同的利益，尝试成为整体的一部分。",
+    "etymology": "这个词源自拉丁语“tribus”，最初指古罗马的一个政治分区，后来引申为部落或族群。"
+  },
+  "example_sentences": [
+    "狮子是一种社群性动物，它们组成了一个由几个雄性、许多雌性和幼崽组成的tribe。| Lions are social animals and form a tribe consisting of several males, many females, and cubs."
+  ]
+}

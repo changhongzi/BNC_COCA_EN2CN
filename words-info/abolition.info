@@ -1,0 +1,16 @@
+{
+  "word": "abolition",
+  "pronunciation": {
+    "American": "/ˌæbəˈlɪʃən/",
+    "British": "/ˌæbəˈlɪʃən/"
+  },
+  "definition": "n.（尤指法律上的）废除，废止;（尤指在19世纪美国）废奴运动;废奴主义",
+  "explanation": "abolition是一个名词，通常指的是取消或废除（尤指法律上的），特指19世纪美国的废奴运动。",
+  "mnemonic_methods": {
+    "pronunciation_association": "abolition的发音中包含“abolish”，abolish的意思是废除或废止，这可以帮助记忆abolition的含义。",
+    "etymology": "abolition源自拉丁语abolitionem，由ab（去掉）+olition（运动）构成，整体意思是运动停止或取消。"
+  },
+  "example_sentences": [
+    "在美国历史上，废奴运动是一场激烈的抗争，最终导致了奴隶制度的abolition。|In American history, the abolition movement was a fierce struggle that ultimately led to the abolition of slavery."
+  ]
+}

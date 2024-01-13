@@ -1,0 +1,16 @@
+{
+  "word": "Compass",
+  "pronunciation": {
+    "American": "/ˈkʌmpəs/",
+    "British": "/ˈkʌmpəs/"
+  },
+  "definition": "n. 指南针；罗盘；范围；界限",
+  "explanation": "Compass是一个名词，它通常表示指南针，也可以表示范围或界限。",
+  "mnemonic_methods": {
+    "pronunciation_association": "Compass的发音有点像“come pass”（来吧，通过），可以联想指南针帮助你找到正确的方向，或者界定一个范围。",
+    "etymology": "这个词源自拉丁语的“compassus”，意思是“一起走”，后来引申为指南针所指的范围或界限。"
+  },
+  "example_sentences": [
+    "这个项目的影响力超出了我们最初设定的compass。 | The influence of this project exceeded our initial compass."
+  ]
+}

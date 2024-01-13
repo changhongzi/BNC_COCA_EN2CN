@@ -1,0 +1,16 @@
+{
+  "word": "vision",
+  "pronunciation": {
+    "American": "/ˈvɪʒən/",
+    "British": "/ˈvɪʒən/"
+  },
+  "definition": "n. 视力；视觉； 美景；景色； 预见；想象力",
+  "explanation": "Vision 是指通过视觉感官获得的景象或图像，也可以表示对未来的预见或设想。",
+  "mnemonic_methods": {
+    "pronunciation_association": "Vision的发音像“fish on（鱼在）”，打个比方，有时我们需要用视觉（vision）就像在找鱼一样。或者可以把它和“fish in”做联想，就像在海里找到了美丽的景色，也可以称之为vision。",
+    "etymology": "来自拉丁语“visio”，意为“视力、看到”，源自动词“videre”，意为“看”"
+  },
+  "example_sentences": [
+    "她展望未来的vision使她成为了一个杰出的领导者。|Her vision for the future has made her an outstanding leader."
+  ]
+}

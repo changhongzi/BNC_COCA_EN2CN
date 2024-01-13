@@ -1,0 +1,16 @@
+{
+  "word": "biomedical",
+  "pronunciation": {
+    "American": "/ˌbaɪ.oʊˈmɛdɪkl/",
+    "British": "/ˌbaɪəʊˈmedɪkl/"
+  },
+  "definition": "adj. 生物医学的；生物医学上的",
+  "explanation": "biomedical是一个形容词，用来描述与生物医学相关的事物，研究或领域。",
+  "mnemonic_methods": {
+    "pronunciation_association": "biomedical的发音中包含bio（生物）和medical（医学），帮助你联想到它与生物医学领域有关。",
+    "etymology": "biomedical一词由bio（生物）和medical（医学）组合而成，表明其与生物和医学有关。"
+  },
+  "example_sentences": [
+    "他的专业领域是biomedical engineering。| His area of expertise is biomedical engineering."
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "word": "chancellor",
+  "pronunciation": {
+    "American": "/ˈtʃænsələr/",
+    "British": "/ˈtʃɑːns(ə)lə/"
+  },
+  "definition": "n.首席大臣；大臣；大法官",
+  "explanation": "Chancellor是指某些国家或政府的首席大臣，也指大学的校长或财政部长。",
+  "mnemonic_methods": {
+    "pronunciation_association": "Chancellor的发音中包含'sell'，可以联想到这个词的含义，因为首席大臣负责'卖'政府的政策和决定。",
+    "etymology": "Chancellor源自古代法国文中的anceler，意为'法官'，后来演变为指财政官或政治领袖的头衔。"
+  },
+  "example_sentences": [
+    "这所大学的chancellor提出了一项重要的改革计划。 | The chancellor of this university proposed an important reform plan."
+  ]
+}

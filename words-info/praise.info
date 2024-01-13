@@ -1,0 +1,16 @@
+{
+  "word": "praise",
+  "pronunciation": {
+    "American": "/preɪz/",
+    "British": "/preɪz/"
+  },
+  "definition": "n.表扬，赞美；vt. 表扬，赞美",
+  "explanation": "praise 是一个表示表扬或赞美的动词和名词，可以用来表达对某人或某事的正面评价。",
+  "mnemonic_methods": {
+    "pronunciation_association": "Praise的发音类似于“prey's（猎物的）”，当猎人赞美猎物时，就用到了praise。",
+    "etymology": "Praise源自中古英语“preisen”，源自拉丁语“pretium”，意为“价格，赞赏”。"
+  },
+  "example_sentences": [
+    "他因为勇敢的行为而受到了大家的praise。 | He received praise from everyone for his brave actions."
+  ]
+}

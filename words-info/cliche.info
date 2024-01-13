@@ -1,0 +1,16 @@
+{
+  "word": "cliche",
+  "pronunciation": {
+    "American": "/kliˈʃeɪ/",
+    "British": "/klɪˈʃeɪ/"
+  },
+  "definition": "n. 陈词滥调; 陈腐的想法; adj. 陈词滥调的",
+  "explanation": "Cliche是指被过度使用以至于失去原创性的短语、观念或图像。通常用来形容陈词滥调的表达方式。",
+  "mnemonic_methods": {
+    "pronunciation_association": "Cliche的发音类似于“克里歇”，可以想象为一个太过使用的场景或词语，从而失去了新鲜感。",
+    "etymology": "Cliche源自法语cliché，最初用于印刷术语，表示一种铸造的铅版，后来引申为陈词滥调的意思。"
+  },
+  "example_sentences": [
+    "这部电影中的情节非常陈腐，充斥着cliche。 | The plot in this movie is very cliched and full of cliches."
+  ]
+}

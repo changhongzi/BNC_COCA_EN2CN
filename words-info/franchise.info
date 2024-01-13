@@ -1,0 +1,16 @@
+{
+  "word": "franchise",
+  "pronunciation": {
+    "American": "/ˈfræntʃaɪz/",
+    "British": "/ˈfræntʃaɪz/"
+  },
+  "definition": "n.特许经营权；公民权（尤指享有选举权的权利）",
+  "explanation": "Franchise是特指一家公司授予他人经营权或特许权的行为，也可以指公民享有的特权或权利，特别是指享有选举权的权利。",
+  "mnemonic_methods": {
+    "pronunciation_association": "Franchise的发音有点像“法兰西”，可以联想到这个词与特许经营权有关，因为法国在商业上有着较大的影响力。",
+    "etymology": "这个词源于古法语的“franc”, 意为自由，以及拉丁语的“francus”，指法国人。这个词最初指授予特权给予自由的人，后来引申为商业上的特许经营权。"
+  },
+  "example_sentences": [
+    "获得公民的franchise是每个人的基本权利。| The franchise of citizenship is a basic right for everyone."
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "word": "abduct",
+  "pronunciation": {
+    "American": "/æbˈdʌkt/",
+    "British": "/æbˈdʌkt/"
+  },
+  "definition": "v. 绑架；诱拐；使外展",
+  "explanation": "abduct 是一个动词，通常表示通过非法手段带走人，或者指导致身体部位向外移动的行为。",
+  "mnemonic_methods": {
+    "pronunciation_association": "abduct的发音有点像“被dock”，想象一个人被非法劫持然后被带到某个dock（码头）上。",
+    "etymology": "这个词来自拉丁语的abductus，意为“带走”，ab-表示“离去”，ductus表示“lead”。"
+  },
+  "example_sentences": [
+    "在解剖实验中，需要将肢体以及身体的各个部分进行abduct操作。|In anatomy experiments, it is necessary to abduct the limbs and various parts of the body."
+  ]
+}

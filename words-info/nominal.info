@@ -1,0 +1,16 @@
+{
+  "word": "nominal",
+  "pronunciation": {
+    "American": "ˈnɑmɪnl",
+    "British": "ˈnɒmɪnl"
+  },
+  "definition": "adj. 名义上的；微不足道的",
+  "explanation": "nominal是一个形容词，通常用来表示某物或某人名义上的，但实际上可能微不足道。",
+  "mnemonic_methods": {
+    "pronunciation_association": "nominal的发音中包含“名”这个字，可以帮助记忆它是与名义相关的词汇。",
+    "etymology": "nominal源自拉丁语nomen，意为“名称”，加上后缀-al构成形容词，表示“名义上的”。"
+  },
+  "example_sentences": [
+    "他担任公司董事长的职位，但实际上只是一个nominal的头衔。 | He holds the position of chairman in the company, but it's only a nominal title."
+  ]
+}

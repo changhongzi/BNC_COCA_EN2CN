@@ -1,0 +1,16 @@
+{
+  "word": "Session",
+  "pronunciation": {
+    "American": "/ˈsɛʃən/",
+    "British": "/ˈsɛʃən/"
+  },
+  "definition": "n. 会议；一段时间; 一节课；一段时间；一场",
+  "explanation": "Session 在中文中通常用来指代一个会议、一段时间或者一场特定的活动。",
+  "mnemonic_methods": {
+    "pronunciation_association": "Session 的发音中含有 'sesh' 这个部分，可以和中文的 'session' 发音 'seshun' 进行联想。",
+    "etymology": "Session 这个词源自拉丁语 'sessio'，意思是 '坐下、休息'。它后来扩展引申为 '一段时间、一次会议或者一节课'。"
+  },
+  "example_sentences": [
+    "让我们开始今天的训练 session 吧。 | Let's start today's training session."
+  ]
+}

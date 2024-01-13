@@ -1,0 +1,16 @@
+{
+  "word": "current",
+  "pronunciation": {
+    "American": "/ˈkɜrənt/",
+    "British": "/ˈkʌrənt/"
+  },
+  "definition": "n. 流，电流；趋势；adj. 现行的，最近的",
+  "explanation": "current 是一个名词，可以指水流、电流或趋势。作为形容词，它表示现行的或最近的。",
+  "mnemonic_methods": {
+    "pronunciation_association": "当前（current）的发音很接近'咕噜'的声音，可以联想到水流的声音；或者把current和current（目前）这两个词联系起来，表示最近发生的事情。",
+    "etymology": "current 这个词来自拉丁语的 'currere'，意思是'跑、奔跑'，可以联想到水流或电流在移动的概念。"
+  },
+  "example_sentences": [
+    "这是最current的趋势，我们需要跟上潮流。|This is the current trend, and we need to keep up with it."
+  ]
+}

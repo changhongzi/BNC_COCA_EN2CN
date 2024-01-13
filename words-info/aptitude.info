@@ -1,0 +1,16 @@
+{
+  "word": "aptitude",
+  "pronunciation": {
+    "American": "/ˈæptəˌtud/",
+    "British": "/ˈæptɪˌtjuːd/"
+  },
+  "definition": "n. 天资，才能",
+  "explanation": "aptitude指一个人天生具备的特定才能或倾向。",
+  "mnemonic_methods": {
+    "pronunciation_association": "aptitude的发音中有apt，类似于adaption（适应），可以联想到aptitude指的是天生适应某种能力或倾向。",
+    "etymology": "aptitude源自拉丁语aptitudo，aptus（适合的），加上后缀-ude，表示具有某个特质的状态或性质。"
+  },
+  "example_sentences": [
+    "她展示了对音乐的aptitude。 | She demonstrated an aptitude for music."
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "word": "dew",
+  "pronunciation": {
+    "American": "/du/",
+    "British": "/djuː/"
+  },
+  "definition": "n. 露水",
+  "explanation": "dew 是指夜间空气中由于温度下降而在物体表面凝结成的水珠。",
+  "mnemonic_methods": {
+    "pronunciation_association": "dew 的发音类似于中文的“露”，可以通过联想来记忆它的含义。",
+    "etymology": "这个词来自古英语的 dēaw，类似于荷兰语和德语中的相似词，都暗示着与“水”相关的意思。"
+  },
+  "example_sentences": [
+    "清晨的新鲜空气中飘着淡淡的dew。 | There was a hint of dew in the fresh morning air."
+  ]
+}

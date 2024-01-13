@@ -1,0 +1,16 @@
+{
+  "word": "Mercury",
+  "pronunciation": {
+    "American": "/ˈmɜrkjəri/",
+    "British": "/ˈmɜːkjəri/"
+  },
+  "definition": "n. 水银；汞；水星",
+  "explanation": "Mercury是一种金属元素，也是太阳系中最接近太阳的行星。它是一种银白色的液体金属，有良好的导电性和封闭性。",
+  "mnemonic_methods": {
+    "pronunciation_association": "Mercury的发音中的mer像mirror（镜子），而mirror中的mir正好是mercury的开头三个字母，这可以帮助记忆水银的液态状态和闪闪发光的特性。",
+    "etymology": "Mercury这个词来自古罗马神话中的水银使者墨丘利（Mercury），被认为是商业和贸易之神，因而将水银命名为Mercury。"
+  },
+  "example_sentences": [
+    "太阳系中的水星通常简称为Mercury。 | The planet closest to the sun in the solar system is commonly referred to as Mercury."
+  ]
+}

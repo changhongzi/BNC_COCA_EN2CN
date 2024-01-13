@@ -1,0 +1,16 @@
+{
+  "word": "priority",
+  "pronunciation": {
+    "American": "/praɪˈɔrəti/",
+    "British": "/praɪˈɒrəti/"
+  },
+  "definition": "n. 优先；优先权；优先考虑",
+  "explanation": "Priority是一个名词，指的是比其他事物更重要或更紧急的事情。在中文中，priority可以用“优先”或者“优先考虑”来表达。",
+  "mnemonic_methods": {
+    "pronunciation_association": "Priority的发音和'prior'相似，'prior'意为在重要性上更前面。所以，priority指的是更前要的，更重要的事情。",
+    "etymology": "Priority源自拉丁词汇prior（更早的）和-ity后缀，形成了名词priority，表示更早或更重要的概念。"
+  },
+  "example_sentences": [
+    "完成这个项目是我们的首要任务，是我们的priority。 | Completing this project is our top priority."
+  ]
+}

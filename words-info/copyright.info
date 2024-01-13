@@ -1,0 +1,16 @@
+{
+  "word": "Copyright",
+  "pronunciation": {
+    "American": "/ˈkɑpiraɪt/",
+    "British": "/ˈkɒpiraɪt/"
+  },
+  "definition": "n.版权; vt.版权登记",
+  "explanation": "Copyright是指对于文字、音乐、绘画、影片等各种创造性作品的权利，包括复制、分发、表演和转让的权利。",
+  "mnemonic_methods": {
+    "pronunciation_association": "Copyright的发音中包含了'copy'，这能帮助你联想到与复制和文本相关的概念。",
+    "etymology": "Copyright源自古英语'copyriht'，由'copy'和'right'组成，意指复制的权利。"
+  },
+  "example_sentences": [
+    "艺术家拥有对其作品的copyright，这意味着任何未经允许的复制行为都是违法的。|Artists have the copyright to their works, which means any unauthorized reproduction is illegal."
+  ]
+}

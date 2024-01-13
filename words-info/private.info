@@ -1,0 +1,16 @@
+{
+  "word": "private",
+  "pronunciation": {
+    "American": "/ˈpraɪvət/",
+    "British": "/ˈpraɪvət/"
+  },
+  "definition": "n.私人；上等兵；adj.私人的；秘密的；个人隐私的；私立的",
+  "explanation": "private 是一个名词和形容词，在名词中指私人或上等兵，在形容词中表示私人的、秘密的、个人隐私的或私立的。",
+  "mnemonic_methods": {
+    "pronunciation_association": "私人（private）的生活是私人（private）的事情。这个发音可以帮助你记住它表示私人的含义。",
+    "etymology": "private 源自于拉丁语 privatus，意为“个人的、私人的”"
+  },
+  "example_sentences": [
+    "这是我的private领土，别人不可以随意侵入。|This is my private territory, and others are not allowed to invade it."
+  ]
+}

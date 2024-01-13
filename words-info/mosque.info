@@ -1,0 +1,16 @@
+{
+  "word": "Mosque",
+  "pronunciation": {
+    "American": "/mɒsk/",
+    "British": "/mɒsk/"
+  },
+  "definition": "n.清真寺",
+  "explanation": "清真寺是伊斯兰教的宗教场所，穆斯林进行礼拜和祈祷的地方。",
+  "mnemonic_methods": {
+    "pronunciation_association": "清真寺的发音类似'moss'（苔藓）,你可以想象清真寺顶部覆盖着绿色的苔藓。",
+    "etymology": "Mosque源自阿拉伯语' masjid'，意为寺庙或寺院。"
+  },
+  "example_sentences": [
+    "在我旅行到土耳其的时候，我参观了当地最壮观的Mosque。|When I traveled to Turkey, I visited the most magnificent mosque locally."
+  ]
+}

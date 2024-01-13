@@ -1,0 +1,16 @@
+{
+  "word": "Fragment",
+  "pronunciation": {
+    "American": "/ˈfræɡmənt/",
+    "British": "/ˈfræɡmənt/"
+  },
+  "definition": "n.碎片；片段；片断；断片",
+  "explanation": "Fragment是一个名词，指被打碎或分裂的东西，通常是一部分整体的一部分。",
+  "mnemonic_methods": {
+    "pronunciation_association": "Fragment 中的frag音节可以和fragile（易碎的）联想，易碎的东西很容易成为fragment。",
+    "etymology": "Fragment源自拉丁语fragmentum，意为‘碎片’"
+  },
+  "example_sentences": [
+    "这个古老遗址保存着很多古文明时期的fragment。|The ancient site preserves many fragments from ancient civilizations."
+  ]
+}

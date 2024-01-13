@@ -1,0 +1,16 @@
+{
+  "word": "Pickle",
+  "pronunciation": {
+    "American": "/ˈpɪkəl/",
+    "British": "/ˈpɪkəl/"
+  },
+  "definition": "n.泡菜；泡制食品；处境困难",
+  "explanation": "Pickle 是一种腌制的食物，也可以表示处境困难。在日常英语中，它通常用来指泡菜或泡制的食品。",
+  "mnemonic_methods": {
+    "pronunciation_association": "Pickle的发音像“pick+coal”，想象在采摘的时候抓住了一块煤，这个意外的产物就好比腌制或泡制的食品一样，所以可以帮助记忆其含义。",
+    "etymology": "该词源自荷兰语 pekel，最初是指用盐水、醋或其他溶液腌制的食物。"
+  },
+  "example_sentences": [
+    "公司很快就陷入了财政困境，陷入了经济pickle。|The company quickly found itself in a financial pickle."
+  ]
+}

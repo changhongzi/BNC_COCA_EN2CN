@@ -1,0 +1,16 @@
+{
+  "word": "Canal",
+  "pronunciation": {
+    "American": "/kəˈnæl/",
+    "British": "/kəˈnæl/"
+  },
+  "definition": "n. 运河；（尤指人体或动植物的）管，沟；v. 开运河；开沟排水",
+  "explanation": "Canal 是指人工开凿的水道，也可以用来描述生物体内的通道。",
+  "mnemonic_methods": {
+    "pronunciation_association": "Canal的发音类似于‘kennel’（狗窝），可以联想到它是一种有限制的通道。",
+    "etymology": "Canal源自拉丁语canalis，意为‘水道，沟渠’。"
+  },
+  "example_sentences": [
+    "激素通过血液运输到整个身体，沿着各种 canal 向细胞传递信息。|Hormones are transported through the bloodstream to the entire body, conveying information to cells along various canals."
+  ]
+}

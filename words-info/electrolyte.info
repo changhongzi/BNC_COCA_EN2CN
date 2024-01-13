@@ -1,0 +1,16 @@
+{
+  "word": "electrolyte",
+  "pronunciation": {
+    "American": "/ɪˈlɛktrəˌlaɪt/",
+    "British": "/ɪˈlɛktrəlaɪt/"
+  },
+  "definition": "n. 电解质",
+  "explanation": "electrolyte是指能在溶液中导电的化合物，通常由离子组成。例如，普通的电解质包括盐和酸。",
+  "mnemonic_methods": {
+    "pronunciation_association": "可以将electrolyte的发音联想为“爱丽丝逆袭”，就像电解质在溶液中逆袭一样。",
+    "etymology": "来自电气（electro-）和溶液（-lyte）的组合，指的是能在溶液中导电的物质。"
+  },
+  "example_sentences": [
+    "运动员出汗后需要补充体内的electrolyte，以保持身体的正常运作。 | Athletes need to replenish their electrolyte levels after sweating to maintain normal body function."
+  ]
+}

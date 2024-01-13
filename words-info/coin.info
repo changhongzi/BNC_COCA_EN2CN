@@ -1,0 +1,16 @@
+{
+  "word": "coin",
+  "pronunciation": {
+    "American": "/kɔɪn/",
+    "British": "/kɔɪn/"
+  },
+  "definition": "n. 硬币; 金银制货币; 创造，创造新词或短语; vt. 铸造（硬币）; 创造",
+  "explanation": "Coin是一个既可以作为名词又可以作为动词的单词。作为名词时，它通常指代硬币或金银货币。而作为动词时，它意味着铸造硬币或创造新词语。可以将其与铸造硬币或创造新词语的意义联系起来。",
+  "mnemonic_methods": {
+    "pronunciation_association": "Coin的发音有点像'克沃因'，你可以把它与金币联系起来，因为克沃因提供了奢华的金币。",
+    "etymology": "Coin源自拉丁语'cuneus'，意为'楔形'，这种形状与古代硬币的形状有关。"
+  },
+  "example_sentences": [
+    "这个词是由莎士比亚coin出来的。|The word was coined by Shakespeare."
+  ]
+}

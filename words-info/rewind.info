@@ -1,0 +1,16 @@
+{
+  "word": "rewind",
+  "pronunciation": {
+    "American": "/riˈwaɪnd/",
+    "British": "/riˈwaɪnd/"
+  },
+  "definition": "n. (to make a tape, etc. go backwards by turning a wheel) 撤销,倒带; vt. (to make a tape, etc. go backwards by turning a wheel) 重返,回想",
+  "explanation": "比如'rewind' 是一个用作名词和动词的词语，作为名词时，指的是把磁带等倒回的动作；作为动词时，是指使（磁带等）倒带或重新回想。",
+  "mnemonic_methods": {
+    "pronunciation_association": "Rewind的发音像're'和'wind'，联想起来就是倒带的意思，就像重新回到过去一样。",
+    "etymology": "该词来自 're-'表示'重新'，和'wind'表示'卷绕、缠绕'构成。"
+  },
+  "example_sentences": [
+    "我需要一些时间来rewind自己的思绪。|I need some time to rewind my thoughts."
+  ]
+}

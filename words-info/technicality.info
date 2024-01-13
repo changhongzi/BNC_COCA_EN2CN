@@ -1,0 +1,16 @@
+{
+  "word": "technicality",
+  "pronunciation": {
+    "American": "/ˌtɛknɪˈkæləti/",
+    "British": "/ˌteknɪˈkæləti/"
+  },
+  "definition": "n. 详细技术；细节；纠结之事；进入法律程序的废点",
+  "explanation": "比如'technicality'是一个名词，指的是某个事物的详细技术、细节或者纠结之事。在法律上，它也指进入法律程序的废点或细节性规定。",
+  "mnemonic_methods": {
+    "pronunciation_association": "记忆发音时，联想到'technical'这个词的发音，同时加上'ity'结尾构成名词，表示技术和细节。",
+    "etymology": "该词源自late Latin的technicalitas，由technical（技术的）衍生而来"
+  },
+  "example_sentences": [
+    "律师找到了一项法律上的technicality，使得案件得以推迟。 | The lawyer found a legal technicality that resulted in the postponement of the case."
+  ]
+}

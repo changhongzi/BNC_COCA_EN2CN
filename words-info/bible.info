@@ -1,0 +1,16 @@
+{
+  "word": "Bible",
+  "pronunciation": {
+    "American": "/ˈbaɪbl/",
+    "British": "/ˈbaɪbl/"
+  },
+  "definition": "n.《基督教》圣经; 有权威的著作或指南",
+  "explanation": "Bible是指基督教的圣经，也可以用来表示有权威的著作或指南。",
+  "mnemonic_methods": {
+    "pronunciation_association": "Bible的发音类似于“baib-uh”，可以联想到它的含义——基督教的圣经。",
+    "etymology": "Bible源自希伯来语和希腊语词根，原意为“书”或“卷轴”，引申为“神圣的书”，它包含《旧约》和《新约》两部分，是基督教信徒的重要经典。"
+  },
+  "example_sentences": [
+    "这本手册可谓如企业运营的bible，它包含了很多宝贵的经验。 | This manual is like a bible for business operations, containing a lot of valuable experiences."
+  ]
+}

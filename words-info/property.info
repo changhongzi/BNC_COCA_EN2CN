@@ -1,0 +1,16 @@
+{
+  "word": "property",
+  "pronunciation": {
+    "American": "/ˈprɑpərti/",
+    "British": "/ˈprɒpəti/"
+  },
+  "definition": "n. 财产；所有权；性质；特性",
+  "explanation": "property 是指个人或团体拥有的实物或非物质财富，也可以指个人或事物的特性或性质",
+  "mnemonic_methods": {
+    "pronunciation_association": "property 的发音中包含了 pro（专业）和 per（人），结合起来表示专属于某个人或实体的东西",
+    "etymology": "Property 源自中古英语的 proprete，意为“所有权”或“性质”"
+  },
+  "example_sentences": [
+    "这个产品具有良好的抗污能力，这是它最值得称道的 property。| The product has good stain resistance, which is its most commendable property."
+  ]
+}

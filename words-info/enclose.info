@@ -1,0 +1,16 @@
+{
+  "word": "enclose",
+  "pronunciation": {
+    "American": "/ɪnˈkloʊz/",
+    "British": "/ɪnˈkləʊz/"
+  },
+  "definition": "v. 包围；围绕；封入；附寄",
+  "explanation": "enclose是一个及物动词，意为将某物圈起来或封在某处。通常用于信件中附上附录或文件，以及将东西封入信封。也可用于表示将物品围绕在某处。",
+  "mnemonic_methods": {
+    "pronunciation_association": "enclose的发音中包含close，可以帮助记忆它的含义，就像将某物封锁或包围。",
+    "etymology": "enclose源自en-（在内）+ close（关闭），表示将某物封入内部或围起来。"
+  },
+  "example_sentences": [
+    "他们的房子被高科技围篱所 enclose。 | Their house was enclosed by high-tech fencing."
+  ]
+}

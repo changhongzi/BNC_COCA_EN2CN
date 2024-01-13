@@ -1,0 +1,16 @@
+{
+  "word": "appendix",
+  "pronunciation": {
+    "American": "/əˈpɛn.dɪks/",
+    "British": "/əˈpen.dɪks/"
+  },
+  "definition": "n. 附录; 阑尾; 附加物",
+  "explanation": "附录通常用于书籍、报告等中，用来附加详细信息或数据。此外，医学上的阑尾在英文中也用appendix表示。",
+  "mnemonic_methods": {
+    "pronunciation_association": "Appendix的发音有点像'open'（打开），可以联想为打开书本后的额外内容或打开身体内的附加部分。",
+    "etymology": "该词来自拉丁语'appendere'，意为'附加'"
+  },
+  "example_sentences": [
+    "他因为急性阑尾炎不得不进行appendix阑尾切除手术。|He had to undergo an appendix appendectomy due to acute appendicitis."
+  ]
+}

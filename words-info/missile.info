@@ -1,0 +1,16 @@
+{
+  "word": "missile",
+  "pronunciation": {
+    "American": "/ˈmɪsəl/",
+    "British": "/ˈmɪsaɪl/"
+  },
+  "definition": "n. 导弹; 投射物",
+  "explanation": "missile 是指一种可以被发射或投掷的武器或物体。",
+  "mnemonic_methods": {
+    "pronunciation_association": "missile的发音类似于“miss ill（错过生病）”，你可以联想到错过这种武器可能会让人生病。",
+    "etymology": "该词来自拉丁语“missilis”，意为“可投掷的”，源自“mittere”，意为“投掷”。"
+  },
+  "example_sentences": [
+    "他们试图躲避敌方的missile攻击。 | They tried to evade the enemy's missile attacks."
+  ]
+}

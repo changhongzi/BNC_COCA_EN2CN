@@ -1,0 +1,16 @@
+{
+  "word": "magazine",
+  "pronunciation": {
+    "American": "/ˌmægəˈzin/",
+    "British": "/ˌmægəˈziːn/"
+  },
+  "definition": "n. 杂志；弹药库",
+  "explanation": "magazine是指印刷或电子形式的期刊或杂志，也可以指弹药库。",
+  "mnemonic_methods": {
+    "pronunciation_association": "magazine的发音中包含了magi，听起来像magic（魔术），而杂志里的精彩内容就像魔术一般让人着迷。",
+    "etymology": "magazine源自阿拉伯语makhāzin，意为仓库或库房，后来衍生出指存放弹药的意义，再后来引申为指存放各种物品的地方，最终演变成了现今的杂志或期刊。"
+  },
+  "example_sentences": [
+    "士兵们将弹药存放在军火库的magazine里。|The soldiers stored the ammunition in the magazine of the arsenal."
+  ]
+}

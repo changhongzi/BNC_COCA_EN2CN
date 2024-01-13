@@ -1,0 +1,16 @@
+{
+  "word": "Provide",
+  "pronunciation": {
+    "American": "/prəˈvaɪd/",
+    "British": "/prəˈvaɪd/"
+  },
+  "definition": "v. 提供；供给；准备",
+  "explanation": "provide 是一个动词，表示给予或准备所需的东西。",
+  "mnemonic_methods": {
+    "pronunciation_association": "你可以把 provide 的发音拆分成 pro（专门）+vide（视频），意思是专门为某事提供视频或准备好视频。",
+    "etymology": "这个词来自拉丁语 providere，pro-（向前）+ videre（看），它的字面意思是‘向前看’，即提前准备所需的东西。"
+  },
+  "example_sentences": [
+    "政府有责任provide基本的公共服务。|The government has a responsibility to provide basic public services."
+  ]
+}

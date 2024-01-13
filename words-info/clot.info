@@ -1,0 +1,16 @@
+{
+  "word": "clot",
+  "pronunciation": {
+    "American": "/klɑt/",
+    "British": "/klɒt/"
+  },
+  "definition": "n.（血液等的）凝块; v. 凝结，使凝结",
+  "explanation": "Clot是一个名词和动词，作为名词时指表示固体状态的凝块，特指血液中形成的凝块。作为动词时表示使凝结成块状。",
+  "mnemonic_methods": {
+    "pronunciation_association": "Clot的发音和'caught'相似，当我们捕捉到血液中的凝块时，我们可以说我们'caught a clot'。",
+    "etymology": "该词源于古英语clott，意为'团块，凝块'，和现代英语cluster（聚集）有关，可以类比为'聚集在一起形成块状'。"
+  },
+  "example_sentences": [
+    "血液在伤口处凝结成了clot。 | The blood clotted at the wound."
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "word": "curry",
+  "pronunciation": {
+    "American": "/ˈkɜri/",
+    "British": "/ˈkʌri/"
+  },
+  "definition": "n. 咖喱；咖喱饭；调味品；v. 给…加咖喱；梳理（马匹）",
+  "explanation": "curry通过煮、腌制或炸制添加香料而制成。作为名词，它通常指一种热和香气四溢的咖喱菜肴。作为动词，它表示给食物添加咖喱香料或仔细梳理（马匹）。",
+  "mnemonic_methods": {
+    "pronunciation_association": "Curry的发音类似于“咖喱”，这个发音可以让你联想到咖喱的风味。",
+    "etymology": "Curry一词起源于印度词语'kari'，指一种带有香料、辣椒和其他调味品的菜肴。"
+  },
+  "example_sentences": [
+    "她喜欢用各种香料来curry她的菜肴。| She likes to curry her dishes with various spices."
+  ]
+}

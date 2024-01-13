@@ -1,0 +1,16 @@
+{
+  "word": "constellation",
+  "pronunciation": {
+    "American": "/ˌkɑnstəˈleɪʃən/",
+    "British": "/ˌkɒnstəˈleɪʃən/"
+  },
+  "definition": "n. 星座；星群；一系列相联系的事物",
+  "explanation": "constellation 是指一组与星座相关的恒星，也可用来表示一系列相联系的事物。",
+  "mnemonic_methods": {
+    "pronunciation_association": "constellation 中的stella是拉丁语中的星星，而const表示一起，所以constellation就是一起的星星，或者一系列相联系的事物。",
+    "etymology": "constellation源自拉丁语中的constellatio，由con-（一起）+stellatus（星光）构成，指的是一起的星光或星座。"
+  },
+  "example_sentences": [
+    "这个公司致力于打造一系列与环保相关的产品，这些产品构成了他们的constellation。| The company is dedicated to creating a series of environmentally friendly products, which form their constellation."
+  ]
+}

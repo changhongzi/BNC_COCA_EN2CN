@@ -1,0 +1,16 @@
+{
+  "word": "Ferry",
+  "pronunciation": {
+    "American": "/ˈfɛri/",
+    "British": "/ˈfɛri/"
+  },
+  "definition": "n. 渡船；渡口；渡运, v. 用渡船运送；渡运；渡过",
+  "explanation": "Ferry是指用渡船运送人或物，或者渡过水域。在中国，ferry可以指渡船服务或运输工具。",
+  "mnemonic_methods": {
+    "pronunciation_association": "Ferry的发音类似fair（公平），可以联想到渡船服务应该提供公平的服务。",
+    "etymology": "Ferry源自中世纪英语ferien，意为运送，来自拉丁语ferre，意为运输"
+  },
+  "example_sentences": [
+    "我需要乘坐ferry去对岸。 | I need to take a ferry to the other side."
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "word": "dividend",
+  "pronunciation": {
+    "American": "/ˈdɪvɪˌdɛnd/",
+    "British": "/ˈdɪvɪdend/"
+  },
+  "definition": "n. 红利；股息；被除数",
+  "explanation": "dividend是指公司分配给股东的利润或保险公司向保险人支付的份额。在数学中，它还可以表示被除数。",
+  "mnemonic_methods": {
+    "pronunciation_association": "dividend的发音有点像'divide end'，意味着分割的终点，可以联想到公司盈利分配给股东或者数学除法中的被除数。",
+    "etymology": "The word 'dividend' originated from the Latin word 'dividendum', which means 'thing to be divided'."
+  },
+  "example_sentences": [
+    "这次数学作业的难度很大，我需要计算商和dividend。| The math homework was difficult this time, I need to calculate the quotient and dividend."
+  ]
+}

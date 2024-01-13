@@ -1,0 +1,16 @@
+{
+  "word": "meridian",
+  "pronunciation": {
+    "American": "/məˈrɪdiən/",
+    "British": "/məˈrɪdɪən/"
+  },
+  "definition": "n. 子午线；经线；正午；最佳时刻；adj. 子午线的；最高点的",
+  "explanation": "Meridian可以作为名词表示子午线，也可以作为形容词表示最高点的、最佳时刻的。",
+  "mnemonic_methods": {
+    "pronunciation_association": "Meridian的发音中有个词缀meri-，读起来类似美日，可以联想到子午线是日常地理中的一个重要概念。",
+    "etymology": "Meridian源自拉丁语meridianus，意为‘中午的，子午线的’，最初是用来表示太阳到达最高点的时刻，后来扩展到表示子午线。"
+  },
+  "example_sentences": [
+    "这一时刻被认为是我们的生命的meridian，因为它标志着我们迈入了全新的阶段。|This moment is considered the meridian of our lives as it marks the beginning of a whole new phase."
+  ]
+}

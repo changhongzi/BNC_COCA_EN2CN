@@ -1,0 +1,16 @@
+{
+  "word": "Aggressive",
+  "pronunciation": {
+    "American": "/əˈɡrɛsɪv/",
+    "British": "/əˈɡrɛsɪv/"
+  },
+  "definition": "adj. 侵略性的；有进取心的；有攻击性的",
+  "explanation": "Aggressive是一个形容词，通常用来描述人或行为具有侵略性、有进取心、有攻击性的特点。",
+  "mnemonic_methods": {
+    "pronunciation_association": "可以把aggressive拆分成 ag（aggressive的首字母缩写）+gressive（像progressive进步的意思）。所以aggressive就像是进步的、积极主动的意思，但是这里是指过于进取，有攻击性。",
+    "etymology": "aggressive源自拉丁语的aggredī（攻击），aggredī由ad（向）+‎gradi（走）组成，引申为向某人/某物前进以攻击。"
+  },
+  "example_sentences": [
+    "她对这个项目充满了aggressive的热情，总是提出各种进取的想法。|She is aggressive in her enthusiasm for this project, always coming up with enterprising ideas."
+  ]
+}

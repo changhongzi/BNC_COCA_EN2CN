@@ -1,0 +1,16 @@
+{
+  "word": "Bishop",
+  "pronunciation": {
+    "American": "/ˈbɪʃəp/",
+    "British": "/ˈbɪʃəp/"
+  },
+  "definition": "n. 主教",
+  "explanation": "Bishop是基督教的高级官员，掌管某一教区的教务。",
+  "mnemonic_methods": {
+    "pronunciation_association": "Bishop的发音和“fish up”相似，在古代，《圣经》中有故事说耶稣指派彼得通过钓鱼找到钱币，可以联想到这个故事与主教的权力相关。",
+    "etymology": "Bishop源自古英语“biscop”，最初源自希腊语“episkopos”，意为监督或监察。"
+  },
+  "example_sentences": [
+    "她受命成为新任主教，是该地区历史上的第一位女性bishop。 | She was appointed as the new bishop, the first female bishop in the area's history."
+  ]
+}

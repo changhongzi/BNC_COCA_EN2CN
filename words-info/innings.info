@@ -1,0 +1,16 @@
+{
+  "word": "innings",
+  "pronunciation": {
+    "American": "/ˈɪnɪŋz/",
+    "British": "/ˈɪnɪŋz/"
+  },
+  "definition": "n.(板球或棒球比赛的)一局，一回合；一次表现或经历",
+  "explanation": "innings是板球或棒球比赛中的一个术语，表示一局，一回合。在非体育场合中，也可以表示一次表现或经历。",
+  "mnemonic_methods": {
+    "pronunciation_association": "innings的发音中的in像是“一”，结尾的ings像是动词的进行时态，所以innings就好比是“一直进行的一局”",
+    "etymology": "innings源自于英国的板球运动，最初用于表示板球比赛中的一局，后来泛指一次表现或经历"
+  },
+  "example_sentences": [
+    "这场比赛我们的队伍打出了一局精彩的innings。 | Our team played a brilliant innings in this match."
+  ]
+}

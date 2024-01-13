@@ -1,0 +1,16 @@
+{
+  "word": "brain",
+  "pronunciation": {
+    "American": "/breɪn/",
+    "British": "/breɪn/"
+  },
+  "definition": "n. 大脑；智力；脑力",
+  "explanation": "Brain 是指人或动物的头部内含有的控制机体活动和感觉的中枢器官，也用来表示人的智力或脑力。",
+  "mnemonic_methods": {
+    "pronunciation_association": "Brain的读音与英文中的rain相似，可以联想到大脑是人体内部的控制中心，像雨水滋润大地一样滋润着我们的思维。",
+    "etymology": "该词源于古英语的brægen，意为“脑袋”。"
+  },
+  "example_sentences": [
+    "他的brain在数学上非常出色，因此在课堂上总是得心应手。 | His brain is very excellent in mathematics, so he always performs well in class."
+  ]
+}

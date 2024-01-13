@@ -1,0 +1,16 @@
+{
+  "word": "spine",
+  "pronunciation": {
+    "American": "/spaɪn/",
+    "British": "/spaɪn/"
+  },
+  "definition": "n.脊柱；脊椎；刺；书脊",
+  "explanation": "spine是指人体的脊柱或脊椎，也可以指刺或书的脊。",
+  "mnemonic_methods": {
+    "pronunciation_association": "spine的发音和'石拍'很相似，你可以想象在脊柱上贴了一块石头来记忆它的含义。",
+    "etymology": "spine源自拉丁语'spina'，意为'刺、脊柱'，由于人体脊柱形状像一把刺，所以衍生出了这个词义。"
+  },
+  "example_sentences": [
+    "这本书的spine上有一道明显的折痕。|There is a clear crease on the spine of this book."
+  ]
+}

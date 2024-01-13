@@ -1,0 +1,16 @@
+{
+  "word": "rein",
+  "pronunciation": {
+    "American": "/reɪn/",
+    "British": "/reɪn/"
+  },
+  "definition": "n. (通常用复数)缰绳；统治，控制；v. 控制，统治",
+  "explanation": "Rein是指驾驭马匹或其他动物的缰绳，也可以指控制或统治的手段。在 metaphorical expression中，to rein in 表示控制或限制某人或某物。",
+  "mnemonic_methods": {
+    "pronunciation_association": "Rein的发音和rain（雨）有些相似，而雨水总是被自然界所控制和统治的，这可以帮助你记住rein的含义。",
+    "etymology": "Rein源自古英语的regerdan，意为“控制、统治”，类似的含义在现代英语词中也可见，如reign（掌权、统治）"
+  },
+  "example_sentences": [
+    "政府需要采取措施来rein住通货膨胀。|The government needs to take measures to rein in inflation."
+  ]
+}

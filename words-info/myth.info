@@ -1,0 +1,16 @@
+{
+  "word": "myth",
+  "pronunciation": {
+    "American": "/mɪθ/",
+    "British": "/mɪθ/"
+  },
+  "definition": "n. 神话；虚构的事物；错误的想法",
+  "explanation": "Myth 是指古代传说中的故事，通常包含与神或英雄有关的元素，也可以指虚构的事物或错误的观念。",
+  "mnemonic_methods": {
+    "pronunciation_association": "Myth的发音类似于'miss'，想象一个错过的机会或错觉可能是由神话或虚构的事物造成的",
+    "etymology": "Myth源自古希腊词语'mythos'，意为传说或故事"
+  },
+  "example_sentences": [
+    "许多人误以为财富就是幸福，实际上这只是一个错误的myth。 | Many people mistakenly believe that wealth is happiness, but in reality, it's just a myth."
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "word": "Algorithm",
+  "pronunciation": {
+    "American": "/ˈælɡəˌrɪðəm/",
+    "British": "/ˈælɡərɪðəm/"
+  },
+  "definition": "n. 算法；计算程序",
+  "explanation": "Algorithm是指解决问题或执行计算任务的一系列有序步骤。通常用于描述计算机程序中的特定指令序列。",
+  "mnemonic_methods": {
+    "pronunciation_association": "Algorithm的发音中的'go rhythm'让我联想到一种有序的节奏或步骤，正如算法描述的计算步骤一样。",
+    "etymology": "Algorithm源自9世纪波斯数学家Al-Khwarizmi的名字，他开创了代数学和算术学中的新发展，其名字后来演变成了'algorithm'"
+  },
+  "example_sentences": [
+    "我们需要编写一个新的algorithm来优化这个计算程序。 | We need to write a new algorithm to optimize this computing program."
+  ]
+}

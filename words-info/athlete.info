@@ -1,0 +1,16 @@
+{
+  "word": "athlete",
+  "pronunciation": {
+    "American": "/ˈæθlit/",
+    "British": "/ˈæθliːt/"
+  },
+  "definition": "n. 运动员",
+  "explanation": "Athlete是指专业从事体育运动的人，通常指参加体育比赛的人员。",
+  "mnemonic_methods": {
+    "pronunciation_association": "Athlete的发音中含有“let”这个词，可以联想到‘let's go’，表示运动员们让我们一起前往比赛场地。",
+    "etymology": "Athlete源自古希腊语athlētēs，意为参加比赛的人，来自athlein(参加比赛)"
+  },
+  "example_sentences": [
+    "作为一名职业athlete，她每天都进行严格的训练。| As a professional athlete, she undergoes rigorous training every day."
+  ]
+}

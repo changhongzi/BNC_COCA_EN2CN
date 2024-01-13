@@ -1,0 +1,16 @@
+{
+  "word": "dice",
+  "pronunciation": {
+    "American": "/daɪs/",
+    "British": "/daɪs/"
+  },
+  "definition": "n. 骰子; vi. 掷骰子; n. (复数) 摇篮；骰子游戏",
+  "explanation": "Dice 是名词和动词，作为名词，表示骰子；作为动词，表示掷骰子。",
+  "mnemonic_methods": {
+    "pronunciation_association": "Dice的发音和'dice'中的'i'的发音相似，同时'e'发音像'game'中的'e'，因此它可以帮助你记住它是用来玩游戏的物品。",
+    "etymology": "Dice源自古英语'adæx', 意为骰子，与中世纪拉丁语'dados'相通。"
+  },
+  "example_sentences": [
+    "她掷了两次dice，然后宣布自己是赢家。| 她掷了两次骰子，然后宣布自己是赢家。"
+  ]
+}

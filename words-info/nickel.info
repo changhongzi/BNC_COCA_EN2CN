@@ -1,0 +1,16 @@
+{
+  "word": "Nickel",
+  "pronunciation": {
+    "American": "/ˈnɪkəl/",
+    "British": "/ˈnɪkəl/"
+  },
+  "definition": "n. 镍；五分镍币",
+  "explanation": "Nickel 是一种金属元素，也指五分镍币。在化学中，它的符号是Ni，原子序数是28。",
+  "mnemonic_methods": {
+    "pronunciation_association": "Nickel的发音有点像'nickle'，可以联想到五分镍币，因为在美国，五分镍币是由镍合金制成的。",
+    "etymology": "Nickel这个词最早源自德国词‘kupfernickel’，意为“鬼铜”，因为当时矿工发现矿石中含有镍而无法提炼出铜，认为是由鬼神捣鬼"
+  },
+  "example_sentences": [
+    "他收下了我给他的一枚nickel。 | He accepted a nickel from me."
+  ]
+}

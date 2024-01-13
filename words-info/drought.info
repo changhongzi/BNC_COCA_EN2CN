@@ -1,0 +1,16 @@
+{
+  "word": "Drought",
+  "pronunciation": {
+    "American": "/draʊt/",
+    "British": "/draʊt/"
+  },
+  "definition": "n.干旱",
+  "explanation": "比如'drought' 是一个名词，表示长时间的干旱。",
+  "mnemonic_methods": {
+    "pronunciation_association": "可以将'drought'的发音/ draʊt/ 联想为'dry out'（干燥），表示因为干燥而没有雨水的情况。",
+    "etymology": "据信'drought'源自古英语drūgath，意为'干燥'"
+  },
+  "example_sentences": [
+    "由于持续的drought，农作物受到了严重影响。 | The prolonged drought has severely affected the crops."
+  ]
+}

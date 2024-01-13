@@ -1,0 +1,16 @@
+{
+  "word": "dogma",
+  "pronunciation": {
+    "American": "/ˈdɔgmə/",
+    "British": "/ˈdɒgmə/"
+  },
+  "definition": "n.教条；信条",
+  "explanation": "Dogma 是指一种教条或信条，通常是由权威机构或特定团体作出并强制实施的信念或观点。",
+  "mnemonic_methods": {
+    "pronunciation_association": "Dogma的发音有点像'dog maa'，你可以想象一只狗被迫遵守某种规定，这就类似于人们被迫接受某种教条。",
+    "etymology": "来自希腊文'dogma'，意为“观点、决定”"
+  },
+  "example_sentences": [
+    "他坚信这个理论，对于他来说已经成为一种不可动摇的dogma。 | He firmly believes in this theory, which has become an unshakable dogma for him."
+  ]
+}

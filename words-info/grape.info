@@ -1,0 +1,16 @@
+{
+  "word": "grape",
+  "pronunciation": {
+    "American": "/ɡreɪp/",
+    "British": "/ɡreɪp/"
+  },
+  "definition": "n.葡萄",
+  "explanation": "例如'grape'是指葡萄的意思，在中文中可以用来指代水果中的葡萄。",
+  "mnemonic_methods": {
+    "pronunciation_association": "你可以把grape的发音联想成great pear（好梨），这样就能记住它是一种美味水果了。",
+    "etymology": "来源于古法语“raisin”, 意为“葡萄”，而raisin又源自拉丁语“racemus”，意为“一串葡萄”"
+  },
+  "example_sentences": [
+    "她喜欢在早餐时吃些grape，以增添一些水果的口感。 | She likes to eat some grapes at breakfast to add some fruity taste."
+  ]
+}

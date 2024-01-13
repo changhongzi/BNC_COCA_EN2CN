@@ -1,0 +1,16 @@
+{
+  "word": "farewell",
+  "pronunciation": {
+    "American": "/ˌfɛrˈwɛl/",
+    "British": "/ˌfeəˈwel/"
+  },
+  "definition": "n.告别；告别词",
+  "explanation": "farewell 是一个名词，通常表示离别或告别时使用的词语。",
+  "mnemonic_methods": {
+    "pronunciation_association": "farewell的发音中有'well'，好像well（井）,离别时的眼泪就像从井里流出一样。这可以帮助你记住farewell的含义。",
+    "etymology": "farewell源自中世纪英语的“far wel”，far意为'远的'，wel意为'好'，合起来就是'告别'的意思。"
+  },
+  "example_sentences": [
+    "这是我们最后的道别，farewell。|This is our final farewell."
+  ]
+}

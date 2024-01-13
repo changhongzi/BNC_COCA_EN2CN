@@ -1,0 +1,16 @@
+{
+  "word": "lymphocyte",
+  "pronunciation": {
+    "American": "/ˈlɪmfəsaɪt/",
+    "British": "/ˈlɪmfəsaɪt/"
+  },
+  "definition": "n.淋巴细胞（在淋巴组织中产生的一类白细胞）",
+  "explanation": "lymphocyte 是一种白细胞，产生于淋巴组织中。它在人体的免疫系统中发挥关键作用。",
+  "mnemonic_methods": {
+    "pronunciation_association": "将lymphocyte 分解为 lymph（淋巴）+ cyte（细胞），通过这样的联想来记住这个词语的含义。",
+    "etymology": "词源来自淋巴细胞的生物学术语，由lymph（淋巴）和cyte（细胞）组合而成。"
+  },
+  "example_sentences": [
+    "T细胞和B细胞是两类重要的lymphocyte。 |T细胞和B细胞是两类重要的lymphocyte。"
+  ]
+}

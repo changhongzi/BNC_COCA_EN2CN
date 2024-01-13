@@ -1,0 +1,16 @@
+{
+  "word": "Hangover",
+  "pronunciation": {
+    "American": "/ˈhæŋˌoʊvər/",
+    "British": "/ˈhæŋəʊvər/"
+  },
+  "definition": "n.宿醉",
+  "explanation": "hangover 是因为酗酒后留下的不适感，通常伴随头痛、恶心、眼睑发胀和口干。例如，昨晚他喝得太多了，现在他感到了宿醉的不适。",
+  "mnemonic_methods": {
+    "pronunciation_association": "hangover 的发音含有 hang 和 over，就像是上一晚喝的太多，直至天亮。",
+    "etymology": "hangover 源自于19世纪早期的美国英语，最初是指宿醉的状态。hang 这个字指的是停滞，而 over 表示延伸至次日。"
+  },
+  "example_sentences": [
+    "昨晚的狂欢留下了糟糕的 hangover。 | Last night's party left a terrible hangover."
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "word": "Recession",
+  "pronunciation": {
+    "American": "/rɪˈsɛʃən/",
+    "British": "/rɪˈseʃən/"
+  },
+  "definition": "n.经济衰退，经济萧条",
+  "explanation": "Recession是指经济出现衰退和衰退的情况。它通常包括国内生产总值下降、失业率上升以及消费减少等情况。",
+  "mnemonic_methods": {
+    "pronunciation_association": "Recession的发音中包含'session'，可以联想到经济衰退期间企业召开的会议变得越来越频繁，以寻找应对经济衰退的方法。",
+    "etymology": "Recession源自拉丁语recessio，意为“撤回、撤退”，而在经济术语中指的是经济的撤退、萧条。"
+  },
+  "example_sentences": [
+    "上个世纪30年代的大萧条是美国历史上最为严重的recession之一。｜The Great Depression of the 1930s was one of the most serious recessions in American history."
+  ]
+}

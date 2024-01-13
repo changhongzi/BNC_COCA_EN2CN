@@ -1,0 +1,16 @@
+{
+  "word": "Panel",
+  "pronunciation": {
+    "American": "/ˈpænəl/",
+    "British": "/ˈpænəl/"
+  },
+  "definition": "n. 面板；专门小组；仪表板；vt. 用板覆盖；选定（人员）组成小组",
+  "explanation": "Panel是一个名词，它可以指代建筑物中的面板部分，也可以指专门的小组，例如专门委员会。作为动词，它可以表示用板覆盖或选定人员组成小组。",
+  "mnemonic_methods": {
+    "pronunciation_association": "Panel的发音和'pan'相似，'pan'在英文中可以指盘子或平底锅，你可以想象panel就是房子或设备的平整表面。",
+    "etymology": "Panel源自古法语'panel'，意为小块，同时也有'little piece of paper'的意思，这可以让你联想到panel是由小块组成的表面或专门小组。"
+  },
+  "example_sentences": [
+    "我们需要选定一个panel来解决这个问题。| We need to select a panel to address this issue."
+  ]
+}

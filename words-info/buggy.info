@@ -1,0 +1,16 @@
+{
+  "word": "Buggy",
+  "pronunciation": {
+    "American": "/ˈbʌɡi/",
+    "British": "/ˈbʌɡi/"
+  },
+  "definition": "n. (美)小轻型马车；(英)购物手推车；a. 有bug的；易受到bug影响的",
+  "explanation": "Buggy是一个名词，可以表示小轻型马车或购物手推车，此外也可以用作形容词，表示有bug的或易受到bug影响的。",
+  "mnemonic_methods": {
+    "pronunciation_association": "Buggy的发音有点像英文单词bug，可以通过这个发音来联想到它常见于软件bug或者车辆故障中。",
+    "etymology": "Buggy最初用作对小轻型马车的描述，后来扩展到软件bug和其他类型的故障或缺陷上。"
+  },
+  "example_sentences": [
+    "他的新软件由于buggy而在发布后迅速引起了用户的不满。 | His new software quickly drew users' dissatisfaction due to being buggy after release."
+  ]
+}

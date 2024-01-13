@@ -1,0 +1,16 @@
+{
+  "word": "Passive",
+  "pronunciation": {
+    "American": "/ˈpæsɪv/",
+    "British": "/ˈpæsɪv/"
+  },
+  "definition": "adj. 被动的；消极的；无活力的；无抵抗的；n. 被动语态",
+  "explanation": "Passive是一个表示被动和消极的形容词。在中文中，passive可以表示被动、消极或无活力。在语法中，也可以表示被动语态。",
+  "mnemonic_methods": {
+    "pronunciation_association": "Passive的发音像'pasta'（面食），可以联想到被动和消极的状态，好像在吃面条时消极无力的状态。",
+    "etymology": "Passive源自拉丁语'passivus'，意思是'被动的、顺从的'"
+  },
+  "example_sentences": [
+    "在这个项目中，他表现得很消极，没有展现出足够的passive。 | He has been quite passive in this project, not showing enough passivity."
+  ]
+}

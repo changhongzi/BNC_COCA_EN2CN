@@ -1,0 +1,16 @@
+{
+  "word": "Metabolic",
+  "pronunciation": {
+    "American": "/məˈtæbəlɪk/",
+    "British": "/məˈtæbəlɪk/"
+  },
+  "definition": "adj. 新陈代谢的；代谢的",
+  "explanation": "比如'Metabolic'是一个形容词，通常用来描述与新陈代谢或代谢过程有关的事物。",
+  "mnemonic_methods": {
+    "pronunciation_association": "你可以将'metabolic'的发音'媒体波力客'与metabolism（新陈代谢）联想起来，这有助于记忆",
+    "etymology": "Metabolic源自希腊语metabolē（改变、转变），加上后缀-ic，表示与新陈代谢有关"
+  },
+  "example_sentences": [
+    "良好的饮食和锻炼有助于提高身体的metabolic水平。|A healthy diet and exercise can improve the body's metabolic rate."
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "word": "nitrogen",
+  "pronunciation": {
+    "American": "/ˈnaɪtrədʒən/",
+    "British": "/ˈnaɪtrədʒən/"
+  },
+  "definition": "n.氮",
+  "explanation": "比如nitrogen指的是一种气体，化学符号为N，原子序数为7。",
+  "mnemonic_methods": {
+    "pronunciation_association": "氮的发音有点像'你忒软'，我们常说'你忒软'指的是气场比较软弱，所以可以联想到nitrogen是一种气体。",
+    "etymology": "nitrogen这个词源于希腊语中的nitron（硝石）和gen（产生），因此，意思是‘产生硝石的’。"
+  },
+  "example_sentences": [
+    "这种植物需要大量的nitrogen才能生长茂盛。|This plant needs a lot of nitrogen to grow well."
+  ]
+}

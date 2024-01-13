@@ -1,0 +1,16 @@
+{
+  "word": "competition",
+  "pronunciation": {
+    "American": "/ˌkɑmpəˈtɪʃən/",
+    "British": "/ˌkɒmpəˈtɪʃən/"
+  },
+  "definition": "n.竞争；比赛；竞赛",
+  "explanation": "competition是指为争夺同一目标（如奖品、地位）而进行的竞争。通常指各方为了获得胜利、成就或奖品而竞相努力。",
+  "mnemonic_methods": {
+    "pronunciation_association": "competition的发音中含有pet（宠物）这样的音节，可以联想到比赛中人们为了获得宠物而努力竞争的画面。",
+    "etymology": "competition源自拉丁语中的competere，com（共同）+ petere（寻求），即共同寻求胜利，引申为竞争。"
+  },
+  "example_sentences": [
+    "这场比赛是一场激烈的competition，每个队伍都渴望夺冠。 | This match is a fierce competition, and every team is eager to win the championship."
+  ]
+}

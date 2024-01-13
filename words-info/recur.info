@@ -1,0 +1,16 @@
+{
+  "word": "Recur",
+  "pronunciation": {
+    "American": "/rɪˈkɜr/",
+    "British": "/rɪˈkɜː/"
+  },
+  "definition": "vi. 重现，重新发生；再次发生；vi. 回到脑海中，重新考虑；重新出现，复发",
+  "explanation": "Recur 是一个及物动词，意思是某事再次发生或出现，或者重新在某人的思想中产生。",
+  "mnemonic_methods": {
+    "pronunciation_association": "Recur 的发音像're'-come，表示再次来，所以可以联想到某事再次发生或出现。",
+    "etymology": "Recur 源自拉丁语的 're-' 意味着 '再次'，以及 'currere' 意味着 '跑，奔跑'。"
+  },
+  "example_sentences": [
+    "他儿时的梦想现在又再次在他的脑海中recur。 | His childhood dream recurs in his mind now."
+  ]
+}

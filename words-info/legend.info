@@ -1,0 +1,16 @@
+{
+  "word": "legend",
+  "pronunciation": {
+    "American": "/ˈlɛdʒənd/",
+    "British": "/ˈlɛdʒənd/"
+  },
+  "definition": "n.传说；传奇故事；图例；说明书",
+  "explanation": "比如'legend'是一个名词，它可以指代传说、传奇故事或者图例、说明书。例如在地图中，legend指代地图上的各种符号和颜色的说明。",
+  "mnemonic_methods": {
+    "pronunciation_association": "Legend的发音像'ledge-end'，你可以通过将其解读为'诸神的尽头'来让它记忆深刻。",
+    "etymology": "Legend源自拉丁词'legere'，意为读取或挑选，可能与传说有关，因为传说通常是被人们挑选和传颂的故事。"
+  },
+  "example_sentences": [
+    "地图上的legend可以帮助人们理解地图上的符号和指示。 | The legend on the map helps people understand the symbols and instructions on the map."
+  ]
+}

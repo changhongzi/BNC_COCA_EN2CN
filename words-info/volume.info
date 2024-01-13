@@ -1,0 +1,16 @@
+{
+  "word": "volume",
+  "pronunciation": {
+    "American": "/ˈvɑl.jum/",
+    "British": "/ˈvɒl.juːm/"
+  },
+  "definition": "n. 音量；体积；卷；册",
+  "explanation": "Volume 是一个名词，表示三维空间中所占的大小，也可以指书籍中的一个部分或一本书。",
+  "mnemonic_methods": {
+    "pronunciation_association": "Volume的发音和“沃姆”很相似，你可以想象一个巨大的沃姆，它占据了很大的体积。",
+    "etymology": "Volume源自拉丁词volumen，意为卷、册，源自动词volvere，意为滚动、转动。"
+  },
+  "example_sentences": [
+    "这套图书馆有一个巨大的volume。|The library has a huge volume of space."
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "word": "shrimp",
+  "pronunciation": {
+    "American": "/ʃrɪmp/",
+    "British": "/ʃrɪmp/"
+  },
+  "definition": "n.小虾; vi. 捕虾",
+  "explanation": "shrimp 是指小型海洋动物，通常用于食物或捕捞的动作。",
+  "mnemonic_methods": {
+    "pronunciation_association": "shrimp的发音类似shrill（尖声的），可以让你联想到小虾在水中移动时可能发出的尖声。",
+    "etymology": "该词源于古英语的scrimman，意为“捡拾、搜寻”"
+  },
+  "example_sentences": [
+    "他们今天下午要去海边捕捞shrimp。 |They are going to the beach to catch shrimp this afternoon."
+  ]
+}

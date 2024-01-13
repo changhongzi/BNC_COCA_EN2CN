@@ -1,0 +1,16 @@
+{
+  "word": "Sonnet",
+  "pronunciation": {
+    "American": "/ˈsɑnɪt/",
+    "British": "/ˈsɒnɪt/"
+  },
+  "definition": "n. 十四行诗（通常指意大利或英国文学中的一种特定形式，常表达爱情或抒发思想）",
+  "explanation": "Sonnet是一种特定形式的诗歌，通常由十四行组成，形式和韵律有严格的要求。这种诗体在意大利和英国文学中很常见，常用于表达爱情或抒发思想。",
+  "mnemonic_methods": {
+    "pronunciation_association": "Sonnet的发音类似于'son net'，类比成儿子（son）在网上（net）分享自己的情感故事，这情感故事通常以十四行诗的形式呈现。",
+    "etymology": "Sonnet源自意大利文'sonetto'，意为小诗歌或小歌，最早是用来进行音乐演唱的。"
+  },
+  "example_sentences": [
+    "这首sonnet表达了诗人对大自然的赞美与思考。 | This sonnet expresses the poet's praise and contemplation of nature."
+  ]
+}

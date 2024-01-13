@@ -1,0 +1,16 @@
+{
+  "word": "Methyl",
+  "pronunciation": {
+    "American": "/ˈmɛθɪl/",
+    "British": "/ˈmɛθɪl/"
+  },
+  "definition": "n. 甲基（有机化合物中的一种基团，化学式为-CH3）",
+  "explanation": "Methyl是有机化合物中的一种基团，化学式为-CH3。",
+  "mnemonic_methods": {
+    "pronunciation_association": "Methyl的发音像'me-thi-'ll'，可以联想到这是一种化学基团的名称。",
+    "etymology": "Methyl一词源自希腊语，意为'木材'，表示甲基基团曾最早从木材中分离得到。"
+  },
+  "example_sentences": [
+    "这种化合物含有一个methyl基团，使其具有特定的化学性质。 | This compound contains a methyl group, giving it specific chemical properties."
+  ]
+}

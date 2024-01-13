@@ -1,0 +1,16 @@
+{
+  "word": "presence",
+  "pronunciation": {
+    "American": "/ˈprɛzəns/",
+    "British": "/ˈprɛzəns/"
+  },
+  "definition": "n. 存在；出现；出席；面前；仪态",
+  "explanation": "Presence的意思是所在的地方或存在的状态。例如，当你在会议上发言时，你需要展现出自信和专业presence。",
+  "mnemonic_methods": {
+    "pronunciation_association": "Presence的发音像是“prepare-sense”，意味着准备和意识，当你在面对重要场合时，你需要有所准备和意识。",
+    "etymology": "Presence源自拉丁词praesentia，praesens（在场的，出席的），其中praes-表示前面，在...之前；-ent出现，存在。"
+  },
+  "example_sentences": [
+    "她的出现为整个活动增添了一份特别的presence。 | Her presence added a special touch to the whole event."
+  ]
+}

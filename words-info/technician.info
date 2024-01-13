@@ -1,0 +1,16 @@
+{
+  "word": "Technician",
+  "pronunciation": {
+    "American": "/tɛkˈnɪʃən/",
+    "British": "/tɛkˈnɪʃən/"
+  },
+  "definition": "n.技术员，技师",
+  "explanation": "Technician是一个名词，指的是在特定领域有专门技术知识和技能的人员。",
+  "mnemonic_methods": {
+    "pronunciation_association": "Technician的发音中含有“tech”，而tech是指技术或技术领域，这可以帮助记忆它与技术相关。",
+    "etymology": "这个词源自希腊语'τέχνη'（技术、技艺）和英语词尾'-ician'，表示一个从事特定职业或领域的人。"
+  },
+  "example_sentences": [
+    "这家公司正在招聘数位技术员来维护他们的网络和IT系统。 |The company is recruiting several technicians to maintain their network and IT systems."
+  ]
+}

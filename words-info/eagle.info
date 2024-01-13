@@ -1,0 +1,16 @@
+{
+  "word": "Eagle",
+  "pronunciation": {
+    "American": "/ˈiɡəl/",
+    "British": "/ˈiːɡl/"
+  },
+  "definition": "n. (美、英)雄鹰；鹰（可作为国徽图案）",
+  "explanation": "Eagle是一个名词，指一种大型猛禽，常被用作国徽图案。在中文中同样指这种大型猛禽。",
+  "mnemonic_methods": {
+    "pronunciation_association": "Eagle的发音中包含“e”和“gle”，可以通过“e”字母联想到elegant（优雅）这个词，而雄鹰展翅飞翔的场景也是非常优雅的。",
+    "etymology": "Eagle这个词源于古英语词汇“egele”，后来演变为古英语词汇“éagal”，再之后演变为现代英语的eagle。"
+  },
+  "example_sentences": [
+    "杰克喜爱观察山顶上盘旋的eagle。 | Jack enjoys watching the eagles soaring over the mountaintops."
+  ]
+}

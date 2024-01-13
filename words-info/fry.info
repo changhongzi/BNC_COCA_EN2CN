@@ -1,0 +1,16 @@
+{
+  "word": "fry",
+  "pronunciation": {
+    "American": "/fraɪ/",
+    "British": "/fraɪ/"
+  },
+  "definition": "n.油炸食品；鱼苗；v. 油炸；煎；产卵",
+  "explanation": "Fry是一个多义词，作为名词时，它可以指油炸食品或鱼类的幼鱼；作为动词时，它表示用油炸或煎食物，也可用于指动物产卵。",
+  "mnemonic_methods": {
+    "pronunciation_association": "Fry的发音像'fry'（煎），这个词可以帮助你记住它指烹饪食物的含义。",
+    "etymology": "Fry最初用作动词，来自古英语'frēosan'，意为炸或烹饪，后来才衍生出名词含义。"
+  },
+  "example_sentences": [
+    "这条河中有很多鱼的幼鱼在游动，它们是河流的fry。 | There are many fry swimming in the river, they are the fry of the river."
+  ]
+}

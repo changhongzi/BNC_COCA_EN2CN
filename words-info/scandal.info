@@ -1,0 +1,16 @@
+{
+  "word": "scandal",
+  "pronunciation": {
+    "American": "/ˈskændl/",
+    "British": "/ˈskændl/"
+  },
+  "definition": "n. 丑闻；丑行；流言蜚语",
+  "explanation": "Scandal 是指一件引起公愤或厌恶的丑闻或丑行，也可以指流言蜚语造成的丑闻。",
+  "mnemonic_methods": {
+    "pronunciation_association": "Scandal的发音中有can，似乎在告诉你，任何丑闻都是可以被传播的",
+    "etymology": "Scandal源自希腊语skandalon，最初指'陷阱'或'诱惑'，后来引申为指引人入 '丑闻'的陷阱"
+  },
+  "example_sentences": [
+    "她的行为引起了一场巨大的scandal。 | Her actions caused a huge scandal."
+  ]
+}

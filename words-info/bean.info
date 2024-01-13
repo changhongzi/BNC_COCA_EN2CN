@@ -1,0 +1,16 @@
+{
+  "word": "bean",
+  "pronunciation": {
+    "American": "/bin/",
+    "British": "/biːn/"
+  },
+  "definition": "n. 豆；蛋白质；头",
+  "explanation": "比如'bean'是一个多义词，它可以表示豆类食品，也可以指蛋白质，还可用来形容人的头部。",
+  "mnemonic_methods": {
+    "pronunciation_association": "bean的发音和'bin'很接近，你可以把一个大豆当作放在垃圾回收箱（英文称为bin）中的小东西，这样就能记住bean的意义了。",
+    "etymology": "bean一词源自古英语'bēan'，最早用于指所有豆类，如豌豆、菜豆、黄豆等。"
+  },
+  "example_sentences": [
+    "他被打了一下头，直接撞到了门框上，被称为他脑袋被bean了。|He was hit on the head and bumped into the door frame, it's called he got beaned on his head."
+  ]
+}

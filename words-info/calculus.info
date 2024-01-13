@@ -1,0 +1,16 @@
+{
+  "word": "calculus",
+  "pronunciation": {
+    "American": "/ˈkælkjələs/",
+    "British": "/ˈkælkjʊləs/"
+  },
+  "definition": "n. （一门学科，涉及变化和累积的研究）微积分; 结石；牙菌斑; （尤指）罪恶或错误的结果",
+  "explanation": "Calculus是一门涉及变化和累积研究的学科。在数学中，它指微积分。在医学上，它指结石或牙菌斑。在一般情况下，它也可以表示罪恶或错误的结果。",
+  "mnemonic_methods": {
+    "pronunciation_association": "Calculus的发音类似calculate（计算），可以联想到这是一门与变化和累积相关的学科。",
+    "etymology": "这个词来自拉丁语“calculus”，原指一块小石头，后来引申出表示累积和计算的意义。"
+  },
+  "example_sentences": [
+    "医生建议她去除牙菌斑，以免形成结石。医生建议她去除calculus，以免形成结石。|The doctor advised her to remove the calculus to prevent the formation of stones."
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "word": "redundant",
+  "pronunciation": {
+    "American": "/rɪˈdʌndənt/",
+    "British": "/rɪˈdʌndənt/"
+  },
+  "definition": "adj. 多余的；过剩的；被解雇的；（因故障等）失效的",
+  "explanation": "当我们说某物是redundant时，意味着它是多余的或不需要的。",
+  "mnemonic_methods": {
+    "pronunciation_association": "The pronunciation 're-dund-ant' sounds like 're-do-nothing', which can remind you that something redundant is unnecessary and not needed to be done again.",
+    "etymology": "The word 'redundant' originated from the Latin word 'redundare', which means 'to overflow, be overfull, be in excess'."
+  },
+  "example_sentences": [
+    "他的职位被宣布redundant后，他开始寻找新的工作。|After his position was declared redundant, he started looking for a new job."
+  ]
+}

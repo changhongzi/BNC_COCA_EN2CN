@@ -1,0 +1,16 @@
+{
+  "word": "institution",
+  "pronunciation": {
+    "American": "/ˌɪnstəˈtuʃən/",
+    "British": "/ˌɪnstɪˈtjuːʃn/"
+  },
+  "definition": "n.机构；制度；惯例",
+  "explanation": "institution 是指一个组织、机构或制度，通常是长期存在的，并具有特定的功能或目的。",
+  "mnemonic_methods": {
+    "pronunciation_association": "将institution 分解成 in + stitu + tion，可以联想到 in the situation（在这种情况下），表示一种特定的组织或制度存在的情况。",
+    "etymology": "该词源自拉丁词institutionem，意为“安置、建立、教育”，其含义逐渐扩展为今天的机构、制度的意义。"
+  },
+  "example_sentences": [
+    "家庭是社会中最基本的institution之一，承担着重要的社会职能。 | Family is one of the most basic institutions in society, undertaking important social functions."
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "word": "Echo",
+  "pronunciation": {
+    "American": "/ˈɛkoʊ/",
+    "British": "/ˈɛkəʊ/"
+  },
+  "definition": "n.回声；vt.重复，模仿；vi.回响，随声附和",
+  "explanation": "Echo是一个名词和动词，作为名词时，指声音的反射；作为动词时，表示重复或模仿他人的声音。",
+  "mnemonic_methods": {
+    "pronunciation_association": "Echo的发音和'爱可'接上了，就像爱情和回声，可以联想到它的含义。",
+    "etymology": "Echo源自希腊神话中的美丽的山林仙女的名字，她因喜欢重复别人的话而被宙斯惩罚"
+  },
+  "example_sentences": [
+    "她的话在大厅里回荡着，仿佛是一种心灵的echo。 | Her words echoed through the hall, as if it was an echo of the soul."
+  ]
+}

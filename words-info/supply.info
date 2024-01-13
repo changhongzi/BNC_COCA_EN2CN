@@ -1,0 +1,16 @@
+{
+  "word": "supply",
+  "pronunciation": {
+    "American": "/səˈplaɪ/",
+    "British": "/səˈplaɪ/"
+  },
+  "definition": "n. 供应；供给品；vt. 供应，供给；提供",
+  "explanation": "Supply是一个既可作名词又可作动词的词语。作为名词，它通常表示供应或供给的物品，而作为动词，它意味着提供或供应所需的物品或信息。",
+  "mnemonic_methods": {
+    "pronunciation_association": "Supply的发音中有个'ply'，与'apply'的发音相似，都与提供相关。",
+    "etymology": "Supply源自古法语'supplier'，源自拉丁语'supplere'，意为'补充、供给'"
+  },
+  "example_sentences": [
+    "政府正在努力满足市民的需求，提供足够的医疗supply。| The government is working hard to meet the needs of the citizens and provide an adequate supply of medical goods."
+  ]
+}

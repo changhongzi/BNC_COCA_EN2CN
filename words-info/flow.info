@@ -1,0 +1,16 @@
+{
+  "word": "Flow",
+  "pronunciation": {
+    "American": "/floʊ/",
+    "British": "/fləʊ/"
+  },
+  "definition": "n.流动；流量；液态，液体； vi.流动；涌现； vt.使流动",
+  "explanation": "Flow是一个既可做名词又可做动词的词语。作为名词，它通常指液体、气体或其他物质的流动或流量。作为动词，它意味着自然地或顺畅地移动，或者指动作中的连贯性。",
+  "mnemonic_methods": {
+    "pronunciation_association": "Flow的发音和'float'（漂浮）相近，可以联想到液体或气体的自然流动，同时也可以想象到身体和思维的自然流畅。",
+    "etymology": "Flow源自古英语的flōwan，意为'流动、涌现'。"
+  },
+  "example_sentences": [
+    "在这部作品中，作者的思想和情感如同潮水般源源不断地flow。 | In this work, the author's thoughts and emotions flow like a tide without end."
+  ]
+}

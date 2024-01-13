@@ -1,0 +1,16 @@
+{
+  "word": "relax",
+  "pronunciation": {
+    "American": "/rɪˈlæks/",
+    "British": "/rɪˈlæks/"
+  },
+  "definition": "v. 放松；使松弛；缓和；使松懈",
+  "explanation": "例如'relax'是一个表示放松或缓和的动词，可以用来描述身体或情绪的松弛和轻松。",
+  "mnemonic_methods": {
+    "pronunciation_association": "Relax的发音可以让你联想到release（释放），当你relax时，你会释放压力，变得轻松。",
+    "etymology": "这个词源自拉丁语relaxare，re-表示'反转'，+ laxus表示'松弛'，可以帮助你理解现代含义。"
+  },
+  "example_sentences": [
+    "周末我打算去海边relax一下。 | I plan to relax at the beach over the weekend."
+  ]
+}

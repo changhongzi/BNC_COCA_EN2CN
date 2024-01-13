@@ -1,0 +1,16 @@
+{
+  "word": "tide",
+  "pronunciation": {
+    "American": "/taɪd/",
+    "British": "/taɪd/"
+  },
+  "definition": "n. 潮；潮汐；潮流；潮水; vt. 随潮汐而动",
+  "explanation": "Tide 是指海洋的周期性涨落，也可用于比喻。动词形式表示随潮水而动。",
+  "mnemonic_methods": {
+    "pronunciation_association": "Tide 的发音类似于“泰德”，你可以把泰德想象成一个海洋冒险家，总是随着潮汐而行。",
+    "etymology": "Tide 源自古英语词汇，意为“时间、季节、顺序”，后来引申为“潮汐、潮水”。"
+  },
+  "example_sentences": [
+    "经济形势也许正在发生变化，我们要随tide而动。 | The economic situation may be changing, we need to tide over."
+  ]
+}

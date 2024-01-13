@@ -1,0 +1,16 @@
+{
+  "word": "margin",
+  "pronunciation": {
+    "American": "/ˈmɑrdʒən/",
+    "British": "/ˈmɑːdʒɪn/"
+  },
+  "definition": "n. 边缘；利润；余地",
+  "explanation": "Margin是指页面的边缘、利润或余地。在财务上，margin表示销售产品的价格与生产成本之间的差额，也可以表示交易的净收益。在页面设计中，margin指的是文本或其他元素与页面边缘之间的距离。",
+  "mnemonic_methods": {
+    "pronunciation_association": "Margin的发音有点像“马赛赛跑进”，你可以想象一匹马在边缘奔跑，或者在利润的边缘获得胜利。",
+    "etymology": "Margin源自拉丁语“margo”，意为边缘。"
+  },
+  "example_sentences": [
+    "请确保文本与页面边缘保持一定的margin，以便阅读和布局。|Please make sure there is enough margin between the text and the edge of the page for readability and layout."
+  ]
+}

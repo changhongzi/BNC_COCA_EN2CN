@@ -1,0 +1,16 @@
+{
+  "word": "skipper",
+  "pronunciation": {
+    "American": "/ˈskɪpər/",
+    "British": "/ˈskɪpər/"
+  },
+  "definition": "n. 船长；队长；领队；机长；甲板长",
+  "explanation": "Skipper 是一个名词，通常用来指代船长、队长、领队等。在航海、体育或者航空领域都可以使用。",
+  "mnemonic_methods": {
+    "pronunciation_association": "Skipper 的发音有点像 skip（跳过）, 可以联想到船长或者队长可以带领船只或团队安全地跳过艰难的局面。",
+    "etymology": "Skipper 最早源自荷兰语的schipper，最初指的是船长，后来扩展到其他领域的队长、领队等含义。"
+  },
+  "example_sentences": [
+    "作为足球队的skipper，他展现出了非凡的领导能力。|As the skipper of the football team, he demonstrated extraordinary leadership skills."
+  ]
+}

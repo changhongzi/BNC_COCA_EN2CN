@@ -1,0 +1,16 @@
+{
+  "word": "alps",
+  "pronunciation": {
+    "American": "/ælps/",
+    "British": "/ælps/"
+  },
+  "definition": "n. 阿尔卑斯山脉",
+  "explanation": "alps是指位于欧洲的阿尔卑斯山脉，也可以指阿尔卑斯山脉周围的地区。",
+  "mnemonic_methods": {
+    "pronunciation_association": "alps的发音类似于单词alphabet（字母表），你可以联想字母表上的字母排列得像一座山。",
+    "etymology": "alps一词源自拉丁语Alpes，据信与一种印欧语根*alb-(高处、白色)有关。"
+  },
+  "example_sentences": [
+    "他们去年夏天在alps度假。 | They went on a vacation in the Alps last summer."
+  ]
+}

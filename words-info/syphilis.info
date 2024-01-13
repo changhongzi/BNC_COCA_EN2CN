@@ -1,0 +1,16 @@
+{
+  "word": "syphilis",
+  "pronunciation": {
+    "American": "/ˈsɪfɪlɪs/",
+    "British": "/ˈsɪfɪlɪs/"
+  },
+  "definition": "n. 梅毒",
+  "explanation": "syphilis是一种性传播疾病，可以通过性接触传播。它通常分为三个阶段：第一个阶段是发生潜伏期，第二个是出现症状或皮疹，第三个是可能出现严重器官损害。",
+  "mnemonic_methods": {
+    "pronunciation_association": "syphilis的发音中有个‘sif’很像‘safe’（安全），但实际上却代表着一种危险的传染病。这种反差可以帮助记忆。",
+    "etymology": "The term comes from the name of a character in a poem by Italian physician and poet Girolamo Fracastoro, which was written in 1530. The poem depicts the ravages of the disease in an epic style."
+  },
+  "example_sentences": [
+    "她可能感染了syphilis，所以她需要尽快就医进行检查。|She may have contracted syphilis, so she needs to seek medical attention for testing as soon as possible."
+  ]
+}

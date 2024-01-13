@@ -1,0 +1,16 @@
+{
+  "word": "argue",
+  "pronunciation": {
+    "American": "/ˈɑr·ɡju/",
+    "British": "/ˈɑː·ɡju/"
+  },
+  "definition": "vi. 争论; 辩论; vt. 主张，辩论，劝说",
+  "explanation": "argue是一个动词，表示就某事物或观点与他人进行争论、辩论，也可以表示坚持某种观点或主张。",
+  "mnemonic_methods": {
+    "pronunciation_association": "argue 听起来像 are you，你可以想象两个人在对话中进行辩论。",
+    "etymology": "argue源自拉丁语arguere，意为“证明、辩论、指责”，引申为英语中的argue"
+  },
+  "example_sentences": [
+    "我会argue这个决定是错误的。| 我会argue这个决定是错误的。"
+  ]
+}

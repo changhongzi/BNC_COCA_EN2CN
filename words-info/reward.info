@@ -1,0 +1,16 @@
+{
+  "word": "reward",
+  "pronunciation": {
+    "American": "/rɪˈwɔrd/",
+    "British": "/rɪˈwɔːd/"
+  },
+  "definition": "n. 奖赏，报酬；v. 奖赏，报答",
+  "explanation": "Reward是一个名词和动词，作为名词时，它表示奖赏或报酬；作为动词时，它表示给予奖赏或报答。",
+  "mnemonic_methods": {
+    "pronunciation_association": "Reward的发音中的 'war' ，可以让你联想到获得奖赏就像是一场战争的胜利一样，令人兴奋。",
+    "etymology": "Reward源自古法语 're-warder'，由're-'（再次）+ 'warder'（看守），表示再次给予看守，即奖赏。"
+  },
+  "example_sentences": [
+    "努力工作将会获得丰厚的reward。|Hard work will be rewarded with generous rewards."
+  ]
+}

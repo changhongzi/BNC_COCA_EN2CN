@@ -1,0 +1,16 @@
+{
+  "word": "helicopter",
+  "pronunciation": {
+    "American": "/ˈhɛlɪˌkɑptər/",
+    "British": "/ˈhɛlɪˌkɒptər/"
+  },
+  "definition": "n. 直升机",
+  "explanation": "helicopter 是指一种通过旋转叶片提供升力并能够垂直起降的飞行器。在中文中也称为直升机。",
+  "mnemonic_methods": {
+    "pronunciation_association": "可以将 helicopter 的发音分解为 heli- 和 copter，联想单词 heli- 与直升机相关，而 copter 听起来像“copter”或飞行器。",
+    "etymology": "该词源于希腊语 heliko-（螺旋线）和 pteron（翅膀），与其飞行方式相关。"
+  },
+  "example_sentences": [
+    "我们乘坐helicopter飞越了峡谷，欣赏到了壮丽的风景。|We flew over the canyon in a helicopter and saw the magnificent scenery."
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "word": "butcher",
+  "pronunciation": {
+    "American": "/ˈbʊtʃər/",
+    "British": "/ˈbʊtʃər/"
+  },
+  "definition": "n.屠夫；刽子手；v. 屠宰；滥杀；残忍地处理",
+  "explanation": "但是'Butcher'是一个多义词，作为名词时，它通常指的是一个屠夫或刽子手。而作为动词，则意指屠宰、滥杀或残忍地处理。",
+  "mnemonic_methods": {
+    "pronunciation_association": "Butcher的发音有点像'but sure'（但当然），正如屠夫确实会屠杀动物一样残忍",
+    "etymology": "来自中古英语'bucher'，意为屠夫，源自拉丁语'bovicida'，但字面意思是“牛的杀手”，'butcher'一词最初用于指代杀牛的人"
+  },
+  "example_sentences": [
+    "这个公司把环境butcher得一干二净。|The company butchered the environment."
+  ]
+}

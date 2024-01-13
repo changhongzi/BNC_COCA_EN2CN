@@ -1,0 +1,16 @@
+{
+  "word": "alloy",
+  "pronunciation": {
+    "American": "/ˈælɔɪ/",
+    "British": "/ˈælɔɪ/"
+  },
+  "definition": "n. 合金；(品质、性能等方面的)混合，合金化；vt. 使减低价值，质量等；vi. 生合金",
+  "explanation": "alloy 是指将两种或两种以上的金属或其他物质混合在一起，以产生一种新的物质。在扩展意义上，它也表示混合、融合或减低某物的价值、质量等。",
+  "mnemonic_methods": {
+    "pronunciation_association": "可以将alloy的发音联想为a toy（一件玩具），就像把不同的材料合在一起做成一件玩具一样。",
+    "etymology": "alloy源自拉丁词alloyare，意为“与别的东西拼合”，形象地表示不同金属或物质混合的过程。"
+  },
+  "example_sentences": [
+    "这种重金属污染了水源，导致了水资源的alloy。 | The heavy metal contaminated the water source, resulting in an alloy of water resources."
+  ]
+}

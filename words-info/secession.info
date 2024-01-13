@@ -1,0 +1,16 @@
+{
+  "word": "secession",
+  "pronunciation": {
+    "American": "/səˈsɛʃən/",
+    "British": "/sɪ'sɛʃən/"
+  },
+  "definition": "n. 脱离，分离；分裂；脱离组织",
+  "explanation": "secession是指某个团体或国家从原本的组织或国家中脱离出去的行为。例如，在美国历史上，南方各州进行了脱离联邦的行为。",
+  "mnemonic_methods": {
+    "pronunciation_association": "secession的发音中有个音节'sess'，可以让你联想到'separate'（分离）这个单词，帮助记忆它的含义。",
+    "etymology": "secession一词源自拉丁语'secessio'，意为'离开，脱离'， 'se-'表示'离开'，'cession'表示'去'"
+  },
+  "example_sentences": [
+    "该地区宣布独立，进行了secession。 | The region declared independence and engaged in secession."
+  ]
+}

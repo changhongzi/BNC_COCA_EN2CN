@@ -1,0 +1,16 @@
+{
+  "word": "Wallet",
+  "pronunciation": {
+    "American": "/ˈwɑlɪt/",
+    "British": "/ˈwɒlɪt/"
+  },
+  "definition": "n. 钱包",
+  "explanation": "Wallet是指用来装钱、信用卡等的小型袋子。它通常用来放在口袋或包里携带。",
+  "mnemonic_methods": {
+    "pronunciation_association": "Wallet的发音可以和“沃勒特”（walter）联想起来，想象沃勒特拿着钱包在购物。",
+    "etymology": "这个词源于古英语“wealh”，意思是“发展或富有”，最初钱包可能被认为是富有的标志。"
+  },
+  "example_sentences": [
+    "他突然发现自己的wallet不见了，心里非常着急。 | He suddenly realized that his wallet was missing, and he was very anxious."
+  ]
+}

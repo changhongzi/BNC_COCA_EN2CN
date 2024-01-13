@@ -1,0 +1,16 @@
+{
+  "word": "keyboard",
+  "pronunciation": {
+    "American": "/ˈkiːˌbɔrd/",
+    "British": "/ˈkiːˌbɔrd/"
+  },
+  "definition": "n. 键盘",
+  "explanation": "keyboard是指计算机或乐器上用来输入信息或产生声音的装置。",
+  "mnemonic_methods": {
+    "pronunciation_association": "键盘的发音中有'key'这个词，而键盘上有许多按键，所以'keyboard'就是按键的板子。",
+    "etymology": "keyboard源自于key（键）和board（板），这也符合键盘的实际构造。"
+  },
+  "example_sentences": [
+    "钢琴的keyboard对于弹奏者来说非常重要。|The keyboard of the piano is very important for the pianist."
+  ]
+}

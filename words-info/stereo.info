@@ -1,0 +1,16 @@
+{
+  "word": "stereo",
+  "pronunciation": {
+    "American": "/ˈstɛriˌoʊ/",
+    "British": "/ˈstɡiːrɪəʊ/"
+  },
+  "definition": "n.立体声音响；立体声音响系统",
+  "explanation": "stereo是指用两个或更多个声道来使声音在播放时立体分布的音响系统或音乐。",
+  "mnemonic_methods": {
+    "pronunciation_association": "stereo的发音类似于英文中'stereoscopic（立体声与立体视觉的）'，这可以帮助你理解它与立体声的关系。",
+    "etymology": "这个词源自希腊词“stereos”（固定的、立体的），源于对声音的空间分布的描述。"
+  },
+  "example_sentences": [
+    "她在音响店里选购了一套新的stereo。 | She bought a new stereo set at the audio store."
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "word": "Hernia",
+  "pronunciation": {
+    "American": "/ˈhɝː.ni.ə/",
+    "British": "/ˈhɜː.ni.ə/"
+  },
+  "definition": "n.（身体器官的）疝；脱囊",
+  "explanation": "Hernia 是一种医学术语，指的是身体内器官突出的现象，常常导致局部肿胀或疼痛。",
+  "mnemonic_methods": {
+    "pronunciation_association": "Hernia 的发音中包含了“her”这个词素，可以联想到这是一种涉及身体的疾病。",
+    "etymology": "Hernia 源自拉丁词 'hernia'，原指腹股沟疝，现在泛指身体器官通过自然腔或人工创口而脱出的疾病。"
+  },
+  "example_sentences": [
+    "手术后，她的腹部 hernia 得到了有效的治疗。 | After the surgery, her abdominal hernia was effectively treated."
+  ]
+}

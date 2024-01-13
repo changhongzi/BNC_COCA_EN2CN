@@ -1,0 +1,16 @@
+{
+  "word": "Taint",
+  "pronunciation": {
+    "American": "/teɪnt/",
+    "British": "/teɪnt/"
+  },
+  "definition": "n.玷污；污点；v. 玷污，败坏",
+  "explanation": "Taint是一个及物动词，意思是使（物品、声誉等）失去原有的纯洁或价值。",
+  "mnemonic_methods": {
+    "pronunciation_association": "Taint的发音像'taint'（坏掉），这可以让你联想到它的含义，因为它意味着使某物坏掉或失去纯洁。",
+    "etymology": "Taint源自古英语词污点，意为污点或玷污。"
+  },
+  "example_sentences": [
+    "贪污行为会taint整个组织的声誉。 | Corruption can taint the reputation of the entire organization."
+  ]
+}

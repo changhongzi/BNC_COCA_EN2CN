@@ -1,0 +1,16 @@
+{
+  "word": "Legal",
+  "pronunciation": {
+    "American": "/ˈliɡəl/",
+    "British": "/ˈliːɡ(ə)l/"
+  },
+  "definition": "n. 法律的，合法的；法定的",
+  "explanation": "Legal 是一个形容词，表示符合法律规定的，合法的。",
+  "mnemonic_methods": {
+    "pronunciation_association": "Legal 的发音中有个词尾-gal，可以联想到gal和girl，合法的行为对女生来说是重要的。",
+    "etymology": "Legal 源自拉丁语 legalis，意为法律的，属于法律的。"
+  },
+  "example_sentences": [
+    "他寻求法律援助解决了他的legal问题。|He sought legal assistance to solve his legal issues."
+  ]
+}

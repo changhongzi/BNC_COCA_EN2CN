@@ -1,0 +1,16 @@
+{
+  "word": "Concoct",
+  "pronunciation": {
+    "American": "/kənˈkɑkt/",
+    "British": "/kənˈkɒkt/"
+  },
+  "definition": "v. 调制，编造；捏造",
+  "explanation": "Concoct是一个动词，表示调制或编造一些东西，通常是指编造故事或计划。",
+  "mnemonic_methods": {
+    "pronunciation_association": "Concoct的发音有点像“糟糕”，当你编造谎言时你的情况可能就会‘糟糕’了。",
+    "etymology": "这个词源自拉丁语的concoquere，con（一起）+coquere（煮），类似于把各种东西混合在一起烹饪的过程，而在这个过程中，你也可以编造很多东西。"
+  },
+  "example_sentences": [
+    "她总是能够迅速地concoct出一个解决方案。|She's always able to come up with a solution quickly."
+  ]
+}

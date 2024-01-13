@@ -1,0 +1,16 @@
+{
+  "word": "Empirical",
+  "pronunciation": {
+    "American": "/ɛmˈpɪrɪkəl/",
+    "British": "/ɛmˈpɪrɪkəl/"
+  },
+  "definition": "adj.（经验主义的）基于经验的；实证的",
+  "explanation": "Empirical是一个形容词，表示基于经验而非理论的。通常用于描述依赖于观察和实践经验而非理论分析的事物或方法。",
+  "mnemonic_methods": {
+    "pronunciation_association": "Empirical的发音中有'peer'这个音节，可以联想到peer(同伴)，表示在同辈人中共享的经验和知识。",
+    "etymology": "Empirical源自希腊语emporikos，意为‘根据经验的’。"
+  },
+  "example_sentences": [
+    "在科学研究中，实验数据的收集是非常重要的，因为它们提供了empirical的支持。 | In scientific research, the collection of experimental data is crucial as they provide empirical support."
+  ]
+}

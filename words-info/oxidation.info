@@ -1,0 +1,16 @@
+{
+  "word": "Oxidation",
+  "pronunciation": {
+    "American": "/ˌɑːk.səˈdeɪ.ʃən/",
+    "British": "/ˌɒk.sɪˈdeɪ.ʃən/"
+  },
+  "definition": "n.氧化；氧化作用",
+  "explanation": "Oxidation 是指物质与氧气发生化学反应从而产生氧化物的过程。",
+  "mnemonic_methods": {
+    "pronunciation_association": "Oxidation的发音中包含了'ok'和'de'，可以联想为氧化（oxidation）是一种化学反应的过程。",
+    "etymology": "Oxidation源自拉丁词根'oxi-'（氧气）和后缀'-ation'（状态或过程），指的是与氧气发生化学反应的过程。"
+  },
+  "example_sentences": [
+    "橘子表面变黑是因为其中的维生素C发生了氧化反应。 | The blackening of the surface of the orange is due to the oxidation reaction of the vitamin C in it."
+  ]
+}

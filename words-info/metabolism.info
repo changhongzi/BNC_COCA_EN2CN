@@ -1,0 +1,16 @@
+{
+  "word": "metabolism",
+  "pronunciation": {
+    "American": "/məˈtæbəˌlɪzəm/",
+    "British": "/məˈtæbəˌlɪzəm/"
+  },
+  "definition": "n. 新陈代谢",
+  "explanation": "'metabolism' 是指生物体内一系列化学反应的总和,这些反应在维持生命过程中转化食物和营养成分为能量和细胞组分。",
+  "mnemonic_methods": {
+    "pronunciation_association": "metabolism的发音听起来像'met a ball ism'，可以联想metaphor（隐喻）和ball（球），生物体内的代谢就像是一个形象的球类运动，隐喻着生命过程中的化学反应和能量转化。",
+    "etymology": "该词源于希腊语metabole（变化）和-ism（主义），指的是生物体内的化学变化和转化过程，是生命活动不可或缺的一部分。"
+  },
+  "example_sentences": [
+    "健康的饮食和运动对身体的metabolism至关重要。|Healthy diet and exercise are crucial for the body's metabolism."
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "word": "hamster",
+  "pronunciation": {
+    "American": "/ˈhæmstər/",
+    "British": "/ˈhæmstər/"
+  },
+  "definition": "n. 仓鼠",
+  "explanation": "hamster 是一种小型啮齿动物，通常作为宠物饲养。",
+  "mnemonic_methods": {
+    "pronunciation_association": "可以将 hamster 的发音联想为“嗯，没死”，因为仓鼠总是非常灵活，看起来永远都不会死。",
+    "etymology": "该词源于德语 hamster，19世纪引入英语。"
+  },
+  "example_sentences": [
+    "昨晚我在笼子里看到了一只可爱的hamster。|I saw a cute hamster in the cage last night."
+  ]
+}

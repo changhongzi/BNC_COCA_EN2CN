@@ -1,0 +1,16 @@
+{
+  "word": "Respirator",
+  "pronunciation": {
+    "American": "/ˈrɛspəˌreɪtər/",
+    "British": "/ˈrɛspəreɪtə/"
+  },
+  "definition": "n. 呼吸器；防毒面具",
+  "explanation": "Respirator是指一种用于帮助或控制呼吸的装置，它可以是指医用呼吸器，也可以是指工业上用于防护的防毒面具。",
+  "mnemonic_methods": {
+    "pronunciation_association": "Respirator的发音中包含单词\"respirate\"，这个单词与呼吸有关，所以respirator可以联想到与呼吸有关的装置。",
+    "etymology": "Respirator源自拉丁词\"respirare\"，意为呼吸，再加上后缀\"-tor\"构成名词，表示执行某种动作的人或物。"
+  },
+  "example_sentences": [
+    "在有毒气体环境中，工人需要佩戴防毒面具（respirator）来保护自己的呼吸系统。 | In toxic gas environments, workers need to wear respirators to protect their respiratory system."
+  ]
+}

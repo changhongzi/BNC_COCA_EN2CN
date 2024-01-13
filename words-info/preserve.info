@@ -1,0 +1,16 @@
+{
+  "word": "preserve",
+  "pronunciation": {
+    "American": "/prɪˈzərv/",
+    "British": "/prɪˈzɜːv/"
+  },
+  "definition": "v. 保护；保留；保存；维持；防腐处理；腌制；n. 蜜饯；果酱；腌制品",
+  "explanation": "Preserve是一个动词，通常表示保护、保留或保存某物。它还可以表示维持某物的特质或状态。作为名词时，它可以指蜜饯、果酱或腌制品。",
+  "mnemonic_methods": {
+    "pronunciation_association": "Preserve的发音中有“serve”，可以联想到保存和维护，就像要为某物提供服务一样。",
+    "etymology": "Preserve源自拉丁词“præservare”，意为“保持、保存”。"
+  },
+  "example_sentences": [
+    "这种果酱采用了传统的制作方法，以确保水果的新鲜和口感，这是我非常喜欢的preserve。 | This jam is made using traditional methods to ensure the freshness and texture of the fruits, it's my favorite preserve."
+  ]
+}

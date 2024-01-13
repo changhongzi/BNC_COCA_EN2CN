@@ -1,0 +1,16 @@
+{
+  "word": "chime",
+  "pronunciation": {
+    "American": "/taɪm/",
+    "British": "/taɪm/"
+  },
+  "definition": "n.钟声；和谐的音调；v.响起，和谐；一致",
+  "explanation": "比如'chime' 是一个多义词，作为名词时，通常表示钟声或和谐的音调；作为动词时，意味着响起或和谐一致。",
+  "mnemonic_methods": {
+    "pronunciation_association": "chime的发音听起来像'time'（时间），当钟声响起时，时间也就到了。",
+    "etymology": "chime源自古英语cim, 词源上与'chimney'（烟囱）有关，因为古代钟常常装在烟囱里，发出的声音和谐悦耳"
+  },
+  "example_sentences": [
+    "他们的意见和我们的想法完美地chime在一起。 |Their opinions chime perfectly with our thoughts."
+  ]
+}

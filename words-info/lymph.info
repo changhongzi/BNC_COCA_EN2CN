@@ -1,0 +1,16 @@
+{
+  "word": "lymph",
+  "pronunciation": {
+    "American": "/lɪmf/",
+    "British": "/lɪmf/"
+  },
+  "definition": "n.淋巴",
+  "explanation": "lymph是指体液中的一种无色液体，其中含有白细胞，并且在淋巴系统中循环。",
+  "mnemonic_methods": {
+    "pronunciation_association": "lymph的发音听起来像limp（跛行），可以联想为淋巴液如同身体的一种液体支持，一旦出现问题，身体就会迈步困难，像跛行一样。",
+    "etymology": "lymph源于古希腊语lympha，最初是指甘泉女神，后来转指清泉或泉水，而后引申为指人体内的液体内液。"
+  },
+  "example_sentences": [
+    "她的身体产生了太多的lymph，导致淋巴结肿大。 | Her body produced too much lymph, causing the lymph nodes to swell."
+  ]
+}

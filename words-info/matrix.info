@@ -1,0 +1,16 @@
+{
+  "word": "matrix",
+  "pronunciation": {
+    "American": "/ˈmeɪtrɪks/",
+    "British": "/ˈmeɪtrɪks/"
+  },
+  "definition": "n.（复数为matrices）矩阵；模型；母体",
+  "explanation": "matrix是一个数学和科学术语，通常指代一个矩阵或者表示事物之间联系的模型。在日常生活中也可以指代某个事物的发源地或基地。",
+  "mnemonic_methods": {
+    "pronunciation_association": "把matrix发音记忆为'may tricks'（可能的技巧），这个词可以帮你记住它是与模型或事物联系相关的。",
+    "etymology": "这个词来自拉丁词'matrica'，意为母亲的身体或子宫，引申为容纳、孕育、产生新事务的场所。"
+  },
+  "example_sentences": [
+    "这个小镇是公司发展中的重要matrix。 | This small town is a key matrix for the company's development."
+  ]
+}

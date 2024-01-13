@@ -1,0 +1,16 @@
+{
+  "word": "literary",
+  "pronunciation": {
+    "American": "/ˈlɪtəˌrɛri/",
+    "British": "/ˈlɪtərəri/"
+  },
+  "definition": "adj. 文学的；与文学有关的",
+  "explanation": "literary是一个形容词，通常用来描述与文学相关的事物或人。",
+  "mnemonic_methods": {
+    "pronunciation_association": "可以将literary的发音联想为'lit-era-ry'，很像是在说'文学时代'，这有助于记住它是与文学相关的意思。",
+    "etymology": "这个词源自拉丁语的'literarius'，意思是书面的，文字的，与书面作品有关。"
+  },
+  "example_sentences": [
+    "他在文学界有很高的声望，被视为一位杰出的literary评论家。 | He has a high reputation in the literary world and is regarded as an outstanding literary critic."
+  ]
+}

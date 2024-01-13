@@ -1,0 +1,16 @@
+{
+  "word": "creak",
+  "pronunciation": {
+    "American": "/krɪk/",
+    "British": "/kriːk/"
+  },
+  "definition": "v. 发出吱吱声; n. 吱吱声",
+  "explanation": "creak是指因摩擦或压力而发出吱吱声。一般用来描述门、楼梯等因老化或干燥而发出的尖锐刺耳的声音。",
+  "mnemonic_methods": {
+    "pronunciation_association": "creak的发音很像'哭啊'，可以想象门因为老化发出的声音就像在'哭啊'一样。",
+    "etymology": "该词源自中古英语的'creken'，意为发出吱吱声。"
+  },
+  "example_sentences": [
+    "楼梯的踏板creak声让我感到不安。 |The creak of the stairs made me feel uneasy."
+  ]
+}

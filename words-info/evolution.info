@@ -1,0 +1,16 @@
+{
+  "word": "evolution",
+  "pronunciation": {
+    "American": "/ˌɛvəˈluʃən/",
+    "British": "/ˌiːvəˈluːʃən/"
+  },
+  "definition": "n. 进化；发展；演变",
+  "explanation": "evolution 是一个名词，表示生物体或事物的逐渐发展、变化或演变。",
+  "mnemonic_methods": {
+    "pronunciation_association": "evolution 的发音中有“luv”，可以联想到事物的变化和发展，就像爱一样，是一个持续的过程。",
+    "etymology": "evolution 源自拉丁语“evolvere”，意为“展开、卷起”，这也可以引申为事物的逐渐发展和变化。"
+  },
+  "example_sentences": [
+    "科技行业的发展始终都是不断的 evolution。| The development of the tech industry is always an ongoing evolution."
+  ]
+}

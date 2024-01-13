@@ -1,0 +1,16 @@
+{
+  "word": "catalyst",
+  "pronunciation": {
+    "American": "/ˈkæt̬.əl.ɪst/",
+    "British": "/ˈkæt.əl.ɪst/"
+  },
+  "definition": "n. 催化剂；促使事物发展的因素",
+  "explanation": "Catalyst 是指一种可以增进化学反应但并不被消耗的物质，也可以指促进某一进程或事件发展的重要因素。",
+  "mnemonic_methods": {
+    "pronunciation_association": "Catalyst的发音中有cat，你可以想象一只猫突然成为催化剂，促进了化学反应或事件的发展。",
+    "etymology": "Catalyst源自希腊文katalussein，意为“解开、松开”；加上-ist后缀表示“执行或者担任特定职务或功能的人”，指一种特定功能的执行者，即催化剂。"
+  },
+  "example_sentences": [
+    "积极的心态是取得成功的关键因素，是事业发展的catalyst。 | A positive mindset is a key catalyst for success, for career development."
+  ]
+}

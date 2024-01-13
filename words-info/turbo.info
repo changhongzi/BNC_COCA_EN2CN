@@ -1,0 +1,16 @@
+{
+  "word": "turbo",
+  "pronunciation": {
+    "American": "/ˈtɜrboʊ/",
+    "British": "/ˈtɜːbəʊ/"
+  },
+  "definition": "n. 涡轮增压器；〈口〉增压器；〈美俚〉精力",
+  "explanation": "turbo是一个名词，通常表示涡轮增压器，也可以指汽车引擎的增压器，另外在俚语中指精力或活力。",
+  "mnemonic_methods": {
+    "pronunciation_association": "和turbo的发音很相似的单词包括turbine（涡轮）、turbulent（湍急的），它们都与动力、速度有关。",
+    "etymology": "turbo一词源自拉丁语，最初用于描述旋转或迅速运动的事物，这与涡轮增压器或高速活力的含义密切相关。"
+  },
+  "example_sentences": [
+    "他的精力就像一台turbo，永不停歇。|His energy is like a turbo, never stops."
+  ]
+}

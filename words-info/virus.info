@@ -1,0 +1,16 @@
+{
+  "word": "virus",
+  "pronunciation": {
+    "American": "/ˈvaɪrəs/",
+    "British": "/ˈvaɪrəs/"
+  },
+  "definition": "n.病毒",
+  "explanation": "virus 是指一种微生物，它可以感染生物细胞并通过其复制自身。",
+  "mnemonic_methods": {
+    "pronunciation_association": "virus的发音类似于'vai瑞思'，可以用这个词来联想它的意思。",
+    "etymology": "virus这个词来自拉丁语，最初用来表示毒素或恶劣品质。"
+  },
+  "example_sentences": [
+    "科学家们正在努力寻找治疗这种新型virus的方法。|Scientists are working hard to find ways to treat this new virus."
+  ]
+}

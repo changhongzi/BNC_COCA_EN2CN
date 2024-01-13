@@ -1,0 +1,16 @@
+{
+  "word": "habit",
+  "pronunciation": {
+    "American": "/ˈhæbət/",
+    "British": "/ˈhæbɪt/"
+  },
+  "definition": "n.习惯；（尤指不良的）习性，毛病",
+  "explanation": "Habit是一个名词，意指一个人或动物特定的行为方式，尤其是长期形成的习惯。它通常指的是日常生活中的常规行为，也可以指不良的、难以改变的习惯。",
+  "mnemonic_methods": {
+    "pronunciation_association": "Habit的发音类似于'哈比特'，你可以联想到一个人每天都在做相同的事情，就像哈比特人在他们的小屋里一样。",
+    "etymology": "这个词源自拉丁语 'habitare'，意为'居住，生活'，由此扩展出了'习惯'的含义。"
+  },
+  "example_sentences": [
+    "抠鼻子是一个不好的habit。|Picking the nose is a bad habit."
+  ]
+}

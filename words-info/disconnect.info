@@ -1,0 +1,16 @@
+{
+  "word": "disconnect",
+  "pronunciation": {
+    "American": "/ˌdɪskəˈnɛkt/",
+    "British": "/ˌdɪskəˈnɛkt/"
+  },
+  "definition": "vt. 断开，切断（连接）；使分离",
+  "explanation": "比如'disconnect' 是一个动词，通常用来表示断开或切断连接。在非正式场合，也可以用来表示人与现实世界或某些情感的脱节。",
+  "mnemonic_methods": {
+    "pronunciation_association": "Disconnect的发音有点像'dis-continue'，所以可以联想到它是指断开某种连接。",
+    "etymology": "该词由'dis-'（否定）+ 'connect'（连接）构成，表示否定连接，断开。"
+  },
+  "example_sentences": [
+    "他总是忙于工作，似乎与现实生活有些disconnect。|He is always busy with work and seems a bit disconnected from real life."
+  ]
+}

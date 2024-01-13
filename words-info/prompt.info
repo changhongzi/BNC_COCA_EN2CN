@@ -1,0 +1,16 @@
+{
+  "word": "Prompt",
+  "pronunciation": {
+    "American": "/prɑmpt/",
+    "British": "/prɒmpt/"
+  },
+  "definition": "n. 敏捷；提示；提词；时机；vt. 提示；提醒；鼓动；使迅速行动；adj. 敏捷的；迅速的；立刻的",
+  "explanation": "Prompt 是一个动词、名词和形容词。作为动词，它表示给予提醒或提示；作为名词，它表示提示或时机；作为形容词，它表示迅速的或立刻的。",
+  "mnemonic_methods": {
+    "pronunciation_association": "Prompt 的发音包含了 pr- 的发音，这个前缀通常表示“前面”，prompt 就是给予前面的提示。",
+    "etymology": "Prompt 源自拉丁语 promptus，意为“准备好的，迅速的”；它的变体 promptare 意为“准备，促使”。"
+  },
+  "example_sentences": [
+    "他的反应非常 prompt，挽救了局势。 |His prompt reaction saved the situation."
+  ]
+}

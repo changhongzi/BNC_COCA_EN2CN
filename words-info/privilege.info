@@ -1,0 +1,16 @@
+{
+  "word": "Privilege",
+  "pronunciation": {
+    "American": "/ˈprɪvəlɪdʒ/",
+    "British": "/ˈprɪvɪlɪdʒ/"
+  },
+  "definition": "n. 特权，特殊待遇；荣幸；优待；v. 给予…特权或特殊待遇",
+  "explanation": "Privilege是一个名词，表示特权、特殊待遇或荣幸。作为动词，它意味着给予某人特权或特殊待遇。",
+  "mnemonic_methods": {
+    "pronunciation_association": "Privilege的发音中含有“privi”这个词根，而“privi”与“private”（私人的）同源，因此特权与私人或特定个体有关。",
+    "etymology": "来自拉丁语的privilegium，由privus（个人的）+ lex（法律）构成，最初是指法律上的特权，后来引申为一般意义上的特权"
+  },
+  "example_sentences": [
+    "这个学校为优秀学生提供了一些特殊待遇，这是一种学校制度上的privilege。| The school provides some privileges for outstanding students, which is a kind of privilege in the school system."
+  ]
+}

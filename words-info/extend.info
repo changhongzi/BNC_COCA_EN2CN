@@ -1,0 +1,16 @@
+{
+  "word": "extend",
+  "pronunciation": {
+    "American": "/ɪkˈstɛnd/",
+    "British": "/ɪkˈstɛnd/"
+  },
+  "definition": "v. 延伸；扩大；延长；给予；提供",
+  "explanation": "extend 是一个动词，它表示延伸、扩大、延长或给予。比如作为延伸的意思，可以指代空间或时间的延伸；作为给予的意思，可以指提供帮助或支持。",
+  "mnemonic_methods": {
+    "pronunciation_association": "extend 的发音和词尾 '-tend' 有点类似 tendon（腱），可以联想到腱能够让身体部位延伸、伸展。",
+    "etymology": "extend 源自拉丁语 extendere，ex-表示 '向外'，tendere表示 '伸展'。"
+  },
+  "example_sentences": [
+    "我们愿意提供一些帮助，以extend你的研究。|我们愿意提供一些帮助，以extend你的研究。"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "word": "obstruct",
+  "pronunciation": {
+    "American": "/əbˈstrʌkt/",
+    "British": "/əbˈstrʌkt/"
+  },
+  "definition": "v. 阻碍，妨碍；阻塞",
+  "explanation": "obstruct 是一个动词，意指阻碍或妨碍。中文中用来表达阻碍事物正常进行的动作。",
+  "mnemonic_methods": {
+    "pronunciation_association": "obstruct的发音中有个词缀'struct'，想象成结构，而阻碍正常结构的形成就是obstruct",
+    "etymology": "源自拉丁词根ob-（against）+ struere（build），构成了阻挡前进的意义"
+  },
+  "example_sentences": [
+    "道路上的障碍物可能会obstruct交通。 | Obstacles on the road may obstruct traffic."
+  ]
+}

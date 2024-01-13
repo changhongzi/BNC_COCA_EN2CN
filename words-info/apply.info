@@ -1,0 +1,16 @@
+{
+  "word": "Apply",
+  "pronunciation": {
+    "American": "/əˈplaɪ/",
+    "British": "/əˈplaɪ/"
+  },
+  "definition": "v. 申请；使用；涂抹",
+  "explanation": "Apply是一个动词，它可以表示向某人或机构正式请求（尤指书面）或使用某物。",
+  "mnemonic_methods": {
+    "pronunciation_association": "Apply的发音与'uh ply'类似，你可以把'apply'联想成应用(ply)在特定场景中",
+    "etymology": "这个词源于拉丁语的'applicare'，意为'贴上，靠近'。"
+  },
+  "example_sentences": [
+    "她决定apply这种药膏，以治疗她的皮肤。 | She decided to apply this ointment to treat her skin."
+  ]
+}

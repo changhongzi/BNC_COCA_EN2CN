@@ -1,0 +1,16 @@
+{
+  "word": "align",
+  "pronunciation": {
+    "American": "/əˈlaɪn/",
+    "British": "/əˈlaɪn/"
+  },
+  "definition": "v.排成一线；使一致，调整",
+  "explanation": "align是一个动词，意指使某物排成一线或使某事物一致，调整。",
+  "mnemonic_methods": {
+    "pronunciation_association": "可以将align联想为a+line，也就是使成一条线。或者联想为all+line，表示使所有事物排成一条线。",
+    "etymology": "这个词源于中古法语aligner，意为排成一行，来自于拉丁语linea，意为线。"
+  },
+  "example_sentences": [
+    "他们需要align他们的观点以达成一致。|They need to align their views to reach an agreement."
+  ]
+}

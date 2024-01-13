@@ -1,0 +1,16 @@
+{
+  "word": "Denominator",
+  "pronunciation": {
+    "American": "/dɪˈnɑmɪˌneɪtər/",
+    "British": "/dɪˈnɒmɪneɪtə/"
+  },
+  "definition": "n. （分数的）分母；基数",
+  "explanation": "“Denominator”指的是一个分数中的分母，也可以指代某个系统或方案的基数。",
+  "mnemonic_methods": {
+    "pronunciation_association": "Denominator的发音中包含'denom'，可以联想到'denomination'（宗教或货币单位），而分子在分数中位于分母下面。",
+    "etymology": "Denominator源自拉丁词“denominare”，意为“命名，作为名称”，分母作为分数的名称或标识符。"
+  },
+  "example_sentences": [
+    "在这个方案中，人口规模是一个重要的denominator。| In this scheme, the population size is an important denominator."
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "word": "Leaf",
+  "pronunciation": {
+    "American": "/lif/",
+    "British": "/liːf/"
+  },
+  "definition": "n.叶子；（书的）一页; vi.长叶子；翻页",
+  "explanation": "Leaf 是一个既表示物体部分的名词，也可以表示动作的动词。作为名词，它通常指植物的叶子或书籍中的一页；作为动词，它意味着变得绿叶繁茂或翻书页。",
+  "mnemonic_methods": {
+    "pronunciation_association": "Leaf的发音近似于'leave'，而叶子总是离不开树的，这可以帮助你记住它的含义。",
+    "etymology": "Leaf源自古英语的 'leaf'，与德语的 'Laub' 以及荷兰语的 'blad' 有关，它们都指植物的叶子。"
+  },
+  "example_sentences": [
+    "行书转瞬即逝，如行云流水，仿佛无法找到书中一页leaf停留。 | Cursive is fleeting, like clouds and water, as if unable to find a page to stay on in the book."
+  ]
+}

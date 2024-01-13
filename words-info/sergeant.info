@@ -1,0 +1,16 @@
+{
+  "word": "sergeant",
+  "pronunciation": {
+    "American": "/ˈsɑrdʒənt/",
+    "British": "/ˈsɑːdʒənt/"
+  },
+  "definition": "n.（陆军或空军的）中士；（美国警察的）警官；警官，巡警",
+  "explanation": "sergeant是个既可以用作军衔称呼，又可以指美国警官的名词。在句子中，你可以说：'这位sergeant对我们进行了详细的指示。' 或者 'The sergeant gave us detailed instructions.'",
+  "mnemonic_methods": {
+    "pronunciation_association": "Sergeant这个词的发音和'sarge'（军队中的俚语用法，用于称呼军士长或警官）相似，因此我们可以通过联想俚语'sarge'来记忆这个词。",
+    "etymology": "Sergeant一词来自中古法语sergent，最初源自拉丁语servient-（即'servant'），原意为担任公共职务的人。"
+  },
+  "example_sentences": [
+    "来自一位年轻的sergeant的报告引起了警方的高度关注。 | A report from a young sergeant has attracted high attention from the police."
+  ]
+}

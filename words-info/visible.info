@@ -1,0 +1,16 @@
+{
+  "word": "Visible",
+  "pronunciation": {
+    "American": "/ˈvɪzəbəl/",
+    "British": "/ˈvɪzəbl/"
+  },
+  "definition": "adj. 可见的，看得见的；显而易见的",
+  "explanation": "Visible 意为“可见的”，表示能够被看见或显而易见。",
+  "mnemonic_methods": {
+    "pronunciation_association": "可将 visible 分解为 vi-si-ble，其中 si 可以和中文的“是”联想，表示明显可见。",
+    "etymology": "Visible 源自拉丁语的“visibilis”，由“vis-”（看）衍生而来，可理解为可以被看见的。"
+  },
+  "example_sentences": [
+    "她的伤疤虽然遮掩了一些，但还是很容易 visible。| Even though she covered her scar, it's still quite visible."
+  ]
+}

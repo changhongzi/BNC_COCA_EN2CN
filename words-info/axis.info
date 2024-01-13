@@ -1,0 +1,16 @@
+{
+  "word": "Axis",
+  "pronunciation": {
+    "American": "/ˈæk.sɪs/",
+    "British": "/ˈæk.sɪs/"
+  },
+  "definition": "n.轴；中心线；中轴线；（计算机的）坐标轴",
+  "explanation": "Axis这个词通常表示一个中心线或轴。在数学、物理学和计算机领域中，它表示一个坐标轴。在复数形式的axes中，它可以表示多个轴或坐标轴。",
+  "mnemonic_methods": {
+    "pronunciation_association": "Axis的发音中有个'si'的音，可以联想到'see'，也就是能够看见的中心或轴",
+    "etymology": "这个词源于拉丁语'axis'，意思是'轴、鱼轴、车轴'。"
+  },
+  "example_sentences": [
+    "在三维空间中，我们通常使用x、y、z轴表示三个坐标轴。 | In three-dimensional space, we usually use x, y, and z axes to represent the three coordinate axes."
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "word": "brand",
+  "pronunciation": {
+    "American": "/brænd/",
+    "British": "/brænd/"
+  },
+  "definition": "n.商标；牌子；烙印；v.打烙印；打火印；铭刻",
+  "explanation": "brand是一个名词和动词。作为名词，它可以表示商标、牌子或烙印。作为动词，它则表示打烙印或铭刻。",
+  "mnemonic_methods": {
+    "pronunciation_association": "brand的发音和'燃烧（burn）'很相似，可以联想品牌燃烧的形象。",
+    "etymology": "这个词源自古英语'brand'，意为'烙印、火焰'，源自印欧语根'bʰrenh₂'，意为'燃烧'"
+  },
+  "example_sentences": [
+    "工匠们会在木制品上打上他们的brand。|Craftsmen would put their brand on wooden products."
+  ]
+}

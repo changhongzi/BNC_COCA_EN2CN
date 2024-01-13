@@ -1,0 +1,16 @@
+{
+  "word": "siphon",
+  "pronunciation": {
+    "American": "/ˈsaɪfən/",
+    "British": "/ˈsaɪfən/"
+  },
+  "definition": "n.虹吸管；v.用虹吸管抽出或输送",
+  "explanation": "siphon是一种工具，通常用于从一个容器中抽出液体并通过重力输送。在中文中，siphon指的是一种用来抽出或输送液体的工具或装置。",
+  "mnemonic_methods": {
+    "pronunciation_association": "siphon的发音有点像'sigh-fun'，当你用虹吸管的时候，你可能会叹口气（sigh），但这也会让抽液体的过程变得有趣（fun）。",
+    "etymology": "siphon源自希腊语siphon（管子），最早用于描述一种用于运输液体的管道。"
+  },
+  "example_sentences": [
+    "他在实验室中使用siphon从试管中抽取化学液体。 | He used a siphon to draw chemical liquid out of the test tube in the laboratory."
+  ]
+}

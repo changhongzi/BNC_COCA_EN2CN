@@ -1,0 +1,16 @@
+{
+  "word": "otherwise",
+  "pronunciation": {
+    "American": "/ˈʌðərˌwaɪz/",
+    "British": "/ˈʌðəˌwaɪz/"
+  },
+  "definition": "adv. 否则；除此以外；adv. 另外；相反；adj. 否则的；不同的",
+  "explanation": "otherwise是一个副词，表示除了前述的情况或若非这样；另外，它也可以作为形容词，表示不同的或相反的情况。",
+  "mnemonic_methods": {
+    "pronunciation_association": "otherwise的发音中含有otherwise的含义，分解成other和wise，表示除此以外；另外的智慧",
+    "etymology": "otherwise源自Old English的othre, adverbial genitive of other（另外） + wīsan（方式）"
+  },
+  "example_sentences": [
+    "这个问题的答案只有两种，一种是正确的，otherwise就是错误的。| 这个问题的答案只有两种，一种是正确的，otherwise就是错误的。"
+  ]
+}

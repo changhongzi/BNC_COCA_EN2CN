@@ -1,0 +1,16 @@
+{
+  "word": "ton",
+  "pronunciation": {
+    "American": "/tʌn/",
+    "British": "/tʌn/"
+  },
+  "definition": "n. （重量单位）吨；大量，许多",
+  "explanation": "比如'ton'是一个名词，表示重量单位为“吨”或者表示“大量，许多”。",
+  "mnemonic_methods": {
+    "pronunciation_association": "记忆发音时，可以将'ton'的发音和'砍'的发音联系起来，“砍”下了一大块木头，重量大，就是一吨。",
+    "etymology": "英文'ton'源于古英语' tunne'，意为'米桶，大桶'，后来引申为'容量单位'，表示大量。"
+  },
+  "example_sentences": [
+    "他拥有一大ton的书籍，相当于一个小型图书馆。 | He has a ton of books, like a small library."
+  ]
+}

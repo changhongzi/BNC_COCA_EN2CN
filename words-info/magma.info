@@ -1,0 +1,16 @@
+{
+  "word": "Magma",
+  "pronunciation": {
+    "American": "/ˈmæɡmə/",
+    "British": "/ˈmæɡmə/"
+  },
+  "definition": "n. 岩浆",
+  "explanation": "Magma指的是地壳深部的熔融岩石，在火山喷发时喷出并冷却凝固。",
+  "mnemonic_methods": {
+    "pronunciation_association": "Magma的发音像'嘛嘎'，可以联想到火山喷发时熔融岩石从地下'嘛嘎'涌出来。",
+    "etymology": "Magma源自希腊语 'magmá'，意为浆糊或浆料，指的是地壳深部的熔融岩石。"
+  },
+  "example_sentences": [
+    "地壳深部的高温和压力使岩石熔化形成了magma。| The high temperature and pressure in the Earth's crust melt rocks to form magma."
+  ]
+}

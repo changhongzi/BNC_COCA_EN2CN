@@ -1,0 +1,16 @@
+{
+  "word": "Civilian",
+  "pronunciation": {
+    "American": "/səˈvɪlɪən/",
+    "British": "/sɪˈvɪljən/"
+  },
+  "definition": "n. 平民；百姓；adj. 平民的；民用的",
+  "explanation": "Civilian是一个名词和形容词。作为名词，它指的是非军人，即非军事人员；作为形容词，它表示与平民或民用有关。",
+  "mnemonic_methods": {
+    "pronunciation_association": "Civilian中的vil音近似于village（村庄），而村庄里的人主要是平民。这可以帮助联想civilian的含义。",
+    "etymology": "Civilian源自拉丁语'civilis'，意为'居民、公民'，再加上后缀'-ian'表示'与...有关的'。"
+  },
+  "example_sentences": [
+    "他脱下军装，成为一名civilian后，开始了自己的企业。 | After taking off the military uniform, he began his own business as a civilian."
+  ]
+}

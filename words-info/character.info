@@ -1,0 +1,16 @@
+{
+  "word": "character",
+  "pronunciation": {
+    "American": "/ˈkær.əktər/",
+    "British": "/ˈkær.əktər/"
+  },
+  "definition": "n.角色；性格；特性；（尤指因其能力或品质而受人称赞的）人",
+  "explanation": "比如'character' 作为一个名词，可以表示某人在某种情况下表现出的特定性格或个性特征。它也可以用来表示一个虚构作品中的人物形象。",
+  "mnemonic_methods": {
+    "pronunciation_association": "你可以将character音节的结构拆分为'char'和'act'，char在中文中可以解释为'性格'或'人格'，act则是'表演'。因此，character可以用来表示一个人在戏剧或故事中的表现和性格。",
+    "etymology": "这个词来自古希腊语 'kharaktēr'，最初意指刻在硬物上的标记或印记，后来引申为代表品质或特征的符号，在中世纪拉丁语中还用来表示一个字母或数字。"
+  },
+  "example_sentences": [
+    "这部电影中的角色深刻饱满，每一个character都被赋予了独特的性格。 | 这部电影中的角色深刻饱满，每一个character都被赋予了独特的性格。"
+  ]
+}

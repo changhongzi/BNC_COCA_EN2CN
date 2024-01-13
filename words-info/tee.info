@@ -1,0 +1,16 @@
+{
+  "word": "tee",
+  "pronunciation": {
+    "American": "/ti/",
+    "British": "/ti/"
+  },
+  "definition": "n.（高尔夫球）球座；（排球）发球台；T恤衫",
+  "explanation": "Tee可以指高尔夫球座、排球发球台，也可以特指T恤衫。",
+  "mnemonic_methods": {
+    "pronunciation_association": "Tee的发音和T恤衫的第一个字母T相同，这可以帮助记忆它的含义。",
+    "etymology": "Tee最早在16世纪用于指代高尔夫球座，源自苏格兰盖尔语teigh（意为‘toe’，指高尔夫球的放置位置）。T恤衫的tee来自T形状的字样。"
+  },
+  "example_sentences": [
+    "你今天穿了一件很酷的tee。 | You are wearing a cool tee today."
+  ]
+}

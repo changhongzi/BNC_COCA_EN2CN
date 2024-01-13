@@ -1,0 +1,16 @@
+{
+  "word": "foreign",
+  "pronunciation": {
+    "American": "/ˈfɔrɪn/",
+    "British": "/ˈfɒrɪn/"
+  },
+  "definition": "adj. 外国的；外来的；不相关的",
+  "explanation": "Foreign是一个用作形容词的词，通常用来形容来自外国或与外国相关的人、事或物。",
+  "mnemonic_methods": {
+    "pronunciation_association": "Foreign的发音类似于'four'（四）和'rain'（雨），你可以想象在四个国家的雨中漫步，把四周的事物当作foreign的。",
+    "etymology": "这个词来自中古英语词汇'foreine'，意为'from abroad'（来自国外）"
+  },
+  "example_sentences": [
+    "这个公司有许多foreign员工。| 这个公司有许多foreign员工。This company has many foreign employees."
+  ]
+}

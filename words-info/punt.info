@@ -1,0 +1,16 @@
+{
+  "word": "punt",
+  "pronunciation": {
+    "American": "/pʌnt/",
+    "British": "/pʌnt/"
+  },
+  "definition": "n. 篙撑；v. 用篙撑船；用脚碰球",
+  "explanation": "Punt 是一个多义的词语，作为名词时指一种用来推动小船的长杆，作为动词时指用篙来推动小船或者在橄榄球比赛中用脚射击橄榄球。",
+  "mnemonic_methods": {
+    "pronunciation_association": "Punt 的发音像pound（猛烈地击打），可以让你联想到用篙来猛烈地击打水面来推动小船。",
+    "etymology": "Punt这个词源于拉丁语ponton，意为“桥”，引申为用来推动船只的桥梁"
+  },
+  "example_sentences": [
+    "她用脚punt了橄榄球，将球射向对方球门。|She punted the football with her foot, sending it towards the opponent's goal."
+  ]
+}

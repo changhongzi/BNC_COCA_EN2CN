@@ -1,0 +1,16 @@
+{
+  "word": "incline",
+  "pronunciation": {
+    "American": "/ɪnˈklaɪn/",
+    "British": "/ɪnˈklaɪn/"
+  },
+  "definition": "n. 斜坡；倾斜；倾向；斜率；vt. 使倾向；使倾斜；vi. 倾向；倾斜",
+  "explanation": "incline可以表示物理上的斜坡或倾斜，也可以表示倾向或倾向于某种情况或行为。",
+  "mnemonic_methods": {
+    "pronunciation_association": "Incline的发音和include（包括）相似，你可以将倾向或倾向于某件事情看作是包括或倾向于那件事情。",
+    "etymology": "Incline来自拉丁语inclinare，意思是‘弯曲，倾斜’，源自in-（内部） + clinare（弯曲，倾斜），由此引申出倾向或斜坡的含义。"
+  },
+  "example_sentences": [
+    "他们沿着陡峭的incline攀登山顶。 | They climbed to the mountaintop along the steep incline."
+  ]
+}

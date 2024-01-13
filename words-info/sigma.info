@@ -1,0 +1,16 @@
+{
+  "word": "Sigma",
+  "pronunciation": {
+    "American": "/ˈsɪɡmə/",
+    "British": "/ˈsɪɡmə/"
+  },
+  "definition": "n. 希腊字母表中的第十八个字母（Σ，σ或ς）；总和的符号；标准差",
+  "explanation": "比如'Sigma'是希腊字母表中的第十八个字母，常用来表示总和的符号或统计中的标准差。",
+  "mnemonic_methods": {
+    "pronunciation_association": "Sigma的发音类似于“思妈”，可以联想到思考问题时要寻求标准答案或总结一组数据的总和。",
+    "etymology": "Sigma一词源自古希腊语，希腊字母Σ，表示第十八个字母。"
+  },
+  "example_sentences": [
+    "这个统计模型的标准差用希腊字母sigma（σ）来表示。 | The standard deviation of this statistical model is represented by the Greek letter sigma (σ)."
+  ]
+}

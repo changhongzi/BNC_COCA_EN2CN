@@ -1,0 +1,16 @@
+{
+  "word": "Amalgam",
+  "pronunciation": {
+    "American": "/əˈmælgəm/",
+    "British": "/əˈmælgəm/"
+  },
+  "definition": "n. 合金；混合物；汞合金",
+  "explanation": "Amalgam是一个名词，表示混合物或合金。在化学中，它指的是由汞和其他金属混合而成的合金。",
+  "mnemonic_methods": {
+    "pronunciation_association": "Amalgam的发音类似于'a-mal-gum'，可以联想为'a-metal-gum'，因为合金通常是由金属混合而成的。",
+    "etymology": "Amalgam源自拉丁语'ama lgama'，意为'mixture'，再演变为现代英语'amalgam'，表示混合物。"
+  },
+  "example_sentences": [
+    "这本书是各种不同观点的amalgam。| This book is an amalgam of various different viewpoints."
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "word": "hoax",
+  "pronunciation": {
+    "American": "/hoʊks/",
+    "British": "/həʊks/"
+  },
+  "definition": "n.恶作剧，骗局; vt.欺骗，捉弄",
+  "explanation": "hoax 是指一种恶作剧或骗局，通过欺骗或捉弄他人来达到某种目的。",
+  "mnemonic_methods": {
+    "pronunciation_association": "Hoax的发音有些像'hooks'（钩子），想象通过恶作剧或骗局，某人被钩住了。",
+    "etymology": "据信，hoax这个词最早源自拉丁语 'hocus'，这个词经过了许多变化和词缀的添加，形成了今天的hoax。"
+  },
+  "example_sentences": [
+    "别被别人的言语所欺骗，这很可能是一场hoax。| Don't be fooled by other people's words, it could be a hoax."
+  ]
+}

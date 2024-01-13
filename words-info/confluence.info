@@ -1,0 +1,16 @@
+{
+  "word": "Confluence",
+  "pronunciation": {
+    "American": "/ˈkɑnflʊəns/",
+    "British": "/ˈkɒnflʊəns/"
+  },
+  "definition": "n. 汇合；汇集；汇聚",
+  "explanation": "Confluence是一个名词，指的是两条或两条以上的河流汇合的地方，也可以指不同事物的汇聚或相互关联。",
+  "mnemonic_methods": {
+    "pronunciation_association": "Confluence的发音中，'con' 可以让你联想到 'connect' (连接)，'fluence' 类似于 'influence' (影响)，所以confluence可以理解为事物的连接和影响的汇合。",
+    "etymology": "Confluence一词源自拉丁语的 'confluere'，'con-'表示 '共同'，'fluere' 表示 '流'，因此confluence指的是 '流在一起'"
+  },
+  "example_sentences": [
+    "这次会议是不同学科的研究者汇聚一堂的confluence。 | This conference is a confluence of researchers from different disciplines."
+  ]
+}

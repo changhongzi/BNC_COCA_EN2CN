@@ -1,0 +1,16 @@
+{
+  "word": "stereotype",
+  "pronunciation": {
+    "American": "/ˈstɛr.i.əˌtaɪp/",
+    "British": "/ˈstɛr.i.əˌtaɪp/"
+  },
+  "definition": "n. 刻板印象；陈规 v. 把…模式化；使有旧形象",
+  "explanation": "stereotype是一个名词和动词，作为名词时，指一种固定的、不切实际的看法或想法。作为动词时，指固定或错误地对某人或某事物加以刻板印象。",
+  "mnemonic_methods": {
+    "pronunciation_association": "stereotype的发音中有'stere'，听起来像'stare'，而stare是盯着看的意思。这个可以帮助记住stereotype的含义，因为人们往往会因为某些特征或特点而盯着看，从而形成刻板印象。",
+    "etymology": "stereotype源自希腊文'stereos'（固定的）和'typos'（形状），最初是指印刷术中的固定铅版，后演变为固定的看法或形象。"
+  },
+  "example_sentences": [
+    "不要被别人的stereotype所左右，你要做的是展现真实的自己。 | Don't be influenced by other's stereotypes, you should show the real you."
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "word": "embezzle",
+  "pronunciation": {
+    "American": "/ɪmˈbɛzəl/",
+    "British": "/ɪmˈbez(ə)l/"
+  },
+  "definition": "v. 盗用；侵吞",
+  "explanation": "embezzle是动词，意指侵吞或盗用他人财产，特指职务上的侵吞行为。",
+  "mnemonic_methods": {
+    "pronunciation_association": "embezzle的发音中包含了'm bezz'的音，可以将'bezz'联想为'busy'（忙碌）和'bell'（铃声），暗示着财产被窃或用于其他忙碌的事情。",
+    "etymology": "embezzle源自拉丁语'basiare'（接吻，表示亲昵）的演变，而在中世纪英国，这个词被用来描述职务上的盗窃行为。"
+  },
+  "example_sentences": [
+    "这位财务总监挪用了大量资金，涉嫌embezzle。 | The financial director misappropriated a large sum of money and is suspected of embezzling."
+  ]
+}

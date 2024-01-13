@@ -1,0 +1,16 @@
+{
+  "word": "Automate",
+  "pronunciation": {
+    "American": "/ˈɔːtəˌmeɪt/",
+    "British": "/ˈɔːtəmeɪt/"
+  },
+  "definition": "v. 自动化；使自动化",
+  "explanation": "Automate 是一个动词，意思是使用机器、电脑或其他设备来控制或完成（一项工作），使其自动化。",
+  "mnemonic_methods": {
+    "pronunciation_association": "Automate的发音中包含'mate'，可以联想到与机器或设备相关的自动化工作进行得更「自动」。",
+    "etymology": "Automate源自希腊语'automatos'，意为『自行移动的』，再结合后缀'-ate'构成动词，表示『使自动』。"
+  },
+  "example_sentences": [
+    "他们决定automate这些繁琐的任务，以便更高效地利用时间。| They decided to automate these tedious tasks in order to make more efficient use of time."
+  ]
+}

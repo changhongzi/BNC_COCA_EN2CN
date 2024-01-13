@@ -1,0 +1,16 @@
+{
+  "word": "Epsilon",
+  "pronunciation": {
+    "American": "/ˈɛpsəˌlɑn/",
+    "British": "/ˈɛpsɪlɒn/"
+  },
+  "definition": "n. ε希腊字母第五字母；微小的量；负责中间或快速排序任务的人",
+  "explanation": "ε是希腊字母表中的第五个字母，通常用来表示一个微小的量或数值，也可以用来指代负责中间或快速排序任务的人。",
+  "mnemonic_methods": {
+    "pronunciation_association": "Epsilon的发音类似于'epsilon'，这个音可以让你联想到它是希腊字母表中的第五个字母。",
+    "etymology": "Epsilon一词来源于希腊文中的ε (epsilon)，希腊字母表中的第五个字母。"
+  },
+  "example_sentences": [
+    "作为团队中的epsilon，你需要协调所有人的工作，确保一切有序。 | As the epsilon of the team, you need to coordinate the work of everyone and ensure everything is in order."
+  ]
+}

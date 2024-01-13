@@ -1,0 +1,16 @@
+{
+  "word": "dynasty",
+  "pronunciation": {
+    "American": "/ˈdaɪnəsti/",
+    "British": "/ˈdaɪnəsti/"
+  },
+  "definition": "n.王朝; 朝代; 朝代的统治者或家族",
+  "explanation": "比如'dynasty'是指一系列统治者的家族或朝代。在中国历史中，'dynasty'通常用来表示某一时期的特定朝代。",
+  "mnemonic_methods": {
+    "pronunciation_association": "Dynasty的发音听起来像'die nasty'，让人联想到某个朝代的统治者可能制定残酷的政策导致了'something nasty'。",
+    "etymology": "Dynasty源自希腊语'dúnamis'，意为'力量、权力'，由此发展出强调权力传承的'朝代'含义。"
+  },
+  "example_sentences": [
+    "这个国家的dynasty统治了数百年，留下了深远的影响。 | This country's dynasty ruled for hundreds of years, leaving a profound impact."
+  ]
+}

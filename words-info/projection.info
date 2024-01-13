@@ -1,0 +1,16 @@
+{
+  "word": "Projection",
+  "pronunciation": {
+    "American": "/prəˈdʒɛkʃən/",
+    "British": "/prəˈdʒɛkʃən/"
+  },
+  "definition": "n. 投影；推测；发射；突出部分",
+  "explanation": "projection 是一个名词，通常表示投影或推测，也可以表示发射或突出部分。",
+  "mnemonic_methods": {
+    "pronunciation_association": "Projection 的发音中含有“射”，可以与“发射”联想，帮助记忆其含义。",
+    "etymology": "这个词的词源是拉丁词 proicere，由 pro（向前）+ jacere（投掷）组成，引申为向前投掷影像即投影。"
+  },
+  "example_sentences": [
+    "他的预测是基于对市场趋势的projection。|His prediction is based on the projection of market trends."
+  ]
+}

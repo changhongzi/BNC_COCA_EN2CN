@@ -1,0 +1,16 @@
+{
+  "word": "Copper",
+  "pronunciation": {
+    "American": "/ˈkɑːpər/",
+    "British": "/ˈkɒpər/"
+  },
+  "definition": "n.铜；铜制品；铜币",
+  "explanation": "Copper是一个名词，表示一种金属元素或由铜制成的物品。",
+  "mnemonic_methods": {
+    "pronunciation_association": "Copper的发音和'cup'很相似，将cup想象成用铜制成的杯子，有助于记住copper是一种金属元素或由铜制成的物品。",
+    "etymology": "Copper源自拉丁语'cuprum'，这也是铜的化学符号Cu的来源。"
+  },
+  "example_sentences": [
+    "这个区域盛产copper，是铜制品的主要生产地。|This area is rich in copper, the main producer of copper products."
+  ]
+}

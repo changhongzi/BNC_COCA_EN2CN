@@ -1,0 +1,16 @@
+{
+  "word": "benign",
+  "pronunciation": {
+    "American": "/bəˈnaɪn/",
+    "British": "/bɪˈnaɪn/"
+  },
+  "definition": "adj. 良性的；和蔼的；亲切的",
+  "explanation": "benign 是一个描述性词语，通常用来形容某种疾病或肿瘤是无害的或温和的。同时也用来形容人的举止和态度和蔼亲切。",
+  "mnemonic_methods": {
+    "pronunciation_association": "benign的发音近似于'be nine'，就像告诉别人'be nice'，这样就可以让你联想到它的含义，因为和善的人常常对别人nice。",
+    "etymology": "benign源自拉丁语benignus，由ben-（好）+ -gnus（后缀表示倾向）构成，因此表示‘有好倾向的’。"
+  },
+  "example_sentences": [
+    "她的脸上总是带着一种亲切和温和的benign表情。| She always wears a benign expression of kindness and gentleness on her face."
+  ]
+}

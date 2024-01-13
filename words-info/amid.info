@@ -1,0 +1,16 @@
+{
+  "word": "amid",
+  "pronunciation": {
+    "American": "/əˈmɪd/",
+    "British": "/əˈmɪd/"
+  },
+  "definition": "prep.在...之中；在...期间",
+  "explanation": "amid是一个介词，表示在某个环境或事件之中。它通常用于表达某种情况、事件或状态发生时所处的背景或环境。",
+  "mnemonic_methods": {
+    "pronunciation_association": "将amid拆成a + mid，mid表示中间，a表示在其中，这样就可以联想到amid表示在...之中的含义。",
+    "etymology": "amid源自古英语中的on middan，on表示在...之上，middan表示中间，合起来指在...之中。"
+  },
+  "example_sentences": [
+    "Amid 我的忙碌工作生活中，我会找一些时间放松心情。 |Amid my busy work life, I will find some time to relax."
+  ]
+}

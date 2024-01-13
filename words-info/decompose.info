@@ -1,0 +1,16 @@
+{
+  "word": "decompose",
+  "pronunciation": {
+    "American": "/ˌdiː.kəmˈpoʊz/",
+    "British": "/ˌdiː.kəmˈpəʊz/"
+  },
+  "definition": "v. 分解；腐烂；使腐烂",
+  "explanation": "decompose是一个及物动词，意为将物质分解成更简单的物质，或者指有机物质由于微生物或其他生物作用而分解成独立的元素。",
+  "mnemonic_methods": {
+    "pronunciation_association": "decompose的读音中的'com'让人联想到'combine'（组合），而de-前缀表示'反向、分离'，所以decompose就是反向组合，即分解。",
+    "etymology": "de-表示反向，compose源自拉丁语componere，意为'放置、安排'，而decompose指的是拆分、分解"
+  },
+  "example_sentences": [
+    "微生物可以帮助有机物质迅速decompose。 | Microorganisms can help organic matter to decompose quickly."
+  ]
+}

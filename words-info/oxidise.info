@@ -1,0 +1,16 @@
+{
+  "word": "oxidise",
+  "pronunciation": {
+    "American": "/ˈɑksɪˌdaɪz/",
+    "British": "/ˈɒksɪdaɪz/"
+  },
+  "definition": "v. （使）氧化",
+  "explanation": "oxidise 是指使物质与氧气反应，产生氧化物的化学过程。在生活中指物质失去电子以及氧气与其他物质产生化学变化。",
+  "mnemonic_methods": {
+    "pronunciation_association": "将 oxidise 分解为 oxi + d + ise，oxi就是氧气的意思，d可以让你联想到动作的发生，ise结尾表示动作，所以oxidise就是与氧气发生化学反应的意思。",
+    "etymology": "这个词来自于希腊文中的 oksys（酸的）和 -ize（使...化）"
+  },
+  "example_sentences": [
+    "这些物质在接触空气后会迅速oxidise。| These substances will oxidise quickly upon exposure to air."
+  ]
+}

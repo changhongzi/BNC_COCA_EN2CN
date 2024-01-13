@@ -1,0 +1,16 @@
+{
+  "word": "subsequent",
+  "pronunciation": {
+    "American": "/ˈsʌbsɪkwənt/",
+    "British": "/ˈsʌbsɪkwənt/"
+  },
+  "definition": "adj. 随后的；后来的",
+  "explanation": "subsequent是一个形容词, 意为随后的或后来的。",
+  "mnemonic_methods": {
+    "pronunciation_association": "记忆发音: subsequent的发音中有“sequen”这个音，可以联想到sequence（顺序），subsequent就是在某个sequence（顺序）之后的。",
+    "etymology": "词源解释: sub-表示下面的，来自拉丁语sub；sequent来自拉丁语sequentem，意为跟随，可以理解为后续的、随后的。"
+  },
+  "example_sentences": [
+    "我们计划在subsequent的几次会议中讨论这个问题。|We plan to discuss this matter in the subsequent meetings."
+  ]
+}

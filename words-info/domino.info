@@ -1,0 +1,16 @@
+{
+  "word": "Domino",
+  "pronunciation": {
+    "American": "/ˈdɑməˌnoʊ/",
+    "British": "/ˈdɒmɪnəʊ/"
+  },
+  "definition": "n. 多米诺骨牌；连锁反应",
+  "explanation": "Domino是一种游戏玩具，可以用来搭建和玩游戏。也可以用来比喻一系列相关事件中的连锁反应。",
+  "mnemonic_methods": {
+    "pronunciation_association": "Domino的发音与'do me know'有些类似，可以通过联想来记住这个单词。",
+    "etymology": "Domino这个词源自拉丁语，最早意思是一种黑白相间的长披肩，后来演变为指代多米诺骨牌。"
+  },
+  "example_sentences": [
+    "这场事件引发了一系列连锁反应，就像一连串的domino效应。|The event triggered a series of chain reactions, like a string of dominoes."
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "word": "Screen",
+  "pronunciation": {
+    "American": "/skrin/",
+    "British": "/skriːn/"
+  },
+  "definition": "n. 屏幕，银幕，荧光屏； v. 筛选，过滤；保护，遮蔽",
+  "explanation": "Screen是一个有多重含义的词，作为名词时表示电子设备上的显示屏，也可以表示用来分隔空间的屏风或屏障；作为动词时，意味着筛选或过滤信息，也可以指保护或遮蔽某物。",
+  "mnemonic_methods": {
+    "pronunciation_association": "Screen的发音很接近“scream（尖叫）”，你可以联想到当你在电子设备上看到一个出其不意的画面时，会发出尖叫。",
+    "etymology": "Screen这个词源于古法语词语 escrire，意思是‘写’，后来引申为‘屏障’，这让我们想到了写字以及用屏障隔开的含义。"
+  },
+  "example_sentences": [
+    "公司采取了一些措施来screen潜在的候选人。|The company took some measures to screen potential candidates."
+  ]
+}

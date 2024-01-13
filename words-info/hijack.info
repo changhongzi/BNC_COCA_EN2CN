@@ -1,0 +1,16 @@
+{
+  "word": "Hijack",
+  "pronunciation": {
+    "American": "/ˈhaɪˌdʒæk/",
+    "British": "/ˈhaɪˌdʒæk/"
+  },
+  "definition": "v. 抢劫，劫持；某人非法拥有或控制；篡改或干预（通信等）",
+  "explanation": "Hijack通常指强行劫持飞机、船只或车辆，也可指非法获得或控制某物，或篡改干预通信等。",
+  "mnemonic_methods": {
+    "pronunciation_association": "Hijack的发音类似于“高杰克”，这是一个突然且强力的动作，就像突然抢劫或劫持一样。",
+    "etymology": "Hijack源自20世纪20年代的美国，最初指持枪劫持车辆或劫持财产。"
+  },
+  "example_sentences": [
+    "黑客试图hijack公司的数据库以获取敏感信息。| The hacker attempted to hijack the company's database to obtain sensitive information."
+  ]
+}

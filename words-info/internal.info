@@ -1,0 +1,16 @@
+{
+  "word": "internal",
+  "pronunciation": {
+    "American": "/ɪnˈtɜrnəl/",
+    "British": "/ɪnˈtɜːnəl/"
+  },
+  "definition": "n.内部的，内在的；adj.内部的，国内的；内心的",
+  "explanation": "internal是一个单词，作为名词时表示内部，内在。作为形容词时表示内部的，国内的，内心的。",
+  "mnemonic_methods": {
+    "pronunciation_association": "内部的声音internal和内部搭配，可以帮助记忆其意思。",
+    "etymology": "该词源自拉丁语中的internus，意为“内部的，内在的”"
+  },
+  "example_sentences": [
+    "她的内心世界对外部人来说是internal的。|Her internal world is internal to external people."
+  ]
+}

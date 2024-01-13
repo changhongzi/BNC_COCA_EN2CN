@@ -1,0 +1,16 @@
+{
+  "word": "blurt",
+  "pronunciation": {
+    "American": "/blɜrt/",
+    "British": "/blɜːt/"
+  },
+  "definition": "v. 脱口而出；莽撞地说出",
+  "explanation": "blurt通常用来指某人在不经意间或情绪冲动下脱口而出某事，表示莽撞地说出。可以跟out连用。",
+  "mnemonic_methods": {
+    "pronunciation_association": "blurt的发音像是由burst（爆发，突然发生）和blur（模糊，含糊）组成，联想到这个词的意思可以帮助记忆它莽撞地说出的含义。",
+    "etymology": "blurt源自于中古英语bretten/bret(e)len，意为‘to talk quickly, chatter’，源自古英语bretan，意为‘to make a sudden noise, burst out’。"
+  },
+  "example_sentences": [
+    "当她听到这个新闻时，她不加思索地blurt了出来。 | When she heard the news, she blurted it out without thinking."
+  ]
+}

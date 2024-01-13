@@ -1,0 +1,16 @@
+{
+  "word": "reveal",
+  "pronunciation": {
+    "American": "/rɪˈvil/",
+    "British": "/rɪˈviːl/"
+  },
+  "definition": "v. 揭示；泄露；展现",
+  "explanation": "reveal 作为及物动词，常指揭露、展现或泄露某物。",
+  "mnemonic_methods": {
+    "pronunciation_association": "reveal的发音类似于're-veil'，可以联想到重新揭开或揭露的意思。",
+    "etymology": "reveal源自拉丁语的revelare，re-意为'again'，velare意为'cover'"
+  },
+  "example_sentences": [
+    "她慢慢地拉开窗帘，reveal出了美丽的风景。|She slowly pulled back the curtain to reveal the beautiful view."
+  ]
+}

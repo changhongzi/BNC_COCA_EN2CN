@@ -1,0 +1,16 @@
+{
+  "word": "apron",
+  "pronunciation": {
+    "American": "/ˈeɪprən/",
+    "British": "/ˈeɪprən/"
+  },
+  "definition": "n.围裙；(船、飞机等的)前部覆盖物",
+  "explanation": "apron是一种用来保护衣物的围裙，也可以指船、飞机等的前部覆盖物。",
+  "mnemonic_methods": {
+    "pronunciation_association": "英式发音/ˈeɪprən/中的 'ay' 可以让你联想到围裙（apron）的形状，即字母A开头，像围裙的形状。",
+    "etymology": "apron源自中古英语'napron'，再结合不定冠词'a'应当写作'an napron'，但由于语音习惯，a被错误地认为是'n'的一部分，于是'apron'得以形成。"
+  },
+  "example_sentences": [
+    "船头的apron可以有效遏制波浪的侵袭。|The apron at the bow of the ship can effectively resist the onslaught of waves."
+  ]
+}

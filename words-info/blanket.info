@@ -1,0 +1,16 @@
+{
+  "word": "blanket",
+  "pronunciation": {
+    "American": "/ˈblæŋkɪt/",
+    "British": "/ˈblæŋkɪt/"
+  },
+  "definition": "n.毛毯；毯子；覆盖物；adj.全面的；总括的；vt.覆盖；给……铺上毛毯",
+  "explanation": "blanket是一个名词，指毛毯或覆盖物，也可用作形容词表示全面的或总括的，还可以作为动词表示给某物覆盖上毛毯。",
+  "mnemonic_methods": {
+    "pronunciation_association": "blanket的发音包含“blank”（空白）这个词根，可以帮助记忆它指覆盖物的含义。",
+    "etymology": "blanket源自古英语的blæðnet（毛毯），由blæd（毛发）和net（布）组成。"
+  },
+  "example_sentences": [
+    "政府发布了一项覆盖全行业的blanket政策。|The government issued a blanket policy covering the entire industry."
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "word": "Optimise",
+  "pronunciation": {
+    "American": "/ˈɑptəˌmaɪz/",
+    "British": "/ˈɒptɪmaɪz/"
+  },
+  "definition": "v. 优化；使最优化",
+  "explanation": "Optimise 是指使某物达到最佳状态或效果，使之最优化。",
+  "mnemonic_methods": {
+    "pronunciation_association": "Optimise 的发音中的 opt 可与 'optimize' 相关联，而 optimize 这个词即是 '使最优化' 的意思，将其转化为动词形式就是 optimise。",
+    "etymology": "该词源自于 optimize，由 prefix opt-（意为最好，最适合） 和 -ize（动词后缀） 构成，表示使达到最佳状态。"
+  },
+  "example_sentences": [
+    "他致力于 optimise 生产流程，以降低成本。 | 他致力于 optimise 生产流程，以降低成本。"
+  ]
+}

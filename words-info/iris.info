@@ -1,0 +1,16 @@
+{
+  "word": "Iris",
+  "pronunciation": {
+    "American": "/ˈaɪrɪs/",
+    "British": "/ˈaɪrɪs/"
+  },
+  "definition": "n.鸢尾花；虹膜",
+  "explanation": "Iris是一个有两个主要含义的名词。首先，它可以指代一种美丽的花卉-鸢尾花。其次，它也是眼睛中的彩虹膜的名称。",
+  "mnemonic_methods": {
+    "pronunciation_association": "Iris的发音类似于“eye-ris”，可以帮助你记住它跟眼睛的关联。",
+    "etymology": "iris一词源自希腊语，意思是彩虹，所以被用来描述眼睛中有彩色光环的部分。"
+  },
+  "example_sentences": [
+    "她的眼睛中的iris泛着独特的颜色。 | The iris in her eyes had a unique color."
+  ]
+}

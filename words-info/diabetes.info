@@ -1,0 +1,16 @@
+{
+  "word": "Diabetes",
+  "pronunciation": {
+    "American": "/ˌdaɪəˈbitəs/",
+    "British": "/ˌdaɪəˈbiːtiːz/"
+  },
+  "definition": "n.糖尿病",
+  "explanation": "Diabetes是一种慢性疾病，通常涉及血糖水平异常的情况。可以使用“她被诊断患有糖尿病”来解释。",
+  "mnemonic_methods": {
+    "pronunciation_association": "Diabetes的发音有“die-a-beat-us”的音调，可以联想到病情严重时心脏跳动不规律。",
+    "etymology": "此词源自古希腊语，含有词根diabainein（逾越、跨越）和mellitus（蜜）, 表示由于过量“蜜”的排出而出现“河”症状的疾病"
+  },
+  "example_sentences": [
+    "医生告诉她要严格控制饮食以控制diabetes。 | The doctor told her to control her diet strictly to manage diabetes."
+  ]
+}

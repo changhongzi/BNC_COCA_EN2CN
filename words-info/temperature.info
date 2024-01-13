@@ -1,0 +1,16 @@
+{
+  "word": "temperature",
+  "pronunciation": {
+    "American": "/ˈtɛmp(ə)rətʃər/",
+    "British": "/ˈtemprətʃə(r)/"
+  },
+  "definition": "n. 温度；体温",
+  "explanation": "温度是指物体冷热程度的指标。我们可以用温度来衡量物体的热量或冷量。",
+  "mnemonic_methods": {
+    "pronunciation_association": "温度（temperature）的发音中有“温”这个音，与其含义相关。",
+    "etymology": "Temperature源自拉丁语“temperatura”，意为“混合，调和”，在古罗马文化中，温度与物体的状态和气候有关。"
+  },
+  "example_sentences": [
+    "医生用体温计测量了孩子的temperature。 | The doctor measured the child's temperature with a thermometer."
+  ]
+}

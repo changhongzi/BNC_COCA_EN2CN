@@ -1,0 +1,16 @@
+{
+  "word": "Corpus",
+  "pronunciation": {
+    "American": "/ˈkɔːrpəs/",
+    "British": "/ˈkɔːrpəs/"
+  },
+  "definition": "n. 身体；法律文件；文集",
+  "explanation": "Corpus指的是一个大规模的文本集合，可以是书籍、文章或其他形式的文本。在法律文件中，它也可以指法律文件的主体部分。在古典语境中，corpus可以指文集或文献的整体。",
+  "mnemonic_methods": {
+    "pronunciation_association": "Corpus的发音有点像‘cor-pus'，很像‘core plus’，可以理解为文本的核心加上更多内容。",
+    "etymology": "Corpus源自拉丁语，意为‘身体’，在古典语境中指代的是文本的主体部分，可以理解为文集的‘核心’。"
+  },
+  "example_sentences": [
+    "他在研究过程中使用了大量的文献corpus。 | He used a large corpus of literature in his research process."
+  ]
+}

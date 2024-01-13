@@ -1,0 +1,16 @@
+{
+  "word": "Evasion",
+  "pronunciation": {
+    "American": "/ɪˈveɪʒən/",
+    "British": "/ɪˈveɪʒən/"
+  },
+  "definition": "n. 逃避, 回避；借口, 欺瞒",
+  "explanation": "Evasion是一个名词，表示逃避或回避现实、问题或责任的行为。也可以指使用借口或欺瞒来逃避问题。",
+  "mnemonic_methods": {
+    "pronunciation_association": "Evasion的发音中包含'vasion'，可以联想到'vision'（视力），如果一个人逃避问题，可能是因为他没有足够的视力（见识）来面对。",
+    "etymology": "Evasion源自拉丁语'evasio'，由'e-'（out）+ 'vas-'（to escape）构成，形象地表示逃避的意思。"
+  },
+  "example_sentences": [
+    "她对这个问题的回答充满了evasion，没有直接回答问题。 | Her response to the question was full of evasion, without directly addressing the issue."
+  ]
+}

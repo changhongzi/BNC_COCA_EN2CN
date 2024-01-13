@@ -1,0 +1,16 @@
+{
+  "word": "furnace",
+  "pronunciation": {
+    "American": "/ˈfɜrnəs/",
+    "British": "/ˈfɜːnɪs/"
+  },
+  "definition": "n.熔炉；火炉；烤炉",
+  "explanation": "furnace是指一种用于加热的设备，通常用于冶炼、加热房屋或烘烤食物等。",
+  "mnemonic_methods": {
+    "pronunciation_association": "联想美剧《炼狱》（Prison Break），炼狱可以让你联想到furnace，因为在监狱里通常会有大型的熔炉。",
+    "etymology": "furnace源自拉丁语“fornax”，表示烘烤、烧制等意思，后来演变成现代英语中的furnace。"
+  },
+  "example_sentences": [
+    "我家的暖气炉又老又吵，我必须得换一个新的furnace了。| The furnace in my house is old and noisy, I have to get a new one."
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "word": "Ape",
+  "pronunciation": {
+    "American": "/eɪp/",
+    "British": "/eɪp/"
+  },
+  "definition": "n. 猿，类人猿；模仿者; vt. 模仿，照搬",
+  "explanation": "Ape是一个名词，表示猿或模仿者。作为动词，意思是模仿或照搬。",
+  "mnemonic_methods": {
+    "pronunciation_association": "Ape的发音接近于字母A和pea（豌豆），你可以想象一个猿在吃pea的样子，或者一个人在模仿猿的动作。",
+    "etymology": "Ape源自古英语词āpa，意为`猴子`。"
+  },
+  "example_sentences": [
+    "别总是ape别人，找到自己独特的方式。 | Stop aping others and find your own unique way."
+  ]
+}

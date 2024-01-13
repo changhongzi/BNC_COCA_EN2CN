@@ -1,0 +1,16 @@
+{
+  "word": "Temporary",
+  "pronunciation": {
+    "American": "/ˈtɛmpəˌrɛri/",
+    "British": "/ˈtɛmpərəri/"
+  },
+  "definition": "adj. 暂时的；临时的；临时工",
+  "explanation": "Temporary 是一个形容词，意味着暂时的或临时的。在中文中指临时的、暂时的。",
+  "mnemonic_methods": {
+    "pronunciation_association": "临时的“temporary”，它的发音里有“临”的发音，让你联想到这个词的意义。",
+    "etymology": "这个词来自拉丁语的“temporarius”，由“tempus”（时间）派生而来，意思是与时间有关的。"
+  },
+  "example_sentences": [
+    "这只是一个temporary的解决方案，我们需要找到一个长期的解决方案。 | This is just a temporary solution; we need to find a permanent one."
+  ]
+}

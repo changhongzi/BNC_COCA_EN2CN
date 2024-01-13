@@ -1,0 +1,16 @@
+{
+  "word": "marathon",
+  "pronunciation": {
+    "American": "/ˈmærəˌθɑn/",
+    "British": "/ˈmærəˌθɒn/"
+  },
+  "definition": "n. 马拉松比赛；（活动或任务）持续时间长且累人",
+  "explanation": "marathon指的是一项长距离赛跑，也可以用来形容持续时间长且累人的活动或任务。",
+  "mnemonic_methods": {
+    "pronunciation_association": "marathon的发音中包含了'马'和'龙'这两个字，让人联想到持续时间长且具有挑战性的形象。",
+    "etymology": "marathon这个词源于古希腊的马拉松战役，马拉松赛事得名于此，因为赛跑的起点与这个战役有关。"
+  },
+  "example_sentences": [
+    "这个项目开展了一个月，真是一场工作的marathon。|This project has been going on for a month, it's really a marathon of work."
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "word": "beverage",
+  "pronunciation": {
+    "American": "/ˈbɛv(ə)rɪdʒ/",
+    "British": "/ˈbev(ə)rɪdʒ/"
+  },
+  "definition": "n. 饮料",
+  "explanation": "Beverage 意思是指任何类型的饮料,包括茶、咖啡、果汁或者酒精类饮料。",
+  "mnemonic_methods": {
+    "pronunciation_association": "Beverage 的发音比较接近“beverage（饮料）”，很容易让你想到它是指各种饮品。",
+    "etymology": "Beverage 这个词源自中古英语的“beverage”，意为“喝的东西”，这个词来源于古法语的“bevrage”，bevr- 意为“喝”，-age 表示“结果、产物”。"
+  },
+  "example_sentences": [
+    "在热天里，一杯冰镇的beverage会让你感到清爽。| On a hot day, a chilled beverage will make you feel refreshed."
+  ]
+}

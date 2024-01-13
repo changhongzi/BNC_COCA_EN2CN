@@ -1,0 +1,16 @@
+{
+  "word": "bulb",
+  "pronunciation": {
+    "American": "/bʌlb/",
+    "British": "/bʌlb/"
+  },
+  "definition": "n.灯泡；球茎；鳞茎",
+  "explanation": "Bulb指的是灯泡，也可以指植物的球茎或鳞茎。",
+  "mnemonic_methods": {
+    "pronunciation_association": "Bulb的发音有点像'波霸'，你可以联想到一个充满光芒的大灯泡就像波霸一样引人注目。",
+    "etymology": "Bulb的词源可以追溯到拉丁语的bulbus，意为球状物。"
+  },
+  "example_sentences": [
+    "这种植物在地下藏着一个肥大的bulb。|This plant has a large bulb underground."
+  ]
+}

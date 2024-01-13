@@ -1,0 +1,16 @@
+{
+  "word": "relevant",
+  "pronunciation": {
+    "American": "/ˈrɛləvənt/",
+    "British": "/ˈrɛləvənt/"
+  },
+  "definition": "adj. 相关的；切题的",
+  "explanation": "relevant 是一个形容词，通常用来描述某事物与正在讨论的话题或情境相关。",
+  "mnemonic_methods": {
+    "pronunciation_association": "relevant的发音有点像“ray-luh-vent”，你可以把'ray'联想为光线，这个光线延伸到了正在讨论的话题，变得相关了",
+    "etymology": "relevant 来自拉丁语的relevare，意思是“提起、升起”。这个词最初用于讨论学术、辩论或法律中的相干性。"
+  },
+  "example_sentences": [
+    "只讨论relevant的内容，不要离题。 | Stay on topic and discuss only relevant content."
+  ]
+}

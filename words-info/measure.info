@@ -1,0 +1,16 @@
+{
+  "word": "measure",
+  "pronunciation": {
+    "American": "/ˈmɛʒər/",
+    "British": "/ˈmeʒə(r)/"
+  },
+  "definition": "n. 测量；措施；尺寸；程度；规定；vt. 测量；估量；测量出；衡量；纳入；计量",
+  "explanation": "Measure是一个既可以作为名词又可以作为动词的词语。作为名词，它表示测量、措施、尺寸、程度或规定。作为动词，它意味着测量、估量、衡量或计量。",
+  "mnemonic_methods": {
+    "pronunciation_association": "Measure的发音中有个ezh的音，可以联想为电子（electronic）测量仪，用来测量尺寸和程度。",
+    "etymology": "Measure源自拉丁语“mensura”，表示测量。"
+  },
+  "example_sentences": [
+    "我们需要采取一些measure来解决这个问题。|We need to take some measures to address this issue."
+  ]
+}

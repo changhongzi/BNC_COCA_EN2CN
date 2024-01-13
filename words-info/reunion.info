@@ -1,0 +1,16 @@
+{
+  "word": "reunion",
+  "pronunciation": {
+    "American": "/riˈjunjən/",
+    "British": "/riˈjuːnjən/"
+  },
+  "definition": "n. 团聚；重聚；重逢",
+  "explanation": "reunion是一个名词，意指人们重新聚在一起的活动。在中文中，reunion通常指的是亲人、朋友或同学相聚在一起的场合。",
+  "mnemonic_methods": {
+    "pronunciation_association": "reunion的发音中有一个类似于're 'you' 'nion'，就像在问你，你和nion（洋葱）重逢了吗？",
+    "etymology": "reunion源自re-（重新）和union（联合），联想起重新与人或团体联合、聚集的场面。"
+  },
+  "example_sentences": [
+    "他们举办了一场同学reunion，邀请了全班的同学参加。|They held a class reunion and invited all the classmates to attend."
+  ]
+}

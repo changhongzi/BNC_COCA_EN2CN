@@ -1,0 +1,16 @@
+{
+  "word": "empire",
+  "pronunciation": {
+    "American": "/ˈɛmˌpaɪər/",
+    "British": "/ˈɛmˌpaɪər/"
+  },
+  "definition": "n.帝国",
+  "explanation": "empire是指一个由不同国家或地区组成的巨大政治实体，通常由一个皇帝或君主统治。它也可以指一种规模宏大的事物或组织。",
+  "mnemonic_methods": {
+    "pronunciation_association": "empire的发音像'em' + 'pie' + 'r'，可以联想到'皇帝（emperor）'、'派（pie）'、'人（r）'，因为帝国通常由皇帝统治",
+    "etymology": "empire源自拉丁词imperium，最初指的是古罗马的统治范围，后来扩展指代其他大型政治实体"
+  },
+  "example_sentences": [
+    "这家公司已经发展成为家喻户晓的商业empire。|这家公司已经发展成为家喻户晓的商业empire。"
+  ]
+}

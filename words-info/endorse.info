@@ -1,0 +1,16 @@
+{
+  "word": "endorse",
+  "pronunciation": {
+    "American": "/ɛnˈdɔrs/",
+    "British": "/ɛnˈdɔːs/"
+  },
+  "definition": "vt. 背书；认可；支持",
+  "explanation": "背书，认可，支持。比如'endorse'是一个动词，通常表示正式支持或推荐某人、某事物或某观点。",
+  "mnemonic_methods": {
+    "pronunciation_association": "Endorse的发音有点像'end doors'（结束的门），可以联想到它的意义为支持或认可某事物或某观点的结束。",
+    "etymology": "该词源自古法语的“endosser”，意为在背后写上名字；在拉丁语中，“en-”为使成为的意思，“dos”为背，所以endorse从本意上是指在背后签署或背书。"
+  },
+  "example_sentences": [
+    "他作为一名成功的企业家，始终endorse着绿色环保理念。| 他作为一名成功的企业家，始终endorsing着绿色环保理念。"
+  ]
+}

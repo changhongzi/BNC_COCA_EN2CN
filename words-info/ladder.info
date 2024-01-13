@@ -1,0 +1,16 @@
+{
+  "word": "ladder",
+  "pronunciation": {
+    "American": "/ˈlædər/",
+    "British": "/ˈlædər/"
+  },
+  "definition": "n.（用爬的）梯子；晋升途径；（比喻）阶梯",
+  "explanation": "Ladder是一个名词，指的是用于爬升的梯子，也可以比喻晋升的途径或阶梯。",
+  "mnemonic_methods": {
+    "pronunciation_association": "Ladder的发音和中文中的“拉的”近似，可以联想到ladder可以帮助我们往上爬，达到我们想要去的地方。",
+    "etymology": "Ladder这个词源于古英语“hlæder”，在古代的德国语中是“Leiter”，都指的是梯子的意思。"
+  },
+  "example_sentences": [
+    "艰苦奋斗是成功的第一步，它是通往成功的ladder。| Hard work is the first step to success, it is the ladder to success."
+  ]
+}

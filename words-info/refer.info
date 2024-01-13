@@ -1,0 +1,16 @@
+{
+  "word": "Refer",
+  "pronunciation": {
+    "American": "/rɪˈfɝ/",
+    "British": "/rɪˈfɜː/"
+  },
+  "definition": "v. 参考；涉及；提交，转呈；查阅；谈到；归因于",
+  "explanation": "refer是一个常用的动词，意为提及或涉及到某人或某事，也指提交或转呈东西给别人，还可以表示查阅参考。也可以用于表示归因于某人或某事。",
+  "mnemonic_methods": {
+    "pronunciation_association": "refer的发音有点像‘reef-er’，你可以想象自己在参考（refer）一本书，同时‘reef’（暗礁）上的东西引起你的关注。",
+    "etymology": "refer源自拉丁语的referre，由re（向后）+ferre（带来），引申为‘将注意力带回’，‘提到’的意义。"
+  },
+  "example_sentences": [
+    "在会议上，他提到了一个重要的议题refer给了专家小组。 | In the meeting, he mentioned an important issue and referred it to the panel of experts."
+  ]
+}

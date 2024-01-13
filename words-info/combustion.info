@@ -1,0 +1,16 @@
+{
+  "word": "combustion",
+  "pronunciation": {
+    "American": "/kəmˈbʌs.tʃən/",
+    "British": "/kəmˈbʌs.tʃən/"
+  },
+  "definition": "n. 燃烧；氧化",
+  "explanation": "combustion 是指物质在氧气中或空气中燃烧。它可以指化学变化过程，也可以指燃烧的结果。",
+  "mnemonic_methods": {
+    "pronunciation_association": "可以将combustion联想为“come-bust-ion”，意思就像某物进入燃烧状态。",
+    "etymology": "combustion的词源来自拉丁语combure，combustus，意为燃烧。"
+  },
+  "example_sentences": [
+    "木材在高温下发生燃烧，产生的combustion释放出大量的能量。 | Wood undergoes combustion at high temperatures, releasing a large amount of energy."
+  ]
+}

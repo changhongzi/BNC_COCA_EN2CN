@@ -1,0 +1,16 @@
+{
+  "word": "generation",
+  "pronunciation": {
+    "American": "/ˌdʒɛnəˈreɪʃ(ə)n/",
+    "British": "/ˌdʒɛnə'reɪʃ(ə)n/"
+  },
+  "definition": "n. 一代；产生，发生；生殖",
+  "explanation": "当我们想要描述一群人、物体或概念从某个特定时间或事件之后的连续存在时，我们可以使用generation来表示。此外，它也可以用来描述生物的生殖过程。",
+  "mnemonic_methods": {
+    "pronunciation_association": "Generation的发音中包含了“gene”，而基因是一代代传承的，帮助我们记忆其表示一代的含义。",
+    "etymology": "这个词源自拉丁语的generatio，它由genus（种类、来源）演变而来。"
+  },
+  "example_sentences": [
+    "在这个实验中，科学家们研究了昆虫的繁殖和generation。 | In this experiment, scientists studied the reproduction and generation of insects."
+  ]
+}

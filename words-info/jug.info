@@ -1,0 +1,16 @@
+{
+  "word": "Jug",
+  "pronunciation": {
+    "American": "/dʒʌɡ/",
+    "British": "/dʒʌɡ/"
+  },
+  "definition": "n.罐，壶；一大壶之量; vt. 用罐子或壶装; 把…囚禁起来",
+  "explanation": "jug是一个名词和动词。作为名词时，它通常表示一种大型的罐子、壶或一大壶的量。而作为动词时，它指的是用罐子或壶装东西，或将某人囚禁起来。",
+  "mnemonic_methods": {
+    "pronunciation_association": "jug的发音类似于'咀嚼'，可以联想到用大罐子(或壶)装食物，然后再开始咀嚼。",
+    "etymology": "Jug源自Latin词语'jugum'，意为'yoke(轭)'。而在古英语中，jug也表示'prison(监狱)'。"
+  },
+  "example_sentences": [
+    "警察把小偷jug在监狱里。|The police jugged the thief in prison."
+  ]
+}

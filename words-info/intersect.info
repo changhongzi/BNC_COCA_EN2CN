@@ -1,0 +1,16 @@
+{
+  "word": "intersect",
+  "pronunciation": {
+    "American": "/ˌɪn.t̬ɚˈsekt/",
+    "British": "/ˌɪn.təˈsekt/"
+  },
+  "definition": "v. 相交，交叉；横断；（在问题、利益等方面）有交集",
+  "explanation": "比如intersect是一个表示两者相交或有共同部分的动词，可以用来描述道路、线条、利益、问题等相交或交叉的情况。",
+  "mnemonic_methods": {
+    "pronunciation_association": "Intersect的发音中有inter-，可以联想到interaction(相互作用)或者intersection(十字路口)，表示两者相交或具有共同部分。",
+    "etymology": "该词源于拉丁语的intersecare，由inter（在…之间）+secare（切割）构成"
+  },
+  "example_sentences": [
+    "这些两个问题在许多方面相 intersect。| These two issues intersect in many ways."
+  ]
+}

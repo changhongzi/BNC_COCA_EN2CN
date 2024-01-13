@@ -1,0 +1,16 @@
+{
+  "word": "Physics",
+  "pronunciation": {
+    "American": "/ˈfɪzɪks/",
+    "British": "/ˈfɪzɪks/"
+  },
+  "definition": "n. 物理学",
+  "explanation": "physics是一门自然科学，研究物质、能量、空间和时间的基本性质和相互关系。",
+  "mnemonic_methods": {
+    "pronunciation_association": "将physics的发音拆分为'phy'和'sics'，'phy'可以联想为‘费’，而'sics'可以联想为‘思考’，这样物理学费用思考就比较好记忆了。",
+    "etymology": "Physics来自希腊语'phusikḗ'，意思是'自然'，这可帮助记忆它是研究自然界的科学。"
+  },
+  "example_sentences": [
+    "学习physics可以帮助我们更好地理解自然界。 | Studying physics helps us better understand the natural world."
+  ]
+}

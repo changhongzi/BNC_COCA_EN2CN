@@ -1,0 +1,16 @@
+{
+  "word": "Lieutenant",
+  "pronunciation": {
+    "American": "/luˈtɛnənt/",
+    "British": "/lɛfˈtɛnənt/"
+  },
+  "definition": "n.中尉; 副职官员;代理人",
+  "explanation": "Lieutenant是一个表示军衔或职位的名词，通常用来指代军队中的中尉或在某些情况下指代其他职位的副职官员。它也可以指代代理人或者某人的代表。",
+  "mnemonic_methods": {
+    "pronunciation_association": "Lieutenant的发音有点像“流天”，可以想象一个军官站在战场上指挥天空流动的云，因为他是中尉职位。",
+    "etymology": "Lieutenant这个词来自于法语lieu（位置）+ tenant（持有），原本指代某人代表另一个人，在战争中代表某位军官指挥。"
+  },
+  "example_sentences": [
+    "她是公司总经理的代理人，可以说是公司的lieutenant。 | She is the acting representative of the company's general manager, she can be called the lieutenant of the company."
+  ]
+}

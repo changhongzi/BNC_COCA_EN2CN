@@ -1,0 +1,16 @@
+{
+  "word": "Guardian",
+  "pronunciation": {
+    "American": "/ˈɡɑrdiən/",
+    "British": "/ˈɡɑːdɪən/"
+  },
+  "definition": "n.监护人；保护者",
+  "explanation": "Guardian 是一个名词，指的是法定监护人或责任人，也可以指代有明确责任保护或看护他人的人。",
+  "mnemonic_methods": {
+    "pronunciation_association": "Guardian 的发音中包含“guard”这个单词，而 guard 的含义是守卫或保护。所以从发音上就能联想到 guardian 是与保护相关的。",
+    "etymology": "Guardian 源自拉丁语 guardia（守卫），再加上后缀 -ian，表示与...有关的人。所以 guardian 的词源本身暗示了守护者的含义。"
+  },
+  "example_sentences": [
+    "作为环保主义者，他视自己为这片森林的保护者，是它的最忠实的 guardian。 | As an environmentalist, he sees himself as the guardian of this forest, being its most loyal guardian."
+  ]
+}

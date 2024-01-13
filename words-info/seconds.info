@@ -1,0 +1,17 @@
+{
+  "word": "seconds",
+  "pronunciation": {
+    "American": "/ˈsɛkəndz/",
+    "British": "/ˈsekəndz/"
+  },
+  "definition": "n.秒；第二；支持；赞成",
+  "explanation": "seconds指的是时间单位秒，或者是指排名第二的人或事物。在口语中，它还可以表示支持或赞成某人或某事。",
+  "mnemonic_methods": {
+    "pronunciation_association": "记忆seconds这个词，可以将其音频拆分成'sec'和'onds'，然后将'sec'联想为'second'（第二），这样就可以记住seconds指的是第二。",
+    "etymology": "seconds一词源自拉丁语secundus，意为'第二'。"
+  },
+  "example_sentences": [
+    "在这次评选中，她获得了第二名，成为了这场比赛的seconds。｜She came second in the competition, becoming the seconds of the race.",
+    "他对这个提议表示了支持，他是这个提议的seconds。｜He showed his support for the proposal, he's the seconds of this proposal."
+  ]
+}

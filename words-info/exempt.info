@@ -1,0 +1,16 @@
+{
+  "word": "Exempt",
+  "pronunciation": {
+    "American": "/ɪɡˈzɛmpt/",
+    "British": "/ɪɡˈzempt/"
+  },
+  "definition": "adj. 被豁免的，被免除的; v. 使豁免，使免除",
+  "explanation": "exempt 这个词可以表示免除某种义务或责任。例如，'他因健康问题而被豁免体育课'。",
+  "mnemonic_methods": {
+    "pronunciation_association": "Exempt的发音中的'empt'可以让你联想到empty（空的），而免除了某事物后，它就像是空的一样。'ex'前缀表示'外'，所以exempt指的是从某事物之外免除。",
+    "etymology": "Exempt来自拉丁语'exemptus'，由'ex-'（出）+ 'emptus'（购买）构成，最初指的是免去某物费用或义务，有点像是‘出售’某些义务或责任。"
+  },
+  "example_sentences": [
+    "免税政策使得某些商品可以exempt增值税。 | The tax-exempt policy allows some goods to escape from value-added tax."
+  ]
+}

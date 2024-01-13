@@ -1,0 +1,16 @@
+{
+  "word": "update",
+  "pronunciation": {
+    "American": "/ˌʌpˈdeɪt/",
+    "British": "/ˌʌpˈdeɪt/"
+  },
+  "definition": "n.（最新消息或信息的）更新；新版；修订本；vt. 更新，修订；v. 得到最新消息",
+  "explanation": "update 是一个名词，代表最新消息或信息的更新，也可以表示新版或修订本。作为动词，指的是更新或修订信息，也可以表示得到最新消息。",
+  "mnemonic_methods": {
+    "pronunciation_association": "update 的读音跟 up date 中的 date 同音，可以理解为把信息更新到最新的日期。",
+    "etymology": "该词源自英语 up（向上）和 date（日期），合起来就是向上更新日期，保持最新的意思。"
+  },
+  "example_sentences": [
+    "我得去看看最新的update。| I need to go check the latest update."
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "word": "county",
+  "pronunciation": {
+    "American": "/ˈkaʊnti/",
+    "British": "/ˈkaʊnti/"
+  },
+  "definition": "n.(美国和英国的)郡；(美国的)县",
+  "explanation": "county是指一个政治上的单位，通常在各国的行政区划中都会出现。在美国和英国，county通常是指地方政府的管辖区域。",
+  "mnemonic_methods": {
+    "pronunciation_association": "county的发音中的'count'让我想起了计数，可能是因为county是一个地方行政单位，需要对人口、资源等进行计数统计。",
+    "etymology": "County源自中古英语词语counte，源于拉丁语comitatus，意为“随行”或者“陪伴”。"
+  },
+  "example_sentences": [
+    "我所住的地方属于乡村county，风景优美。|The place where I live is a rural county with beautiful scenery."
+  ]
+}

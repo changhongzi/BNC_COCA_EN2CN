@@ -1,0 +1,16 @@
+{
+  "word": "strata",
+  "pronunciation": {
+    "American": "/ˈstreɪtə/",
+    "British": "/ˈstreɪtə/"
+  },
+  "definition": "n.地层；阶层；社会阶层",
+  "explanation": "strata 是 stratum 的复数形式，可以用来表示地质学中的层，也可以表示社会中的阶层。",
+  "mnemonic_methods": {
+    "pronunciation_association": "与单数形式 stratum 的发音相似，只是多了一个 a，通过这个相似的发音来记忆它的复数形式。",
+    "etymology": "来自拉丁语 stratum，意为“铺设的地”，引申为地质的不同层次，也可以表示社会中的不同阶层。"
+  },
+  "example_sentences": [
+    "在这个社会中，人们被划分到不同的strata中。 | In this society, people are categorized into different strata."
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "word": "Symphony",
+  "pronunciation": {
+    "American": "/ˈsɪmfəni/",
+    "British": "/ˈsɪmfəni/"
+  },
+  "definition": "n. 交响乐；交响曲",
+  "explanation": "Symphony是一个名词，指的是一种音乐形式，通常由管弦乐队演奏的大型乐曲",
+  "mnemonic_methods": {
+    "pronunciation_association": "Symphony的发音中有“sim”的音，可以让你联想到simulation（模拟），仿佛在音乐中模拟出了一种情感的流动。",
+    "etymology": "Symphony源自希腊语symphōnia，意为'和声，和谐'。原指一种音乐形式，是一种有规模的、器乐性的音乐作品，包括交响曲和交响乐。"
+  },
+  "example_sentences": [
+    "音乐会上演奏的那首symphony唤起了我心中的激情。|The symphony played at the concert evoked passion in my heart."
+  ]
+}

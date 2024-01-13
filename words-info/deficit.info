@@ -1,0 +1,16 @@
+{
+  "word": "deficit",
+  "pronunciation": {
+    "American": "/ˈdɛfəsɪt/",
+    "British": "/ˈdɛfɪsɪt/"
+  },
+  "definition": "n.赤字;不足;逆差",
+  "explanation": "deficit 是指某种资源或要求的不足。比如，财政赤字表示收入不足以支付支出。",
+  "mnemonic_methods": {
+    "pronunciation_association": "deficit的发音中有个音素fe（费），可以联想到财政赤字，因为政府出现财政赤字时需要花费超过收入。",
+    "etymology": "deficit源自拉丁语deficere，意为“缺乏”，由de-（加强语气前缀）+facere（做）组成"
+  },
+  "example_sentences": [
+    "学校饭堂的食品供应方面存在着巨大的deficit。 | There is a huge deficit in the food supply of the school cafeteria."
+  ]
+}

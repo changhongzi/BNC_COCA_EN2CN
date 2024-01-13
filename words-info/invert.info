@@ -1,0 +1,16 @@
+{
+  "word": "Invert",
+  "pronunciation": {
+    "American": "/ɪnˈvɜrt/",
+    "British": "/ɪnˈvɜːrt/"
+  },
+  "definition": "v. 颠倒；使颠倒；使倒转；使倒置",
+  "explanation": "Invert 是一个动词，通常表示将某物颠倒或倒置。",
+  "mnemonic_methods": {
+    "pronunciation_association": "Invert的发音中有个音节'vert'，可以联想到vertical(垂直的)，而垂直通常是上下倒置的。",
+    "etymology": "Invert源自拉丁语的invertere，由词根in-（相反）+ vertere（转动）构成，因此表示把某物转向相反的方向。"
+  },
+  "example_sentences": [
+    "在数学中，invert通常表示翻转图形或数值。| In mathematics, invert often means to reverse the orientation of a figure or a value."
+  ]
+}

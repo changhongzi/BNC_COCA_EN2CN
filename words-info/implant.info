@@ -1,0 +1,16 @@
+{
+  "word": "Implant",
+  "pronunciation": {
+    "American": "/ɪmˈplænt/",
+    "British": "/ɪmˈplɑːnt/"
+  },
+  "definition": "n. (美俚)种植，植入；vt. 灌输，注入；植入，移植；产卵；栽种",
+  "explanation": "Implant是一个多义词，它可以表示移植或植入某物，也可以表示灌输、注入。",
+  "mnemonic_methods": {
+    "pronunciation_association": "Implant的发音中包含impl，类似implant的动作就是将某物植入或注入到其他物体中，这可以帮助牢记其含义。",
+    "etymology": "Implant源自拉丁词implantare，im-表示“进入”，planta-表示“植物”，implantare就是“使植物生根”，引申为在其他物体中植入或灌输。"
+  },
+  "example_sentences": [
+    "这个广告灌输了一种新的思维模式，implanted了新的消费观念。| The advertisement implanted a new mindset, implanting new consumer concepts."
+  ]
+}

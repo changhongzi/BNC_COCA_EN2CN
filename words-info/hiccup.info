@@ -1,0 +1,16 @@
+{
+  "word": "Hiccup",
+  "pronunciation": {
+    "American": "/ˈhɪkʌp/",
+    "British": "/ˈhɪkʌp/"
+  },
+  "definition": "n.打嗝；（计划等的）小问题；vi.打嗝",
+  "explanation": "比如'Hiccup' 是一个表示打嗝的动词，也可以用来指代计划或行动中的小问题。",
+  "mnemonic_methods": {
+    "pronunciation_association": "Hiccup的发音有点像“嘿咯”（hei ge），就像打嗝的声音一样。",
+    "etymology": "Hiccup源自古英语的'hicup', 与匈牙利语的'hukk'和荷兰语的'hik'有关。"
+  },
+  "example_sentences": [
+    "公司的合并计划遇到了一些小问题，但这只是一时的hiccup。|The merger plan of the company encountered some hiccups, but it's just a temporary hiccup."
+  ]
+}

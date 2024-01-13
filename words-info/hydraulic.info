@@ -1,0 +1,16 @@
+{
+  "word": "Hydraulic",
+  "pronunciation": {
+    "American": "/haɪˈdrɔlɪk/",
+    "British": "/haɪˈdrɒlɪk/"
+  },
+  "definition": "adj. 水力的；液压的",
+  "explanation": "Hydraulic是一个形容词，用来描述与水力或液压相关的事物或原理。",
+  "mnemonic_methods": {
+    "pronunciation_association": "Hydraulic的发音中有“水”的意味，帮助记住它与水力相关。",
+    "etymology": "Hydraulic一词源自希腊词根hydraulikos，由hydro（水）和aulos（管道）组成。可以通过词根来联想它与水力或液压有关。"
+  },
+  "example_sentences": [
+    "这座大坝的运作依赖于先进的水利工程和hydraulic技术。|The operation of this dam relies on advanced hydraulic engineering and technology."
+  ]
+}

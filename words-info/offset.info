@@ -1,0 +1,16 @@
+{
+  "word": "offset",
+  "pronunciation": {
+    "American": "/ˈɔfˌsɛt/",
+    "British": "/ˈɒfset/"
+  },
+  "definition": "n.抵消；平移量；（印刷术语）抵消版；vt. 抵消；补偿；以相等的办法补偿；使偏移；使错位",
+  "explanation": "offset是一个名词和动词。作为名词，它通常表示抵消或平移量。作为动词，它意味着补偿或偏移。",
+  "mnemonic_methods": {
+    "pronunciation_association": "可以联想offset这个词汇的含义，因为offset本身包含了off，表示抵消，以及set，表示偏移或设置。",
+    "etymology": "这个词源于古英语的“settan”（放置），再加上前缀“off”，意为“偏移”或“抵消”。"
+  },
+  "example_sentences": [
+    "在印刷术中，使用了offset技术。|Offset printing technology is used in the printing industry."
+  ]
+}

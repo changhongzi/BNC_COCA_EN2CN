@@ -1,0 +1,16 @@
+{
+  "word": "Theory",
+  "pronunciation": {
+    "American": "/ˈθɪr.i/",
+    "British": "/ˈθɪə.ri/"
+  },
+  "definition": "n. 理论；学说；原理",
+  "explanation": "比如'Theory'是指关于某一事物的系统而抽象的认识、解释方式，它是一种有待证实的假设，经过实践和检验后成为学说或原理。",
+  "mnemonic_methods": {
+    "pronunciation_association": "Theory的发音有些像'the-airy'，你可以把这个词解释为对于事物的一种空灵而抽象的认识方式。",
+    "etymology": "Theory源自希腊语中的'θεωρία'（theoria），意为观察、注视、理论。"
+  },
+  "example_sentences": [
+    "他提出了一套关于社会现象的theory。 | He proposed a theory about social phenomena."
+  ]
+}

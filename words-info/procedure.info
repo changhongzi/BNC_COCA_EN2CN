@@ -1,0 +1,16 @@
+{
+  "word": "Procedure",
+  "pronunciation": {
+    "American": "/prəˈsidʒər/",
+    "British": "/prəˈsiːdʒər/"
+  },
+  "definition": "n. 过程；程序；手续",
+  "explanation": "Procedure是指一系列按照特定顺序执行的活动或步骤。例如，在医疗领域，procedure通常指的是医疗程序或手术步骤。",
+  "mnemonic_methods": {
+    "pronunciation_association": "Procedure的发音中包含'seed'，可以联想到需要'种'和按照'一定顺序'来进行的活动或步骤。",
+    "etymology": "Procedure源自中古拉丁语procedura, 其中的pro-表示'向前'，cedere表示'走'，它指的是向前进行的一系列步骤或活动。"
+  },
+  "example_sentences": [
+    "手术前，医生会向患者解释整个手术的procedure。 | Before the surgery, the doctor will explain the entire procedure to the patient."
+  ]
+}

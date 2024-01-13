@@ -1,0 +1,16 @@
+{
+  "word": "Phoenix",
+  "pronunciation": {
+    "American": "/ˈfinɪks/",
+    "British": "/ˈfiːnɪks/"
+  },
+  "definition": "n.凤凰；不屈不挠的人；重生的象征",
+  "explanation": "Phoenix 是凤凰的意思，传说中的长生不死之鸟，也可以用来形容顽强、不屈不挠的人，以及象征重生的概念。",
+  "mnemonic_methods": {
+    "pronunciation_association": "Phoenix的发音和'fee-niks'相似，可以联想为费尼克斯（phoenix）的美丽传说。",
+    "etymology": "Phoenix源自古希腊神话中的费尼克斯（phoenix），被描述为能够在死后重生的神鸟。"
+  },
+  "example_sentences": [
+    "他的精神就像一只不屈不挠的phoenix一样，永不言败。 | His spirit is like an indomitable phoenix, never giving up."
+  ]
+}

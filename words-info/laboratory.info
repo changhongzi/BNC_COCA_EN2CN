@@ -1,0 +1,16 @@
+{
+  "word": "laboratory",
+  "pronunciation": {
+    "American": "/ˈlæb(ə)rəˌtɔri/",
+    "British": "/ˈlæb(ə)rətri/"
+  },
+  "definition": "n. 实验室",
+  "explanation": "laboratory 是指用于科学研究、实验、化验等工作的房间或建筑物。可以用于指化学实验室、生物实验室、物理实验室等。",
+  "mnemonic_methods": {
+    "pronunciation_association": "laboratory的发音中包含了lab和rat这两个音节，你可以想象一个大实验室里有很多的小老鼠在进行实验。",
+    "etymology": "laboratory源自中世纪拉丁语laboratorium，意思是“工作室、劳动场所”，在英语中表示“实验室”"
+  },
+  "example_sentences": [
+    "他们在laboratory进行了一项重要的科学实验。|They conducted a significant scientific experiment in the laboratory."
+  ]
+}

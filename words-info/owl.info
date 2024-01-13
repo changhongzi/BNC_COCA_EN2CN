@@ -1,0 +1,16 @@
+{
+  "word": "owl",
+  "pronunciation": {
+    "American": "/aʊl/",
+    "British": "/aʊl/"
+  },
+  "definition": "n. 猫头鹰",
+  "explanation": "owl 是指一种夜间活动的食肉鸟类，通常在夜间捕食。也可用来比喻一个智慧的人。",
+  "mnemonic_methods": {
+    "pronunciation_association": "owl的发音酷似'噢'的音调，让人联想到夜晚猫头鹰发出的声音",
+    "etymology": "The word 'owl' is of Germanic origin; related to Dutch 'uil' and German 'Eule'."
+  },
+  "example_sentences": [
+    "她是我们团队的智者，经常被人戏称为公司的owl。|She is the wise owl of our team, often jokingly referred to as the company's owl."
+  ]
+}

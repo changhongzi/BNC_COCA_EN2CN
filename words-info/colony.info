@@ -1,0 +1,16 @@
+{
+  "word": "colony",
+  "pronunciation": {
+    "American": "/ˈkɑləni/",
+    "British": "/ˈkɒləni/"
+  },
+  "definition": "n. 殖民地；群体；聚居的一群动植物",
+  "explanation": "colony是指一个区域被人类定居或被动植物群体聚居的地方。通常指代遥远的殖民地，或者是一种动植物的集体聚居。在科学或者地理领域，也可以指代一群微生物的聚居。",
+  "mnemonic_methods": {
+    "pronunciation_association": "colony的发音有点像'coal honey'（煤炭蜂蜜），你可以联想到在某个区域的采矿活动形成了一个煤炭的殖民地。",
+    "etymology": "colony源自希腊文'kolōnia'，最初用来指代由母国建立的定居点。"
+  },
+  "example_sentences": [
+    "这片森林是熊的聚居地，很多熊聚集在这片colony里生活。 | This forest is a bear colony, where many bears gather and live."
+  ]
+}

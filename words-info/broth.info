@@ -1,0 +1,16 @@
+{
+  "word": "broth",
+  "pronunciation": {
+    "American": "/brɔθ/",
+    "British": "/brɒθ/"
+  },
+  "definition": "n.肉汤；清汤；汤",
+  "explanation": "broth是一种液体食物，通常由肉、蔬菜和香料煮沸而成。可以作为汤或清汤食用。",
+  "mnemonic_methods": {
+    "pronunciation_association": "broth的发音让人联想到'brought'，当人们在有病时，就希望有人给他们带来broth。",
+    "etymology": "来自古英语'borth'，意为食物或饮料"
+  },
+  "example_sentences": [
+    "她煮了一锅浓郁的鸡肉broth，带来了温暖和安慰。 | She cooked a pot of rich chicken broth, bringing warmth and comfort."
+  ]
+}

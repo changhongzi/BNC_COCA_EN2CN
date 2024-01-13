@@ -1,0 +1,16 @@
+{
+  "word": "tissue",
+  "pronunciation": {
+    "American": "/ˈtɪʃu/",
+    "British": "/ˈtɪsjuː/"
+  },
+  "definition": "n. 组织；薄纸；纸巾",
+  "explanation": "Tissue是一个多义词，它可以指代生物学中的组织，也可以指薄纸或纸巾。",
+  "mnemonic_methods": {
+    "pronunciation_association": "Tissue的发音有点像“tissue（纸巾）”，这可以让你联想到它是用来擦拭或包裹东西的。",
+    "etymology": "Tissue源自古法语tissu，意为织物、布料，再经由拉丁语词根tēxere进一步衍生而来。"
+  },
+  "example_sentences": [
+    "我需要一包纸巾，你有tissue吗？ | I need a tissue, do you have any tissue?"
+  ]
+}

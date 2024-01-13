@@ -1,0 +1,16 @@
+{
+  "word": "increase",
+  "pronunciation": {
+    "American": "/ɪnˈkris/",
+    "British": "/ɪnˈkriːs/"
+  },
+  "definition": "n.增加；增长；增进；vt.（使）增加；（使）增长；（使）增进",
+  "explanation": "increase是一个动词和名词，表示数量、程度或价值的提高。作为名词时，表示数量、程度或价值的增加；作为动词时，表示使数量、程度或价值增加。",
+  "mnemonic_methods": {
+    "pronunciation_association": "increase的发音中包含了ink，而墨水是用来写字或画画的，可以联想到增加的东西是要被记录下来的",
+    "etymology": "increase源自拉丁语increpare，意为‘增加’，再加上英语后缀-ase，表示‘动作或过程’，想象成“不断做增加的动作”"
+  },
+  "example_sentences": [
+    "为了应对需求量的增长，我们需要increase生产。 | 为了应对需求量的增长，我们需要 increase production."
+  ]
+}

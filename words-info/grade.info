@@ -1,0 +1,17 @@
+{
+  "word": "grade",
+  "pronunciation": {
+    "American": "/ɡreɪd/",
+    "British": "/ɡreɪd/"
+  },
+  "definition": "n.(American English)年级；(British English)（学校考试或学术成绩的）成绩；v.分等级；评分",
+  "explanation": "grade 既可以表示学校中学生的年级，也可以表示学校考试或学术成绩的等级。作为动词时，表示对物品或人进行分等级或评分。",
+  "mnemonic_methods": {
+    "pronunciation_association": "grade的发音中有'red'，而红色通常被用来表示等级或分数，这可以帮助记忆它的含义。",
+    "etymology": "grade源自拉丁语gradi，意为“步行”或“前进”，可以从“步步高升”、“层级递进”的概念来理解其含义。"
+  },
+  "example_sentences": [
+    "这次考试我得了A grade。| I got an A grade on this exam.",
+    "这些产品根据质量等级进行分类。| These products are graded according to quality."
+  ]
+}

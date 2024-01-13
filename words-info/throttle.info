@@ -1,0 +1,16 @@
+{
+  "word": "throttle",
+  "pronunciation": {
+    "American": "/ˈθrɑtəl/",
+    "British": "/ˈθrɒtəl/"
+  },
+  "definition": "n.节流阀；油门；v.掐死；扼住...的喉咙；限制...的数量",
+  "explanation": "throttle是一个多义词，作为名词时，通常指节流阀或油门；作为动词时，意味着掐死或扼住某人的喉咙，也可以用来表示限制或减少某物的数量。",
+  "mnemonic_methods": {
+    "pronunciation_association": "throttle的发音类似于'throw+tell'，可以联想到当你掐住一个人的喉咙，你可能会告诉他别动或停止呼吸。",
+    "etymology": "这个词源于古英语的throtian，意指“掐住喉咙”。"
+  },
+  "example_sentences": [
+    "政府计划throttle进口商品的数量，以保护本国产业。 | The government plans to throttle the quantity of imported goods to protect the domestic industry."
+  ]
+}

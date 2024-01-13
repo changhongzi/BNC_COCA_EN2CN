@@ -1,0 +1,16 @@
+{
+  "word": "graph",
+  "pronunciation": {
+    "American": "/ɡræf/",
+    "British": "/ɡrɑːf/"
+  },
+  "definition": "n.图表，曲线图；绘图；v.绘制…的曲线图",
+  "explanation": "graph是一个名词，通常表示图表，曲线图或绘图。作为动词时，表示绘制某物的曲线图。",
+  "mnemonic_methods": {
+    "pronunciation_association": "图表(graph)的发音和grasp（掌握）有点相似，当你掌握了图表，你就掌握了其中的信息。",
+    "etymology": "graph源自希腊语grapho，意思是'书写、画'。"
+  },
+  "example_sentences": [
+    "科学家使用数据来graph气候变化。 | Scientists use data to graph climate change."
+  ]
+}

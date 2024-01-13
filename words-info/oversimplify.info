@@ -1,0 +1,16 @@
+{
+  "word": "oversimplify",
+  "pronunciation": {
+    "American": "/ˌoʊvərˈsɪmpləˌfaɪ/",
+    "British": "/ˌəʊvə(r)ˈsɪmplɪfaɪ/"
+  },
+  "definition": "v. 过分简化; 对…过分简单化",
+  "explanation": "比如‘oversimplify’ 是一个动词，意指对某事物或情况进行过度简化，使得丧失了其复杂性和真实性。",
+  "mnemonic_methods": {
+    "pronunciation_association": "Oversimplify的发音中有over（过分）和simplify（简化），这两部分可以帮助记忆它的含义，表示对某事物过度简化。",
+    "etymology": "该词由over（过度）和simplify（简化）组合而成，直接表达了对事物过度简化的含义。"
+  },
+  "example_sentences": [
+    "不要轻易对这个复杂的情况进行oversimplify。 | Do not oversimplify this complicated situation."
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "word": "carbon",
+  "pronunciation": {
+    "American": "/ˈkɑrbən/",
+    "British": "/ˈkɑːbən/"
+  },
+  "definition": "n.碳",
+  "explanation": "carbon是一个名词，表示化学元素碳。",
+  "mnemonic_methods": {
+    "pronunciation_association": "carbon的发音类似于“卡本”，你可以联想到碳元素常见的形式，比如煤、石墨、钻石。",
+    "etymology": "carbon这个词来自拉丁词“carbo”，意为炭、木炭。"
+  },
+  "example_sentences": [
+    "这种材料含有大量的carbon。 |This material contains a large amount of carbon."
+  ]
+}

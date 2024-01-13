@@ -1,0 +1,16 @@
+{
+  "word": "Division",
+  "pronunciation": {
+    "American": "/dɪˈvɪʒən/",
+    "British": "/dɪˈvɪʒən/"
+  },
+  "definition": "n. 分开，分隔；除法；部门，系；分裂，分歧",
+  "explanation": "Division是一个名词，表示分开、分隔、除法、部门、系或者分裂、分歧。",
+  "mnemonic_methods": {
+    "pronunciation_association": "Division的发音中包含'divide'，而'divide'意为分割，这可以帮助记忆division的意思。",
+    "etymology": "Division源自拉丁语dividere，含有'div-'（分开）和'-ision'（名词后缀）"
+  },
+  "example_sentences": [
+    "公司决定对成绩进行分级，并成立了新的sales division。|The company decided to grade the performances and set up a new sales division."
+  ]
+}

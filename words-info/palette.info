@@ -1,0 +1,16 @@
+{
+  "word": "Palette",
+  "pronunciation": {
+    "American": "/ˈpæl.ɪt/",
+    "British": "/ˈpæl.ɪt/"
+  },
+  "definition": "n. 调色板；（艺术家用的）颜料板；（某人特有的）颜色或风格",
+  "explanation": "Palette是一个名词，通常指的是调色板，艺术家用来搅拌或混合颜料的板子，也可以用来指某个人所使用的或特有的颜色或风格。",
+  "mnemonic_methods": {
+    "pronunciation_association": "Palette的发音和'pallet'（托盘）很相似，你可以把调色板想象为一种艺术上的托盘，用来盛放颜料。",
+    "etymology": "Palette源自法语词汇，最初指的是调色板或艺术家用来混合颜料的平板。"
+  },
+  "example_sentences": [
+    "这位画家总是用鲜艳的色彩，这已经成为了他的独特风格和palette。 | The artist always uses vibrant colors, which has become his unique style and palette."
+  ]
+}

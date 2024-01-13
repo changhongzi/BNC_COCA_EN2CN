@@ -1,0 +1,16 @@
+{
+  "word": "devalue",
+  "pronunciation": {
+    "American": "/diˈvælju/",
+    "British": "/diˈvælju/"
+  },
+  "definition": "v. 贬值；降低…的价值；降低…的重要性",
+  "explanation": "devalue是一个动词，意思是将货币贬值，或者使某物的价值或重要性降低。",
+  "mnemonic_methods": {
+    "pronunciation_association": "devalue的发音中包含值（value），当值减少时（de-），物品价值就会减少。",
+    "etymology": "de-意为‘down’，value意为‘价值’，合起来就是‘减少价值’的意思。"
+  },
+  "example_sentences": [
+    "这个决定将严重devalue这个品牌的声誉。|This decision will seriously devalue the reputation of this brand."
+  ]
+}

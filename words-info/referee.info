@@ -1,0 +1,16 @@
+{
+  "word": "referee",
+  "pronunciation": {
+    "American": "/ˌrɛfəˈri/",
+    "British": "/ˌrefəˈri:/"
+  },
+  "definition": "n.裁判；仲裁人；vt. 仲裁；裁判；vi. 充当裁判",
+  "explanation": "referee 是指在比赛或争议中担任裁判的人，也可以指仲裁人。作为动词，它表示充当裁判或进行仲裁。",
+  "mnemonic_methods": {
+    "pronunciation_association": "referee的发音中包含“reef”，可以联想到在海洋中，礁石（reef）是需要仔细判断和避免的障碍物，而裁判（referee）也需要仔细观察并做出判断。",
+    "etymology": "这个词源于中古法语refere，意为“仲裁人”，再由拉丁语referre形成"
+  },
+  "example_sentences": [
+    "他被指定为仲裁本次纠纷的referee。 | He was appointed as the referee to arbitrate the dispute."
+  ]
+}

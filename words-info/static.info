@@ -1,0 +1,16 @@
+{
+  "word": "static",
+  "pronunciation": {
+    "American": "/ˈstætɪk/",
+    "British": "/ˈstætɪk/"
+  },
+  "definition": "adj. 静态的；静止的；不变的；n. 静电干扰",
+  "explanation": "Static是一个形容词，它通常用来描述静态的、静止的或不变的状态。",
+  "mnemonic_methods": {
+    "pronunciation_association": "Static的发音中包含'tic'，这让我联想到钟表的静态状态，停止不动的'滴答声'",
+    "etymology": "Static源自希腊语中的'statis'，意为'站立、静止'。"
+  },
+  "example_sentences": [
+    "在会议上，他们遭遇了静电干扰，导致屏幕出现了static。 | They encountered static electricity interference during the meeting, causing the screen to display static."
+  ]
+}

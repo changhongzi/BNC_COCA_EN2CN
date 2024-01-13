@@ -1,0 +1,16 @@
+{
+  "word": "alert",
+  "pronunciation": {
+    "American": "/əˈlɝt/",
+    "British": "/ə'lɜːt/"
+  },
+  "definition": "adj. 警惕的；警觉的；n. 警报；vt. 警告",
+  "explanation": "alert作为形容词时，表示警惕的、警觉的；作为名词时，表示警报；作为动词时，表示警告。",
+  "mnemonic_methods": {
+    "pronunciation_association": "alert的发音中含有“alert”这个单词的主要音节，这让人联想到紧急情况下需要保持警觉。",
+    "etymology": "这个词源自拉丁语的“alerta”，意为“醒着的，警觉的”"
+  },
+  "example_sentences": [
+    "警报响起时，他们立刻变得非常alert。| They became very alert when the alarm went off."
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "word": "Candidate",
+  "pronunciation": {
+    "American": "/ˈkændɪˌdeɪt/",
+    "British": "/ˈkændɪdeɪt/"
+  },
+  "definition": "n. 候选人；应试者",
+  "explanation": "Candidate 是指寻求选举或任命的人，也可表示参加考试或应聘的人。",
+  "mnemonic_methods": {
+    "pronunciation_association": "Candidate的发音像can-did-date，可以理解为能真实代表某个职位或角色的人。",
+    "etymology": "这个词源于拉丁语的candidatus，原意为穿白袍的候选人，在古罗马时代，竞选官职的候选人会穿白袍以示纯洁无辜。"
+  },
+  "example_sentences": [
+    "这个职位有很多优秀的应聘者，但只有一个candidate能获得这份工作。 | There are many outstanding applicants for the position, but only one candidate will get the job."
+  ]
+}

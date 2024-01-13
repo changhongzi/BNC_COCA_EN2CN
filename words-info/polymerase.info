@@ -1,0 +1,16 @@
+{
+  "word": "polymerase",
+  "pronunciation": {
+    "American": "/ˈpɑlɪməreɪs/",
+    "British": "/ˈpɒlɪməreɪs/"
+  },
+  "definition": "n.【生化】聚合酶",
+  "explanation": "Polymerase是一种生物化学酶，它在DNA或RNA的合成过程中起着非常重要的作用。",
+  "mnemonic_methods": {
+    "pronunciation_association": "Polymerase的发音中包含'poly'，可以和polymorphism（多态性）相联想，表示polymerase参与了生物体内分子结构的多样性。",
+    "etymology": "Polymerase是由polymer和-ase构成的，polymer表示聚合物，-ase作为后缀表示这是一种酶。"
+  },
+  "example_sentences": [
+    "科学家通过研究DNA聚合酶的活性帮助我们更好地理解遗传信息的传递。|Scientists have helped us better understand the transmission of genetic information by studying the activity of DNA polymerase."
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "word": "electronic",
+  "pronunciation": {
+    "American": "/ɪˌlɛkˈtrɑnɪk/",
+    "British": "/ɪˌlɛkˈtrɒnɪk/"
+  },
+  "definition": "adj. 电子的；用电子器件制作的；电子音乐的",
+  "explanation": "electronic指由电子器件、电路或数字技术控制或操作的。比如电子邮件就是由电子设备进行传送和接收的邮件。",
+  "mnemonic_methods": {
+    "pronunciation_association": "electronic的发音中包含了'elec'，它与electric（电的）有一定的相似性，这可以帮助记住electronic与电子相关。",
+    "etymology": "electronic一词源自希腊语中的'elektron'，意为琥珀，因为古代人发现琥珀在受摩擦时能吸引轻物体，类似电的现象。"
+  },
+  "example_sentences": [
+    "她擅长制作electronic音乐，深受年轻人的喜爱。|She's good at making electronic music, which is very popular among young people."
+  ]
+}

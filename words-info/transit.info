@@ -1,0 +1,16 @@
+{
+  "word": "transit",
+  "pronunciation": {
+    "American": "/ˈtrænzɪt/",
+    "British": "/ˈtrænzɪt/"
+  },
+  "definition": "n. 运输；经过，穿越；过境；vi. 经过，穿越；adj. 运输的；过境的",
+  "explanation": "transit是一个多义词，作为名词时表示运输或经过的过程，作为动词时表示经过或穿越某地，作为形容词时表示与运输或过境相关的。",
+  "mnemonic_methods": {
+    "pronunciation_association": "transit的发音类似于'trans it'，可以理解为'trans'（通过）'it'（它），即通过某地或某物。",
+    "etymology": "transit源自拉丁语transitus，由trans（穿过）和itus（过程）组成。"
+  },
+  "example_sentences": [
+    "货物将通过陆路、海路和空运进行运输transit。 | The goods will be transported through land, sea, and air transit."
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "word": "Portable",
+  "pronunciation": {
+    "American": "/ˈpɔrtəbl/",
+    "British": "/ˈpɔːtəbl/"
+  },
+  "definition": "adj. 可携带的；轻便的",
+  "explanation": "Portable是一个形容词，用来描述物品可以轻松携带或移动。",
+  "mnemonic_methods": {
+    "pronunciation_association": "Portable的发音中有port这个单词，port通常用来描述海港或船运，想象一个东西可以容易地从一个港口携带到另一个港口，因为它是portable的。",
+    "etymology": "Portable源自拉丁语portabilis，由portare（携带）和-abilis（能...的）构成，直译为可以携带的"
+  },
+  "example_sentences": [
+    "这个折叠桌椅非常方便携带，因为它是portable的。|This foldable table and chair set is very convenient to carry around because it's portable."
+  ]
+}

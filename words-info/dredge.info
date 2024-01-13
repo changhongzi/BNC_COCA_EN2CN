@@ -1,0 +1,16 @@
+{
+  "word": "Dredge",
+  "pronunciation": {
+    "American": "/drɛdʒ/",
+    "British": "/drɛdʒ/"
+  },
+  "definition": "n.挖泥船；v.（在水底）疏浚；用矿泥淤泥覆盖土地",
+  "explanation": "Dredge是一个动词和名词。作为动词，它通常指在水底进行疏浚或清理工作；作为名词，它表示专门用来在水底进行疏浚工作的大型船只，也可以指用矿泥或淤泥覆盖土地。",
+  "mnemonic_methods": {
+    "pronunciation_association": "Dredge的发音有点像\"dredge\"（打扫）的发音，可以联想到它指的是清理、清除物体的行为。",
+    "etymology": "Dredge源自中古英语词语'dreg-boat'，意为\"清除港口中的杂物的船\"，可以从这个词源联想到Dredge的含义"
+  },
+  "example_sentences": [
+    "他们使用了厚重的矿泥来dredge这片土地。 | They used heavy mine tailings to dredge the land."
+  ]
+}

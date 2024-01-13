@@ -1,0 +1,16 @@
+{
+  "word": "maze",
+  "pronunciation": {
+    "American": "/mez/",
+    "British": "/meɪz/"
+  },
+  "definition": "n. 迷宫; 迷路; 令人困惑的事物",
+  "explanation": "Maze是一个名词，表示迷宫，也可引申为比喻意义的困惑或混乱。",
+  "mnemonic_methods": {
+    "pronunciation_association": "Maze的发音和'maze'（迷宫）的发音非常相似，可以通过音频和图像联想传统的迷宫场景。",
+    "etymology": "Maze这个词源于古代英语单词'masian'，意为迷失，混淆；后来演变成'maze'，表示迷宫或混乱。"
+  },
+  "example_sentences": [
+    "这个问题真是一个令人困惑的maze，我们需要耐心解决。 |This problem is really a confusing maze, we need to solve it patiently."
+  ]
+}

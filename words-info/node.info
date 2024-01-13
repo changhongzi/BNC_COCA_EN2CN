@@ -1,0 +1,16 @@
+{
+  "word": "Node",
+  "pronunciation": {
+    "American": "/noʊd/",
+    "British": "/nəʊd/"
+  },
+  "definition": "n. （网络、树、图等的）节点；结",
+  "explanation": "Node是指网络、树、图等结构中的一个基本单元，它是连接其他节点或数据的位置。",
+  "mnemonic_methods": {
+    "pronunciation_association": "Node的发音和'no'的发音相似，可以联想成'no'是一个节点，连接其他信息。",
+    "etymology": "Node源自拉丁语'nodus'，意为'结、节'，可以想象成网络或图结构中的交叉点。"
+  },
+  "example_sentences": [
+    "树的每一个node都代表一个具体的数据元素。| Each node of the tree represents a specific data element."
+  ]
+}

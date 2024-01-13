@@ -1,0 +1,16 @@
+{
+  "word": "calendar",
+  "pronunciation": {
+    "American": "/ˈkæləndər/",
+    "British": "/ˈkæləndər/"
+  },
+  "definition": "n.（年、月、周的）日历; vt. 记入日程表",
+  "explanation": "Calendar是一个名词，指的是包括年、月、周的日历，也可以指将某事物记入日程表。",
+  "mnemonic_methods": {
+    "pronunciation_association": "Calendar的发音有些像天空（calendar），你可以想象日历就像天空一样，记录着时间的流逝。",
+    "etymology": "Calendar源自拉丁语“calendarium”，意为“账目表”，最初用来指示税收期限。"
+  },
+  "example_sentences": [
+    "这个会议需要被加入到公司的日程表中的calendar里。|This meeting needs to be added to the company's calendar."
+  ]
+}

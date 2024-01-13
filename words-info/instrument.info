@@ -1,0 +1,17 @@
+{
+  "word": "Instrument",
+  "pronunciation": {
+    "American": "/ˈɪn.strə.mənt/",
+    "British": "/ˈɪn.strə.mənt/"
+  },
+  "definition": "n.（尤指用于精确测量的）仪器，器械；（实现特定目的的）手段，工具；乐器；（罪行的）工具",
+  "explanation": "Instrument 是一个名词，可以指用于精确测量的仪器、手段或工具，也可以指乐器或犯罪的工具。",
+  "mnemonic_methods": {
+    "pronunciation_association": "The pronunciation 'in-stru-ment' sounds like 'in structure meant,' which can remind you that an instrument is something meant for a specific purpose, just like a tool or a device.",
+    "etymology": "The word 'instrument' comes from the Latin word 'instrumentum,' which means 'tool, implement, equipment.'"
+  },
+  "example_sentences": [
+    "音乐是一种美妙的艺术，乐器是奏响这种艺术的instrument。|Music is a wonderful art form, and instruments are the means to perform this art.",
+    "警察找到了作为犯罪工具的instrument。|The police found the instrument used in the crime."
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "word": "heretic",
+  "pronunciation": {
+    "American": "/ˈhɛrəˌtɪk/",
+    "British": "/ˈhɛrətɪk/"
+  },
+  "definition": "n.异教徒；持异端邪说者",
+  "explanation": "Heretic是一个名词，指的是持异端邪说者，特指与主流宗教信仰相背离的人。",
+  "mnemonic_methods": {
+    "pronunciation_association": "Heretic的发音中包含'retic'，可以联想为'reject'，即被主流宗教信仰所拒绝的人。",
+    "etymology": "Heretic源自古希腊文'hairesis'，意为选择，后来演变为异端邪说，引申为持异端邪说者。"
+  },
+  "example_sentences": [
+    "在这个世界观日益多元的时代，不同的观念理应得到尊重，而非对其宣判为heretic。 | In this increasingly diverse world, different beliefs should be respected rather than condemned as heretic."
+  ]
+}

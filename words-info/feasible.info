@@ -1,0 +1,16 @@
+{
+  "word": "feasible",
+  "pronunciation": {
+    "American": "/ˈfiːzəbl/",
+    "British": "/ˈfiːzəbl/"
+  },
+  "definition": "adj. 可行的，行得通的",
+  "explanation": "比如'feasible'表示某个计划、想法或建议在当前条件下是可行的、行得通的。",
+  "mnemonic_methods": {
+    "pronunciation_association": "Feasible的发音类似于'fee'和'see'，你可以想象支付（fee）一点钱来看到这个可行的（feasible）计划。",
+    "etymology": "Feasible源自拉丁语'facere'，意为'做'，结合后缀'-ible'表示'可以做到的'，所以它指的是可以被做成的、实行的。"
+  },
+  "example_sentences": [
+    "在目前的资源和时间范围内，这个目标是feasible的。 | Within the current resources and time frame, this goal is feasible."
+  ]
+}

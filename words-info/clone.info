@@ -1,0 +1,16 @@
+{
+  "word": "clone",
+  "pronunciation": {
+    "American": "/kloʊn/",
+    "British": "/kləʊn/"
+  },
+  "definition": "n. 克隆体；复制品；v. 复制；克隆",
+  "explanation": "Clone是指基因或细胞的复制品。作为名词，它表示克隆体或复制品；作为动词，它指复制或克隆。",
+  "mnemonic_methods": {
+    "pronunciation_association": "Clone的发音和'克隆'很相似，可以通过发音来联想到它的含义。",
+    "etymology": "Clone源自希腊语klōn（嫩枝、分枝），最早用于植物学上指植物的繁殖，后来引申为生物学中指复制生物的过程。"
+  },
+  "example_sentences": [
+    "科学家希望能够克隆恐龙的DNA。|Scientists hope to clone the DNA of dinosaurs."
+  ]
+}

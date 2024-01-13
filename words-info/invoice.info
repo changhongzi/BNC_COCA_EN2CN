@@ -1,0 +1,16 @@
+{
+  "word": "invoice",
+  "pronunciation": {
+    "American": "/ˈɪnˌvɔɪs/",
+    "British": "/ˈɪnˌvɔɪs/"
+  },
+  "definition": "n.发票；货物清单 v.开发票；列入清单",
+  "explanation": "invoice是一个名词和动词。作为名词，它通常指代购买物品时收到的账单或发票。作为动词，它意味着列出货物清单或开具发票。",
+  "mnemonic_methods": {
+    "pronunciation_association": "invoice的发音像in voice（在发票中），可以帮助你联想到这个词通常与账单或发票相关",
+    "etymology": "这个词来自于古法语“envois”（发货），源自拉丁语“in”（在）+“vocare”（叫），整体意为在发货时叫出"
+  },
+  "example_sentences": [
+    "他们今天早上寄出一封带有invoice的邮件。| They sent an email with the invoice attached this morning."
+  ]
+}

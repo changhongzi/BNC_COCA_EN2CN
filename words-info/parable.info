@@ -1,0 +1,16 @@
+{
+  "word": "parable",
+  "pronunciation": {
+    "American": "/ˈpærəbəl/",
+    "British": "/ˈpærəbəl/"
+  },
+  "definition": "n. 寓言，比喻；（尤指）耶稣的寓言",
+  "explanation": "Parable 是一个名词，通常指一种寓意深远的故事，尤其指耶稣讲的寓言。",
+  "mnemonic_methods": {
+    "pronunciation_association": "Parable 的发音中的 para 可以和 parallel 这个词联想，而ble则让我想到able（能够），所以 parable 是一些故事能够和现实情况或道理相平行的。",
+    "etymology": "Parable 源自希腊语 parabole，意为比喻，由para（旁边）+ bole（投掷）组成，形象地指的是在某个事物旁边投掷出另一个事物，表示两者之间的类比关系。"
+  },
+  "example_sentences": [
+    "圣经中有许多关于善恶的parable。| There are many parables about good and evil in the Bible."
+  ]
+}

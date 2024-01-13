@@ -1,0 +1,16 @@
+{
+  "word": "uranium",
+  "pronunciation": {
+    "American": "/jəˈreɪniəm/",
+    "British": "/jʊˈreɪniəm/"
+  },
+  "definition": "n. （化学元素）铀",
+  "explanation": "铀是一种重要的化学元素，通常用于核能和核武器。",
+  "mnemonic_methods": {
+    "pronunciation_association": "铀的发音中有个音节'ran'，可以联想为'然'，这样有助于记住它是一种化学元素。",
+    "etymology": "铀这个词来自拉丁词'uranium'，而拉丁词源于希腊语'ouranos'，意为天空，因为铀用于核能也可以产生强大的能量。"
+  },
+  "example_sentences": [
+    "科学家正在研究如何更安全地处理uranium。| Scientists are researching how to handle uranium more safely."
+  ]
+}

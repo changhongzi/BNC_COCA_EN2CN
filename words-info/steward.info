@@ -1,0 +1,16 @@
+{
+  "word": "steward",
+  "pronunciation": {
+    "American": "/ˈstu ərd/",
+    "British": "/ˈstjuː əd/"
+  },
+  "definition": "n. 乘务员；服务员；管家；执事",
+  "explanation": "Steward 是一个名词，主要指负责管理或监督特定事物的人员。",
+  "mnemonic_methods": {
+    "pronunciation_association": "Steward这个词的发音中含有“stew”，而stew通常指的是炖菜，可以联想到在家庭或航空业中负责餐饮服务的人员。",
+    "etymology": "Steward源自古英语stīweard，stīgan（居住）+ weard（守卫），原指负责领主财产的人，后来扩展为指负责管理或监管某种资源或服务的人。"
+  },
+  "example_sentences": [
+    "作为酒店的steward，他负责管理供应链和餐饮服务。|As a steward of the hotel, he is in charge of managing the supply chain and catering services."
+  ]
+}
